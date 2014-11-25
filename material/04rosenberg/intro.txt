@@ -1,0 +1,22 @@
+ 
+Hello everyone and welcome to phyloseminar.org. 
+This is the fourth seminar, and the second in our series on the gene-tree species-tree problem. 
+The next series will be on the crossover between phylogenetics and infectious disease research. 
+For one reason or another, the ID folks were hesitant to submit abstracts without a direct invitation, so I just selected some people I think do top-quality research rather than put it to a vote. 
+There will be four talks, given by Trevor Bedford, Marco Salemi, Philippe Lemey, and Sergei Kosavosky Pond.
+I'm pretty excited about that lineup and I hope you are too.
+
+As I have said before, it would be great if a lab group would volunteer to be the designated audience, and if that could be you please let me know. 
+That would mean that you could avoid watching me watch the speaker.  
+It's just easier for the speakers if they get at least a little feedback. 
+ 
+Speaking of which, we want to get lots of questions today.
+If you have a question, please either type it into the message box, and I will read it to the speaker.
+Another option, which is possible if you have already debugged your audio, is to just type "question" into the message box and I will turn on your audio.
+ 
+Our speaker today is Noah Rosenberg, who is an associate professor at the University of Michigan. 
+Noah, started out doing a Ph.D. in pure math then got distracted by biology, completing a Ph.D. with xxx.
+He then did a postdoc with XXX at the University of Southern California.
+Noah's research spans a broad range, from proving theorems about evolutionary models to quite applied data-driven work on the inference of human evolutionary history.
+He is going to treat us to a little theory today in his talk entitled "Consistency properties of species tree inference algorithms under the multispecies coalescent."
+ 

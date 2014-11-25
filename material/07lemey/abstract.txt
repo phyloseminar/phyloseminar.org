@@ -1,0 +1,17 @@
+Emerging infectious diseases continue to appear all over the world, and
+importantly, they have also risen significantly over time after. Having the
+potential to quickly adapt to new hosts and environments, RNA viruses are
+prime candidates to emerge as global threats to human health. Their rapid
+rate of evolution, however, also turns viral genomes into valuable resources
+to reconstruct the spatial and temporal processes that are shaping epidemic
+or endemic dynamics.
+
+In this seminar, I will highlight recent developments in phylogenetic
+diffusion models that tie together sequence evolution and geographic history
+in a coherent statistical framework. Both discrete and continuous
+phylogeographic models have recently been implemented in a Bayesian
+statistical approach. I will position this approach among other popular
+phylogeographic methods, and then focus on applications in viral molecular
+epidemiology to demonstrate their use. Finally, I will hint at future
+extensions that may provide entirely new opportunities for phylogeographic
+hypothesis testing.

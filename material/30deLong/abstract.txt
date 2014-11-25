@@ -1,0 +1,12 @@
+The challenges of dissecting naturally occurring microbial assemblages, with
+respect to their community composition, interspecies interactions, functional
+attributes, and activities, are numerous and daunting. For many years, these
+challenges impeded our understanding of the properties and dynamics of
+microbial communities, and thus hindered development of the field of microbial
+ecology. Enter Carl Woese: the theory and application of molecular
+phylogenetics and genomics in studies of microbial evolution and ecology can be
+traced directly to Woese and one of his primary collaborators, Norman Pace.
+This lecture will trace the logic and roots of the application of molecular
+phylogenetics and genomics to the study of microbial ecology, through a
+historical review and examination of its past and current applications.
+

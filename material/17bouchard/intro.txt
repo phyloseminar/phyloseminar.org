@@ -1,0 +1,16 @@
+
+Hello everyone.
+We are in the middle of a three-part series of talks describing the work of young researchers who are extending phylogenetic computation beyond the IID models to which we are accustomed.
+A month ago we had a very nice talk from Oscar Westesson, today, we have Alex Bouchard Cote on October 18, and then Nicolas Rodrigue on November 10th.
+
+We encourage questions during the talk, if you have one you can do one
+of two things. First you can just type your question into the meeting
+message box. Alternatively, you can type there that you have a question.
+In that case I will stop the speaker and turn on your microphone.
+
+As I mentioned, today's speaker is Alex Bouchard Cote.
+I first heard of his work on the Poisson Indel Process through Lior Pachter, who said that it was the most interesting and exciting development in phylogenetics he saw this year.
+Alex's PhD advisor was the very well known Berkeley statistician Michael Jordan.
+Alex skipped doing a postdoc, and went straight to a faculty position in the highly regarded statistics department at UBC.
+I'm very happy to have him speaking today, and his talk is entitled "The poissson indel process."
+

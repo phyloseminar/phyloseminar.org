@@ -1,0 +1,18 @@
+Hello everyone, and welcome to phyloseminar.org.
+
+This is the first talk in a three-part series of talks on rates and
+dates. Our first speaker will be Tanja Gernhard today, then Dan Rabosky
+in late October and Helene Morlon in early December. Note that the dates
+for those latter talks are going to shift around a bit.
+
+We encourage questions during the talk, if you have a question please go
+ahead and type your question into the meeting message box.
+
+I've known Tanja since 2006, when she was doing her diplom with Mike Steel in Christchurch, NZ.
+She continued to work there with Mike for her PhD, along with her official PhD advisor, Anusch Taraz, TU München, Germany
+2007: Visiting researcher at the Biomathematics Research Institute Christchurch, New Zealand
+2008-2011: PostDoc with Prof. Sebastian Bonhoeffer, ETH Zürich, Switzerland
+2011-now: Junior group leader (SNF-Ambizione Fellow), ETH Zürich, Switzerland
+She has done all sorts of interesting work concerning sochastic processes and phylogenetics, and we're quite lucky to have her here today.
+Her talk today is entitled "Inferring macroevolutionary processes based on phylogenetic trees".
+

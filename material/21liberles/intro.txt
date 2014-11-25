@@ -1,0 +1,15 @@
+
+Hello everyone.
+This is the first talk in a three-part series of talks describing biophysical aspects of molecular evolution.
+Today we are going to be hearing from David Liberles, then Richard Goldstein in April, and finally David Pollock in May.
+
+We encourage questions during the talk, if you have one you can do one
+of two things. First you can just type your question into the meeting
+message box. Alternatively, you can type there that you have a question.
+In that case I will stop the speaker and turn on your microphone.
+
+As I mentioned, today's speaker is David Liberles.
+He did his Ph.D. in the Dervan group at Caltech working on nucleic acid chemistry.
+Then, doing a postdoc in the Benner group, he shifted his focus to computational methods while bringing that wealth of chemistry experience with him.
+Since then he has worked on a variety of topics in molecular evolution, including work on adaptive evolution, gene-tree species-tree reconciliation, and of course biophysical aspects of sequence evolution.
+

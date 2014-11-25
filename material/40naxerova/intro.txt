@@ -1,0 +1,17 @@
+Hello everyone, and welcome to phyloseminar.org, a project supported by the
+Society of Systematic Biologists.
+
+Today is the first talk in a series of two talks on phylogenetic approaches to
+cancer. Today we will hear from Kamila Naxerova, and second we will have Roland
+Schwarz from Cambridge talking about "phylogenetic quantification of
+intra-tumour heterogeneity"
+
+Kamila has been a PhD student and then postdoctoral fellow at Harvard
+University and Massachusetts General Hospital since 2009, advised by Rakesh
+Jain. The focus of her work there has been on the work she is going to be
+talking about today, which is phylogenetic analysis of human primary cancers
+and metastases. Before that, she got her master's degree in Heidelberg and has
+worked on various projects at the intersection of informatics and cancer,
+including looking for prognostic gene expression signatures in breast cancer,
+and performing a molecular characterization of lymphoma cell lines. Thanks for
+speaking, Kamila, and I'm looking forward to your talk.

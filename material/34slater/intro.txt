@@ -1,0 +1,17 @@
+
+Hello everyone, and welcome to phyloseminar.org.
+
+First I would like to gratefully acknowledge the support of the Society of Systematic Biologists.
+
+Today is the third talk of a series of three talks on the promise and challenges of using fossils in phylogenetics.
+Our first speaker on this subject was Tracy Heath on the Fossilized Birth Death process, and then we had Dan Ksepka who gave a very interesting and practical description of integrating fossils into phylogenies.
+Today we have Graham Slater.
+
+Graham is a evolutionary biologist by training. He got his bachelors in Zoology at University College London, and his PhD at UCLA.
+He has recently done quite a lot of interesting methods work, such as developing methods for Approximate Bayesian Computation using incompletely sampled data, and most recently using posterior predictive simulation to detect early bursts of evolution.
+He is a co-editor on a recent special issue of Methods in Ecology and Evolution on using fossils and phylogenies for comparative analyses of diversification and trait evolution, so I suggest looking at that for more details.
+He one of the people pushing forward development of comparative evolutionary methods in the R language, and is a major contributor to Luke Harmon's GEIGER package.
+Biologically speaking he is interested in cats and dogs.
+Graham is currently a researcher at the Smithsonian.
+
+Welcome, Graham, to phyloseminar, and I'm looking forward to your talk.

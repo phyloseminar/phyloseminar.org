@@ -1,0 +1,16 @@
+
+Hello everyone, and welcome to phyloseminar.org, which is supported by the Society of Systematic Biologists.
+
+Today is the first talk of a series of two talks on a project that I think of being obvious and impossible at the same time.
+The idea is to aggregate all of the knowledge that we have about individual groups of organisms from the distinct trees that people are generating into one overall tree.
+This project is called the Open Tree of Life.
+We will have two talks from people working on the Open Tree of Life, first from Karen Cranston today and then next from Stephen Smith in one week.
+
+When I think about Karen I think about her excellent work on big data projects, but she started off doing research on both applied and theoretical aspects of phylogenetics.
+She did her PhD at the University of Alberta, Edmonton, under the direction of Bruce Rannala, and developed some interesting ideas concerning summarizing tree posteriors and gene-tree species-tree reconciliation.
+
+Since then Karen has been a part of every neat big data project in phylogenetics that I am aware of.
+This includes the encyclopaedia of life, iPlant, dryad, and the open tree of life.
+She is a staunch open access and open data advocate, and is currently a bioinformaticist at NESCENT.
+
+Welcome, Karen, to phyloseminar, and I'm looking forward to your talk.

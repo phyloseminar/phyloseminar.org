@@ -1,0 +1,17 @@
+Most microorganisms cannot be grown in pure culture (or at least not
+easily). This has been apparent for decades by comparing the number of
+cells seen under a microscope to the fraction of those cells that will
+grow into colony forming units (typically <1%). The objective
+classification of cellular life by comparative rRNA analysis pioneered by
+Carl Woese provided the first grand view of the tree of life and also
+provided the reference framework upon which his friend and colleague,
+Norman Pace, developed ways to directly survey microbial communities via
+their rRNA sequences without the need to grow them. This put our degree of
+ignorance of the microbial world into perspective: dozens of major
+microbial lineages have emerged over the last 20 years that lack even a
+single cultured representative. New approaches, such as deep metagenomics
+and single cell genomics, are now transforming the rRNA-based phylogenetic
+outlines of the tree of life into a fully-fledged genome-based view of the
+tree. I will present a recent snapshot overview of the genome tree of the
+bacterial and archaeal domains and examples of functional insights in the
+context of a more complete view of microbial evolution.

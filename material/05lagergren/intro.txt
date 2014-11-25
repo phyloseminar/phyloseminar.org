@@ -1,0 +1,18 @@
+ 
+Hello everyone and welcome to phyloseminar.org. 
+This is the fifth seminar, and the third in our series on the gene-tree species-tree problem. 
+The next series will be on the crossover between phylogenetics and infectious disease research. 
+There will be four talks, 
+Trevor Bedford  	April 23rd
+Marco Salemi 		May 3rd
+Philippe Lemey 		July 16th 
+Sergei Kosavosky Pond   August.
+Even if you don't work on infectious disease, I hope you can come to some of these talks, as these speakers do truly cutting-edge research which I think will be interesting for those of you working on more traditional phylogenetics topics.
+
+As I have said before, it would be great if a lab group would volunteer to be the designated audience, and if that could be you please let me know. 
+That would mean that you could avoid watching me watch the speaker.  
+ 
+Speaking of which, we want to get lots of questions today. If you have a question, please either type it into the message box, and I will read it to the speaker. Another option, which is possible if you have already debugged your audio, is to just type "question" into the message box and I will turn on your audio.
+ 
+Our speaker today is Jens Lagergren, who is a professor in computer science and computational biology at the Stockholm Bioinformatics Center. He has a broad collection of research interests in computational biology, from computational complexity proofs to probabilistic methods for data analysis. Today he will be telling us about one of his main research programs in a talk entitled "Probabilistic Analysis of gene families with respect to gene duplication, gene loss, and lateral gene transfer."
+ 

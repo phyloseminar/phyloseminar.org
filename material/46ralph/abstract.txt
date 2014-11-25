@@ -1,0 +1,12 @@
+Often, the summary statistics of population genetics are framed in the
+setting of Kingman's coalescent or related models.  These statistics
+can be alternatively thought of as descriptive statistics of the
+realized population pedigree-with-recombination, in a way that has
+become much more useful in the era of whole-genome sequencing.  For
+instance, pairwise number of nucleotide differences is proportional to
+"effective population size", which is sometimes more usefully thought
+of as an estimate of the average length of the path through the
+pedigree to the most recent common ancestor at a randomly chosen locus
+(with an explicit standard error). Another example is the pairwise
+distribution of long tracts of IBD, which provides an estimate of a
+functional of the entire distribution of such paths.

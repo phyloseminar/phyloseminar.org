@@ -1,0 +1,29 @@
+Tumour heterogeneity, i.e. the genomic diversity of cancer cells within a single tumour, is thought to 
+be the source of chemotherapy resistance. In many cancers, this heterogeneity is not limited to 
+point mutations but includes large scale genomic rearrangements and endoreduplications that lead 
+to aberrant copy number (CN) profiles. Reconstruction of the evolutionary tree of cancer within the 
+patient allows us to quantify and understand the aetiology of tumour heterogeneity. In some 
+cancers, such as high-grade serous ovarian cancer (HGSOC), CN profiles predominate. However tree 
+inference is hindered by unknown phasing of major and minor CNs, horizontal dependencies 
+between adjacent genomic loci and the lack of curated CN profile databases to use as a reference for 
+probabilistic inference. 
+
+We recently developed MEDICC (Minimum Event Distance for Intra-tumour Copy number 
+Comparisons), an algorithm for phylogenetic reconstruction based on CN profiles. MEDICC uses 
+finite-state transducers (FSTs) to encode a minimum evolution criterion that determines pairwise 
+evolutionary distances between CN profiles. This minimum-event distance computes the smallest 
+number of amplification and deletions of arbitrary length that are necessary to transform one 
+genomic profile into another. The FST-based approach allows us thereby to model dependencies 
+between sites, similar to the problem of modelling indels on trees in traditional phylogenetics. Using 
+this approach we are able to phase major and minor CN profiles to the parental alleles and infer 
+trees and ancestral genomes, while minimizing the overall tree length. The distance measure is 
+formulated such that the resulting matrix of pairwise distances has a direct mapping to a positive 
+semi-definite kernel matrix. This allows us to perform principal component analysis in evolutionary 
+space and use this embedding to numerically quantify tumour heterogeneity and other quantities of 
+interest, such as the degree of clonal expansion, using spatial statistics. 
+
+I will talk about the basics of FST-based phylogenetic inference and explain how they can be used to 
+model genomic rearrangement events with horizontal dependencies. I will explain how this 
+approach implicitly maps genomes into a feature space in which we can quantify heterogeneity. 
+Finally, I will present clinical results that show how this quantification of ITH can predict resistance 
+development in the hospital.

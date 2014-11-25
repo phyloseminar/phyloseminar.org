@@ -1,0 +1,16 @@
+
+Hello everyone, and welcome to phyloseminar.org.
+We are now in a session of three talks demonstrating phylogenetics software.
+Last time we heard about R tools for phylogenetic analysis from Liam Revell and Klaus Schliep, then about HyPhy from Sergei Kosakovsky Pond, and today we will hear from Sebastien Hohna and John Huelsenbeck about RevBayes.
+
+I'm happy to announce that the next session will be about biophysical aspects of sequence evolution, and the first two speakers will David Liberles on March 29th and then Richard Goldstein in April.
+We're still on the lookout for a third speaker.
+
+Let me remind you that if you have a question during the talk, please type it into the message box and I will read it to the speaker, or let me know that you would like for me to turn on your audio.
+
+Today's speakers are John Huelsenbeck and Sebastian Hohna.
+John is well known to this audience as one of the primary figures in the emergence of Bayesian phylogenetics and the developer of MrBayes.
+He is a professor in the department of integrative biology at UC Berkeley.
+Sebastian seems to be well on his way to being a leader in the next generation of Bayesian phylogeneticists, having done interesting work on priors and operators for Bayesian MCMC.
+He is a doctoral student at Stockhom university.
+I'm really glad that these two were willing to share their time with us today to introduce their latest invention, RevBayes.

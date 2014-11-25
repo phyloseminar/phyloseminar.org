@@ -1,0 +1,13 @@
+ 
+Hello everyone and welcome to phyloseminar.org. 
+This is the seventh seminar, and the second in our series on phylogenetics and infectious disease.
+As I have said before, it would be great if a lab group would volunteer to be the designated audience, and if that could be you please let me know. 
+Right now, I am the default audience, and I'm sure that you are all bored of watching me.
+ 
+Let me remind you that if you have a question during the talk, please type it into the message box and I will read it to the speaker, or let me know that you would like for me to turn on your audio.
+ 
+We are very lucky to have Philippe Lemey speaking today.
+Philippe got his masters in pharmaceutical sciences, then a masters in bioinformatics, then his PhD in medical sciences, all at the University of Leuven.
+He has already written 67 referreed papers, edited a phylogenetic handbook, and if you are interested in the phylogenetics of infectious disease you are no doubt already aware of his work.
+His talk today is entitled "Phylogenetic diffusion models and their applications in viral epidemiology"
+

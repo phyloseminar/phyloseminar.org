@@ -1,0 +1,31 @@
+
+Today, we are very excited to have Adam Siepel speaking on phyloseminar.
+This is the second talk in a series on evolutionary genomics.
+The next talk in this series will be Jason Stajich speaking on June 29th
+at 12pm PST.
+
+We encourage questions during the talk, if you have one you can do one
+of two things. First you can just type your question into the meeting
+message box. Alternatively, you can type there that you have a question.
+In that case I will stop the speaker and turn on your microphone. If you
+decide to do that, then please make sure your audio is debugged before
+hand, and that you are using some system which will not give us an echo,
+such as headphones.
+
+As I mentioned, today's speaker is Adam Siepel.
+I was most familiar with his work on phylo-HMMs with David Haussler and
+others, but I was pretty impressed looking through his list of
+publications.
+Here are some examples.
+A computer program designed to screen rapidly for HIV Type 1
+intersubtype recombinant sequences with Bette Korber back in 1995.
+Then he got interested in gene order phylogeny, OK, I was interested in
+that too, and then...
+A simplified hillslope erosion model with vegetation elements for
+practical applications in the Journal of Hydrology.?
+Well, anyway, I should let him get on with his talk entitled
+"Bayesian inference of ancient human demography from individual genome
+sequences"
+
+
+

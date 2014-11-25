@@ -1,0 +1,19 @@
+
+Hello everyone, and welcome to phyloseminar.org.
+
+Before we get started I would like to gratefully acknowledge the support of the Society of Systematic Biologists, which is now supporting phyloseminar.
+
+Today is the second talk of a series of three talks on the promise and challenges of using fossils in phylogenetics.
+Our first speaker on this subject was Tracy Heath on the Fossilized Birth Death process.
+Today we have Dan Ksepka on "Integrating Fossils into phylogenies".
+Dan will be followed by Graham Slater who will be speaking in a week.
+
+Dan is a paleontologist by training. He got his bachelors in Geology at Rutgers, then his masters and PhD at Columbia.
+There he started working on extinct penguins, which is a significant interest of his that has continued to the present day.
+In looking this morning at his work, I could certainly see the appeal, as this group is quite old and diverse.
+Dan is currently a researcher at NC state and NESCent.
+
+Ironically, I'm heading to NESCent this morning for a BEAST2 workshop, and my schedule is such that I won't be able to stay for Dan's whole talk.
+So, it's going to be up to the rest of you to ask the moronic questions that are usually my role here!
+
+

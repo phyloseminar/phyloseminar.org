@@ -1,0 +1,9 @@
+The fields of phylogenetics and population genetics share several
+important models including gene trees, species trees, ancestral
+recombination graphs (ARGs), and pedigrees. These models are all
+closely related and can be viewed as subgraphs of one another. Amongst
+them, the ARG is particularly central and if inferred efficiently can
+enable many applications such as inference of selection and
+demography. Here, I will review various helpful mathematical tools for
+working with ARGs, including what we call the threading algorithm, the
+branch graph, and the leaf trace visualization.

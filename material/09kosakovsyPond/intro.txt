@@ -1,0 +1,11 @@
+ 
+Hello everyone and welcome to phyloseminar.org. 
+This is the ninth seminar, and the last in our series on phylogenetics and infectious disease.
+The next collection of talks is going to be on links between macroevolutionary models and phylogenetics.
+
+Let me remind you that if you have a question during the talk, please type it into the message box and I will read it to the speaker, or let me know that you would like for me to turn on your audio.
+ 
+We are very lucky to have Sergei Kosakovsky Pond speaking to us today.
+Sergei is especially well known for his work developing methods in molecular evolution focused on the study of viruses, and for developing the HyPhy software package for likelihood-based testing of phylogenetic hypotheses.
+He currently an Assistant Professor at the UCSD school of medicine.
+His talk today is entitled "Accurate estimation of evolutionary attributes of coding sequences and pattern analysis in large collections of viral and mammalian genes."

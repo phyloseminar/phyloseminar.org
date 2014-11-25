@@ -1,0 +1,21 @@
+
+Today, we are very excited to have Joe Felsenstein on phyloseminar.
+This is the first talk in a series on macroevolution and phylogenetics.
+Next, Luke Harmon will be speaking on Thursday, February 24th at 9h PST.
+Then, Brian O'Meara will be giving a talk Wednesday, March 16th, with, apparently a lot of new material.
+
+Before we start, I notice that many of you are here for the first time.
+Welcome!
+We encourage questions during the talk, if you have one you can do one of two things. First you can just type your question into the meeting message box. Alternatively, you can type there that you have a question. In that case I will stop Joe and turn on your microphone. If you decide to do that, then please make sure your audio is debugged before hand, and that you are using some system which will not give us an echo, such as headphones.
+
+Speaking of the message box, let's go ahead and warm it up.
+For the next series of talks, I would like to have some software demonstrations.
+If there is a software package which you would like to see demonstrated on phyloseminar, please type the name into the message box.
+
+And now onto our talk after a very brief introduction.
+
+A friend once remarked to me that not every field has a godfather, but likelihood-based phylogenetics certainly does.
+I would say that Joe was there at the beginnings of the field, but in fact he was was the beginning of the field.
+He developed much of the original mathematical, statistical and computer science machinery which is now standard, and his contributions have ranged from the theoretical to the practical.
+Recently, he wrote the book on phylogenetics, which I am sure that many of you in the audience do own.
+So Joe, 

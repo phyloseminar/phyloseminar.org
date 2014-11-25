@@ -1,0 +1,34 @@
+
+Hello everyone. My name is Erick Matsen and this is the second seminar of phyloseminar.org.
+
+Our speaker today is Ward Wheeler, but before I introduce him I have a couple of quick notes.
+First, I'm excited to announce that the next set of talks will be about gene-tree species-tree analysis.
+After the voting closed, I sent out an invitation to everyone I know who does that sort of work.
+They sent me abstracts, which I have put up on the webpage.
+You simply have to click on the new "vote" tab on the phyloseminar.org website, which will show you the set of abstracts and allow you to vote through Doodle.
+
+I hope that there will be a number of questions during and after the talk, and if you have one you can do one of two things. First you can just type your question into the meeting message box. Alternatively, you can type there that you have a question. In that case I will stop Ward and turn on your microphone. If you decide to do that, then please make sure your audio is debugged before hand, and that you are using some system which will not give us an echo, such as headphones.
+
+This is the second talk in our series on alignment, and I am very proud to present Ward Wheeler from the American Museum of Natural History.
+Ward has been thinking about the interrelationship between phylogeny and alignment for quite a while, and the roots of the dynamic homology approach go back to 1993.
+I met Ward last spring while giving a talk at AMNH.
+I had been warned that giving a talk there would be the academic equivalent of sticking my head in the lion's jaws, but it ended up being quite a pleasant experience.
+Getting to know Ward has been great: he posesses a sharp mind and is a really nice guy, but I wouldn't suggest trying to convince him of the virtues of hand alignment.
+
+OK, Ward, take it away.
+
+
+
+So let's say that I'm a biologist with a collection of sequences and I'd like to analyze them in some way that takes uncertainty in the alignment into account.
+What advantages does the dynamic homology approach have over, say, the Bayesian approach?
+
+
+OK, thank you very much, Ward, and I hope that there will be some more questions.
+Simply type "question" into the message box and I will call on you.
+While waiting for the questions to come in, I wanted to repeat that the next set of talks will be about gene-tree species-tree analysis, and I have put some choices of abstracts up on the phyloseminar.org website; to vote simply click on the "vote" tab.
+
+OK, if there aren't any more questions, then I'd like to thank Ward again. 
+The next set of talks will be in February, and the schedule will of course be on the website.
+Again, don't forget to vote!
+
+

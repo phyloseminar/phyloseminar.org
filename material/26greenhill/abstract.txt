@@ -1,0 +1,11 @@
+Charles Darwin famously noted that there were many curious parallels between
+the evolution of species and languages. Since then evolutionary biology and
+historical linguistics have used trees to conceptualise evolution. However,
+whilst evolutionary biology developed the vast discipline of phylogenetic
+methods, linguistics dabbled with computational methods before rejecting them.
+The last decade or so has seen the introduction of phylogenetic methods into
+linguistics, often with some startling results. In this talk I will present
+some of these studies, and discuss how phylogenetics can help us grapple with
+the problems of linguistic and cultural evolution. These problems range from
+testing population dispersal hypotheses, to investigating the shape of cultural
+evolution, to inferring the rates at which languages change.

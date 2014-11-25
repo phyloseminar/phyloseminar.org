@@ -1,0 +1,14 @@
+
+Hello everyone, and welcome to phyloseminar.org.
+We are now in a session of three talks demonstrating phylogenetics software.
+Last time we heard about R tools for phylogenetic analysis from Liam Revell and Klaus Schliep, today we will hear from Sergei Kosakovsky Pond about HyPhy, and then Sebastien Hohna and John Huelsenbeck will talk about RevBayes on February 29th.
+
+Let me remind you that if you have a question during the talk, please type it into the message box and I will read it to the speaker, or let me know that you would like for me to turn on your audio.
+
+Today's speaker is Sergei Kosakovsky Pond.
+Sergei did his graduate work with Muse on models of sequence evolution.
+In doing so, he wrote a computer program to do inferences under the models that they cared about.
+This is nothing so unusual-- many graduate students write software packages.
+But Sergei didn't just write his own software package-- he wrote his own language in which one could express an enormous variety of models and then he wrote software to perform inference under them.
+I am speaking, of course, about the HyPhy platform, which has a GUI, machine learning algorithms, R and Python APIs, and many other goodies.
+We are lucky today to have Sergei introducing this work today.

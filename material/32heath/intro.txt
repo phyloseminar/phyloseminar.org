@@ -1,0 +1,13 @@
+
+Hello everyone, and welcome to phyloseminar.org.
+
+Today is the first of the new generation of phyloseminars, which for the foreseeable future will be held on Google+ hangouts. I think that it will provide an accessible and stable platform as we move into the future. This is a new technology for us, and so although we have practiced and done a trial run with Tracy, we may require some patience. But, you are here, and we are here, so that's good. One change you might want to know about is the way that questions are asked and answered.
+
+Before we get started I would like to gratefully acknowledge the support of the Society of Systematic Biologists, who are now supporting phyloseminar by buying some of the time of Brian Claywell. Brian is the person behind the new website and who converted most of the old seminars to a format that could be uploaded to YouTube.
+
+Today is the first talk of a series of three talks on using fossils in phylogenetics. As we all know quite well, there are limitations on what we can do with just present-day molecular data in inferring phylogenetic trees. With fossil data we can overcome some of those limitations by gathering information about events on the internal edges of the tree. However, it ain't easy to incorporate that information.
+
+Our first speaker on this subject is Tracy Heath, speaking today, who will be followed by Daniel Ksepka and Graham Slater who will be speaking early in December. Tracy did her PhD with David Hillis at UT Austin, and in the middle she spent some time working with Mike Steel and others at the Biomathematics Research Centre, University of Canterbury, New Zealand. Now she is a postdoc working with Mark Holder at the university of Kansas and John Huelsenbeck at UC Berkeley. She has done some really neat work on visualizing tree space, taxon sampling, and most recently using new school statistics to learn things from phylogenies.
+
+
+ABI grant Jeremy Brown

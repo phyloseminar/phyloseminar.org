@@ -1,0 +1,71 @@
+---
+layout: default
+
+navigation:
+- text: home
+  url: /index.html
+#- text: schedule
+#  url: /schedule.html
+#- text: connect
+#  url: /connect.html
+- text: attending
+  url: /attending.html
+- text: recorded
+  url: /recorded.html
+- text: about
+  url: /about.html
+social:
+- text: Google+
+  url: https://plus.google.com/102253747763633136709
+  icon: icon-google-plus
+  attributes: rel="publisher"
+- text: YouTube
+  url: http://youtube.com/phyloseminar
+  icon: icon-youtube
+- text: Twitter
+  url: http://twitter.com/phyloseminar
+  icon: icon-twitter
+- text: Google Groups
+  url: https://groups.google.com/forum/?fromgroups#!forum/phyloseminar
+  icon: icon-group
+- text: RSS
+  url: http://feeds.feedburner.com/phyloseminar
+  icon: icon-rss
+---
+
+<a class="sr-only" href="#main">skip navigation</a>
+<nav class="navbar navbar-default navbar-static-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button title="toggle navigation" type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">
+        <img src="images/brand.png" alt="phyloseminar.org logo"/>
+        <span class="sr-only">home</span>
+      </a>
+    </div>
+    <div class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        {% for link in page.navigation %}
+        <li {% if page.url == link.url %}class="active"{% endif %}><a href="{{ link.url | remove_first:'/' }}">{{ link.text }}</a></li>
+        {% endfor %}
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        {% for link in page.social %}
+        <li class="pull-left">
+          <a title="{{ link.text }}" href="{{ link.url }}" {{ link.attributes }}>
+            <i class="{{ link.icon }} icon-large" aria-hidden="true" role="presentation"></i>
+            <span class="sr-only">{{ link.text }}</span>
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</nav>
+<main id="main" class="container" role="main">
+  {{ content }}
+</main>

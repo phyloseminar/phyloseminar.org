@@ -1,0 +1,12 @@
+Hello everyone, and welcome to phyloseminar.org, a project supported by the Society of Systematic Biologists.
+
+Today is the second talk in a mini-course of three talks on genome-scale phylogeny.
+First we heard from Gergely Szollosi, this week from Bastien Boussau, then next week from Eric Tannier.
+
+Bastien first made himself known in work on non-reversible models of evolution, by both developing efficient computational methods for inference under such models and applying this work to estimate ancestral genome content.
+This work led to some interesting conclusions concerning the environment that harbored the last universal common ancestor of life as well as the common ancestors of the bacterial and archaeal lineages.
+He also has a long-term research program in horizontal transfer of genes.
+He has done fantastic work recently joint with the other two speakers of this mini-course on inference and applications of horizontal gene transfer, and I believe that is what he is going to be talking about today.
+Bastien did his PhD under the supervision of Manolo Gouy in Lyon, France, then did a postdoc with John Huelsenbeck at UC Berkeley, and now has returned to Lyon and is a CNRS researcher there.
+Thanks for speaking, Bastien, and I'm looking forward to your talk.
+

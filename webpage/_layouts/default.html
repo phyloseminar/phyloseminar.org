@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="BolB8QV67F58m_KZ6fCLMSyzumbg4MhwbcH_VBQU_V8"/>
+    <title>{{ page.title }}</title>
+    <link rel="shortcut icon" type="image/png" href="images/favicon.png">
+    <link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="phyloseminar.css">
+    <link rel="alternate" type="application/rss+xml" href="index.rss" title="RSS 2.0">
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-18313469-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    <script type="text/javascript">
+      function localize_date(str, options) {
+        var d = new Date(str);
+        var language = window.navigator.userLanguage || window.navigator.language;
+        if (typeof(options) === 'undefined') {
+          options = { weekday: "long", year: "numeric", month: "long", day: "numeric", hour: "numeric", minute: "numeric", timeZoneName: "short" };
+        }
+        document.write(d.toLocaleString(language, options));
+      }
+    </script>
+  </head>
+  <body id="{{ page.id }}">
+    {{ content }}
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.js"></script>
+    <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.js"></script>
+  </body>
+</html>

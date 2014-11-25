@@ -1,0 +1,11 @@
+Hello everyone, and welcome to phyloseminar.org, a project supported by the Society of Systematic Biologists.
+
+Today is the first talk in a mini-course of three talks on genome-scale phylogeny, with a special focus on the microbial case.
+Today we are going to hear from Gergely Szollosi, next week from Bastien Boussau, then third from Eric Tannier.
+
+Gergely comes to us with a background in biophysics and what I would think of as more classical mathematical biology, contributing to our knowledge of subjects such as kinesin dynamics, evolutionary game theory and the evolution of robustness.
+He then was a Marie Curie Fellow at the Bioinformatics and Evolutionary Genomics Group in Lyon, and made a grand entry into phylogenetics with a stream of papers with Tannier, Daubin, Boussau, and other French collaborators.
+His models and analytic techniques have opened up new directions in genome-scale phylogenetics, and I look forward to seeing what the future brings.
+Gergely is currently a researcher at the ELTE in Budapest, Hungary.
+Thanks for coming, Gergely, and I'm looking forward to your talk.
+

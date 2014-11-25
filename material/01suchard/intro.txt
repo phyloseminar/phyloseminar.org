@@ -1,0 +1,7 @@
+
+For the first two speakers on phyloseminar.org, I decided to invite two researchers who have thought a lot about the interrelationship between phylogeny and alignment: Marc Suchard, representing the Bayesian perspective, and Ward Wheeler, representing the perspective of dynamic homology. Our speaker today is Marc Suchard, who has established many important results and methods in Bayesian phylogenetics.
+He is a co-author of the Bali-Phy alignment and phylogeny co-estimation package along with Benjamin Redelings.
+More recently, he has also investigated the impact of alignment on phylogenetic inference with Wong and Huelsenbeck.
+He also has substantial interests in the inference of population history using phylogenetics, as well as in adapting phylogenetic methods to study viral evolution.
+
+

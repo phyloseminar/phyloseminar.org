@@ -1,0 +1,16 @@
+
+
+Title: "What poultry breeders and guinea pigs have to tell us about statistical nonmolecular phylogenetics"
+
+Abstract:
+We are far from having an understanding of the determination of morphological characters at the genome level, so most evolutionary biologists working on them still need to use phenotypic approaches.   I will discuss the prospects for using the tools of quantitative genetics, which has faced the same dilemma for the past century.  I will use as examples three projects of my own.  One, which is joint work with Fred Bookstein, adapts the tools of morphometrics, of which he is a chief developer, to modeling change of morphological forms on phylogenies.   The second is a similar project that asks how to best place fossil forms into a phylogeny of present-day species when there is molecular data enabling us to get a good estimate of the phylogeny for those species.   The third models discrete 0/1 characters using the Threshold Model developed by Sewall Wright for his work on guinea pigs.  All of these lead to asking whether we can connect Brownian Motion models with quantitative genetics models.   In all such cases we will have limits on what we can infer, and need to be aware of the need to carry that uncertainty through any subsequent inference using these results.
+
+
+World times:
+
+Japan           02:00 (02:00 AM) on Tuesday, January 25
+New Zealand     06:00 (06:00 AM) on Tuesday, January 25
+West Coast USA  09:00 (09:00 AM) on Monday, January 24
+East Coast USA  12:00 (12:00 PM) on Monday, January 24
+England         17:00 (05:00 PM) on Monday, January 24
+France          18:00 (06:00 PM) on Monday, January 24

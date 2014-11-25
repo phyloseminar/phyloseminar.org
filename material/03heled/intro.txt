@@ -1,0 +1,20 @@
+ 
+Hello everyone and welcome to phyloseminar.org. 
+This is the third seminar, and the first in our series on the gene-tree species-tree problem. 
+I'm now taking suggestions for next seminar themes, and would love to get your ideas about what people would like to hear about next.  
+Please just type your suggestions into the messaging box or email to me-- we'll put them up to a vote like before. 
+ 
+Also, I might mention that you are probably all quite tired of seeing me watch the speaker.  
+It would be much nicer if a lab group would volunteer to be the designated audience, and if that could be you please let me know. 
+It's just easier for the speakers if they get at least a little feedback. 
+ 
+Speaking of which, we want to get lots of  
+ 
+Our speaker today is Joseph Heled, who is a 3rd year graduate student working with Alexei Drummond. 
+Originally from Israel, Joseph lived in Los Angeles from 1990 to 1996, and worked in the software industry. 
+In his words, that was the fun part of the internet bubble. 
+He then moved to New Zealand in 1996.  
+ 
+Joseph has been interested in bioinformatics since reading Dawkins' book the Selfish Gene in the mid 80's. 
+After working for an American software company in New Zealand, he started a masters with Alexei, then worked with Biomatters for a while, the
+Now, we are very lucky to have him tell us about *BEAST and give a software demonstration. 

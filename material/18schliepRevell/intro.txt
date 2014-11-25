@@ -1,0 +1,22 @@
+
+Hello everyone, and welcome to phyloseminar.
+We are now in a session of three talks demonstrating phylogenetics software.
+Today, we will hear about R tools for phylogenetic analysis from Liam Revell and Klaus Schliep, then on January 25th Sergei Kosakovsky Pond will give a talk on HyPhy, and Sebastien Hohna and John Huelsenbeck will talk about RevBayes in February.
+I'm pretty excited about this session, and I hope you are too.
+
+We encourage questions during the talk, if you have one you can do one
+of two things. First you can just type your question into the meeting
+message box. Alternatively, you can type there that you have a question.
+In that case I will stop the speaker and turn on your microphone.
+
+
+As I mentioned, today's speakers are Liam Revell, demonstrating about his package phytools, and Klaus Schliep, demonstrating his package phangorn.
+Liam is an assistant professor in the department of biology at UMass Boston.
+He got his Ph.D. from Harvard in 2009 advised by Jonathan Losos, followed by a postdoc at NESCENT.
+
+Klaus is currently looking for a job. His PhD advisors were Mike Hendy,
+Barbara Holland David Penny and Peter Waddell, and he just finished a
+postdoc in Paris with Philippe Lopez and Eric Bapteste.
+
+I'm very happy to have them speaking today.
+

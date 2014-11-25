@@ -1,0 +1,27 @@
+Hello everyone, and welcome to phyloseminar.org. We encourage questions
+during the talk, if you have a question please go ahead and type your
+question into the meeting message box.
+
+This is the third talk in a three-part series of talks describing
+biophysical aspects of molecular evolution. First we heard from David
+Liberles, last month we heard from Richard Goldstein, and today we are
+very lucky to have his collaborator David Pollock. Then we are going to
+take a little break for the summer and then start up again with probably
+a session about rates and dates.
+
+David Pollock began his career as an undergraduate in Allan Wilson's
+laboratory at UC Berkeley. Then after a stint at the NCI, he received his
+Ph.D. in Biological Sciences from Stanford University in 1995 working
+with Ward Watt and Marc Feldman. He then spent three years at the
+National Institute for Medical Research in London and UC Berkeley on a
+Hitchings-Elion Fellowship from the Wellcome Trust working with Willie
+Taylor, Nick Goldman, and Monty Slatkin. He then spent almost two years
+at Los Alamos National Laboratories, followed by six years at Louisiana
+State University prior to coming to the University of Colorado. Dr.
+Pollock's research interests are in evolutionary genomics and molecular
+evolution, particularly the interaction between protein sequence,
+structure, and function, and molecular coevolution within and between
+proteins.
+
+  His talk today is entitled 'Adaptation, coevolution, and convergence in
+the context of protein thermodynamics'

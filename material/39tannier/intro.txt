@@ -1,0 +1,12 @@
+Hello everyone, and welcome to phyloseminar.org, a project supported by the Society of Systematic Biologists.
+
+Today is the third talk in a mini-course of three talks on genome-scale phylogeny.
+First we heard from Gergely Szollosi and Bastien Boussau, and today from Eric Tannier.
+
+Eric has a long term interest in problems relating to the evolution of genome organization.
+He came from a computer science angle by considering the problem of sorting by reversals.
+After writing quite a few important papers on that subject from a technical viewpoint, he began investigating the biological implications of this work.
+He has also done important work on incorporating genome rearrangements into phylogenetic inference.
+Most recently he has been collaborating with the other two speakers of this mini-course on large scale gene-tree species-tree inference.
+Thanks for speaking, Eric, and I'm looking forward to your talk.
+

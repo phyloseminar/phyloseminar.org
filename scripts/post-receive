@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Post-receive hook for matsen-buildbot
+# From /var/phyloseminar/.git/hooks
+cd ..
+unset GIT_DIR
+git reset --hard
+source "$HOME/.rvm/scripts/rvm"
+sh build.sh

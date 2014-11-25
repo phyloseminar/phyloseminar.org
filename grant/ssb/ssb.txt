@@ -1,0 +1,78 @@
+% Proposal for SSB funding of phyloseminar.org
+% Erick Matsen (matsen@fhcrc.org)
+
+<!--
+http://phyloseminar.org/watched.txt
+-->
+
+I started phyloseminar.org in 2009 with three goals:
+
+* *provide an international forum for the discussion of phylogenetics methodology* to complement that happening at existing meetings
+* *disseminate information on phylogenetic best practice* by having seminars freely viewable by the public
+* *reduce our carbon footprint* by meeting online rather than in person.
+
+Since that time we have had 31 speakers organized on sessions focused on a wide variety of topics covering methods and applications.
+We have had a wide range of speakers from doctoral students to well known researchers such as Joe Felsenstein, John Huelsenbeck and Norman Pace.
+
+The reception to phyloseminar has been excellent.
+Over 400 individuals keep up with announcements on Twitter, RSS, and the mailing list.
+Meetings are well attended, and the recordings are popular: in 16 month period from December 2011 to March 2013, the recordings were watched 2,576 times from all over the world.
+
+Thus far I have funded phyloseminar out of my own pocket and through research startup funding at my institution.
+My startup funding is ending soon.
+The videoconferencing service we use has transitioned to a pay service costing $5,000 per year.
+Thus far I have spent a lot of my personal time in developing the website, organizing seminars, and troubleshooting A/V issues.
+I would like to shift this work over to a programmer in my group, who could also do some much-needed work to improve the website.
+
+I am grateful that the Society of Systematic Biologists has featured phyloseminar on the systbiol.org website and hope for more interaction in the future.
+I would welcome an active role of the Society in planning seminar themes and deciding on speakers.
+I am also looking for some one-time funding to convert the seminars to a format that can be uploaded to a public video hosting site such as YouTube or Vimeo, as well as updating the website.
+Now would be an excellent time for the Society to get involved financially to ensure that this program continues into the future.
+
+As detailed below, I am requesting 37 hours of programmer time as a one-time cost to do some structural improvements and make the recordings more easily available.
+After that, I am requesting 12.25 hours per year of help to run the seminar.
+I think that these numbers are reasonable, and would be happy to discuss them with you.
+
+## Time breakdown
+
+### Structural improvements and conversion of 31 recorded seminars:
+
+Item                                                                  Time
+----                                                                  ----
+Edit and convert all seminars to standard video format                20 hours
+Upload videos to YouTube or Vimeo                                     2 hours
+Set up content delivery system for downloads                          5 hours
+Convert website to Bootstrap and improve layout                       10 hours
+
+
+### Per group of seminars (3 per year):
+
+Item                                                                  Time
+----                                                                  ----
+Think of area, contact people working in that area, answer questions  1 hour
+
+
+### Per speaker (9 per year):
+
+Item                                                                  Time
+----                                                                  ----
+Find a time with speaker to do A/V trial and talk                     15 min
+Badger speaker for title, abstract and photo                          15 min
+Update website, and check with speaker                                15 min
+Advertise talk via email, EvolDir, RSS, and Twitter                   30 min
+Do A/V trial                                                          45 min
+Follow up with SeeVogh support with technical issues                  30 min
+Research and write introduction for speaker                           30 min
+Attend talk, being there early to double-check A/V                    90 min
+Upload recording files and prepare files for playing via recording    45 min
+
+
+### Overall maintainance (once per year):
+
+Item                                                                  Time
+----                                                                  ----
+Website maintainance and updating                                     6 hours
+
+
+
+

@@ -1,0 +1,14 @@
+Hello everyone, and welcome to phyloseminar.org, a project supported by the
+Society of Systematic Biologists.
+
+Today is the second talk in a series of two talks on phylogenetic approaches to
+cancer. Two weeks ago we heard from Kamila Naxerova, and today we will have Roland
+Schwarz from Nick Goldman's group speaking on the phylogenetic quantification of
+intra-tumour heterogeneity.
+
+Roland did his undergraduate and then PhD work at the university of Wurzburg, where he developed machine learning methods for the study of microbiology, and graduated in 2009.
+Since then he has been in Nick Goldman's group at Cambridge, working on a variety of problems using machine learning techniques.
+I really encourage you to take a look at his publication list, that I've posted on the Google plus page.
+This guy has worked on everything from theoretical models of cell size to multiple sequence alignment to now molecular evolution in cancer.
+He has been a Marie Curie fellow at the EBI since 2012, and has one more year before going on the job market.
+Thank you for speaking, Roland, and I'm looking forward to your talk.

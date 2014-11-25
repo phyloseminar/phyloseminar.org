@@ -1,0 +1,11 @@
+Hello everyone, and welcome to phyloseminar.org, a project supported by the Society of Systematic Biologists.
+
+Today is the second talk in a series of two talks on the Open Tree of Life. The idea of the Open Tree is to aggregate all of the knowledge that we have about individual groups of organisms from the distinct trees that people are generating into one overall tree. Last time we heard from Karen Cranston, and today we are going to hear from Stephen Smith about some more technical aspects of this process.
+
+After a BA in Liberal Arts from Sarah Lawrence college, Stephen got his PhD under the supervision of Michael Donoghue at Yale University. He then went to NESCENT as a postdoctoral fellow and worked on the evolution of angiosperms using large-scale data approaches, after which he worked with Casey Dunn & Alexandros Stamatakis as part of iPlant at Brown. He is now an Assistant Professor at the University of Michigan in Ann Arbor, where he works on phylogenetic methods and theory. In short, he is an expert in today's topic, which is how to leverage our extensive local knowledge about the tree of life to gain global knowledge.
+
+Thanks for coming, Stephen, and I'm looking forward to your talk.
+
+
+
+http://www.lsa.umich.edu/UMICH/eeb/Home/People/stephen_smith_cv.pdf

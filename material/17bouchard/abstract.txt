@@ -1,0 +1,22 @@
+The key component of a probabilistic joint approach to tree
+and alignment inference is a Continuous Time Markov Chain (CTMC) over
+strings. Ideally, this CTMC should support tractable inference
+algorithms and should be easily extensible to support a wide range of
+evolutionary models. The classical string-valued CTMC, the TKF91 model
+(Thorne et al., 1991), is limited in both of these axes. Previous work
+has focussed on increasing the complexity of the TKF91 model, making
+the inference problem computationally more difficult (Miklos et al.,
+2004).
+
+In this work, we present a new stochastic process, the Poisson Indel
+Process (PIP), which allows simple and practical inference algorithms.
+Efficient computations are based on an exchangeable representation and
+on Poisson processes. This representation gives a natural way of
+extending the capacity of the model while keeping inference
+computationally practical.
+
+We used this process to design a joint Bayesian estimator over
+alignments and trees. We evaluated both consensus trees and alignments
+against standard baselines on synthetic and real data. These
+experiments demonstrate that competitive trees and alignments can be
+inferred using a Bayesian model equipped with a PIP prior.

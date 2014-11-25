@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="513.23346"
+   height="450.27783"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="suchard.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1422506"
+     inkscape:cx="271.68018"
+     inkscape:cy="206.18211"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1278"
+     inkscape:window-height="798"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-27.080454,-37.707901)">
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Wild West Wind;-inkscape-font-specification:Wild West Wind"
+       id="text2383"
+       sodipodi:linespacing="100%"
+       transform="translate(2.6065386,0)"><textPath
+         xlink:href="#path2436"
+         id="textPath2399">phyloseminar.ORG presents</textPath></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:none;fill-opacity:1"
+       id="path2436"
+       sodipodi:cx="355.71429"
+       sodipodi:cy="739.50507"
+       sodipodi:rx="241.42857"
+       sodipodi:ry="72.857147"
+       d="M 137.80442,708.13926 A 241.42857,72.857147 0 0 1 583.15388,715.06502 L 355.71429,739.50507 z"
+       sodipodi:start="3.5866516"
+       sodipodi:end="5.9411007"
+       transform="matrix(1.0503543,0,0,1.0339823,-94.933647,-633.30884)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ffccaa;fill-opacity:1;stroke:none"
+       id="rect3218"
+       width="174.57126"
+       height="231.52357"
+       x="196.41154"
+       y="73.838715" />
+    <image
+       xlink:href="marcphoto.jpg"
+       sodipodi:absref="/home/matsen/phylosem/announcements/01suchard/marcphoto.jpg"
+       width="160"
+       height="217"
+       id="image2433"
+       x="203.69717"
+       y="81.100494" />
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Outlaw Design Blog;-inkscape-font-specification:Outlaw Design Blog"
+       x="146.02643"
+       y="356.31516"
+       id="text3220"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3222"
+         x="146.02643"
+         y="356.31516">MARC SUCHARD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Brock Script;-inkscape-font-specification:Brock Script"
+       x="97.161392"
+       y="385.72903"
+       id="text3224"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="97.161392"
+         y="385.72903"
+         id="tspan3228"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Brock Script;-inkscape-font-specification:Brock Script">giving an online seminar concerning</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Showguide;-inkscape-font-specification:Showguide"
+       x="111.29092"
+       y="428.76187"
+       id="text3232"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3234"
+         x="111.29092"
+         y="428.76187">A Bayesian perspective on alignment</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Pointedly Mad;-inkscape-font-specification:Pointedly Mad"
+       x="26.180454"
+       y="483.54575"
+       id="text2391"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2393"
+         x="26.180454"
+         y="483.54575">Wednesday, November 18th at 1pm PST</tspan></text>
+  </g>
+</svg>

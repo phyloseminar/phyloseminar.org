@@ -1,0 +1,16 @@
+﻿Carl Woese, one of the great scientists of all time, died in December, 2012.
+Among other important contributions, he used primitive sequencing technology to
+compare small subunit (16S) ribosomal RNA sequences from different organisms
+and thereby establish the outlines of a universal tree of life.  His results
+also put in place a sequence-based reference framework within which to
+understand and articulate biological diversity.  Since this perspective is
+based on molecular sequences and not properties of organisms, it opened the
+door to begin to understand the kinds of organisms that make up the natural
+microbial world.  Prior to Woese’s sequence-based reference framework,
+microbial ecologists had to culture organisms to study them, but not many
+environmental organisms, <<1%, are cultured using standard methods.  Sequence
+surveys of environmental microbial genes and genomes – “metagenomics” - have
+now revolutionized understanding of microbial ecology, including its influence
+on human health.  The seminar will discuss how metagenomics developed and the
+impact it has had on our understanding of environmental microbial diversity and
+the structure of the molecular tree of life.

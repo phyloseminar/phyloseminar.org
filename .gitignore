@@ -1,0 +1,11 @@
+*.pyc
+webpage/index.html
+webpage/index.rss
+webpage/recorded.html
+webpage/schedule.html
+webpage/_site
+grant/*/build.pdf
+
+# these can be force-added when necessary
+webpage/images/*
+/Gemfile.lock

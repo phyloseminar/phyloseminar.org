@@ -1,0 +1,20 @@
+Hello everyone, and welcome to phyloseminar.org.
+
+Today is the last talk of a series of three talks honoring the late Carl Woese,
+who revolutionized our understanding of the microbial world via molecular
+phylogenetics. Our first talk was from Norm Pace, then Ed DeLong, and today we
+have Phil Hugenholtz.
+
+We are exceedingly lucky to have Phil Hugenholtz speaking today, another one of
+the Norm Pace diaspora. He has published widely on microbial genomics as well
+as on methods to learn from genomes, and has a remarkable amount of expertise
+in the microbiology of wastewater treatment plants. He is well known for what
+has been known first as the Hugenholtz taxonomy, and is now known as the
+GreenGenes taxonomy, which continues to evolve using relationships inferred
+from genetic data. In this way he is propogating the conceptual framework
+started by Woese.
+
+On a personal note...
+
+We encourage questions during the talk. If you have a question please go ahead
+and type your question into the meeting message box and I will read it aloud.

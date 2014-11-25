@@ -1,0 +1,27 @@
+a.navbar-brand {
+    display: block;
+    max-height: 50px;
+    height: 100px;
+    float: left;
+    overflow: visible;
+    padding-top: 0;
+    padding-left: 5px;
+}
+
+nav.navbar {
+    margin-bottom: 40px;
+}
+
+div.navbar-collapse.in, div.navbar-collapse.collapsing {
+    margin-top: 40px;
+}
+
+div.portrait {
+    margin-right: 1.5em;
+}
+
+img.portrait {
+    width: 100%;
+    height: auto;
+    max-width: 250px;
+}

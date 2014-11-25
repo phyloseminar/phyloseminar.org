@@ -1,0 +1,21 @@
+
+Today, we are very excited to have Jason Stajich speaking on phyloseminar.
+This is the third and final talk in a series on evolutionary genomics.
+
+We encourage questions during the talk, if you have one you can do one
+of two things. First you can just type your question into the meeting
+message box. Alternatively, you can type there that you have a question.
+In that case I will stop the speaker and turn on your microphone. If you
+decide to do that, then please make sure your audio is debugged before
+hand, and that you are using some system which will not give us an echo,
+such as headphones.
+
+As I mentioned, today's speaker is Jason Stajich.
+Jason is one of my heroes.
+He's this young guy who integrates computation and biology to the benefit of both.
+He is of course an expert in fungal genomics, and has used this system as a way to get at fundamental questions of genome evolution.
+He's also developed a number of tools to make other people's work easier.
+Of course, people from a variety of biological fields know him as one of the primary contributors to bioperl, but he's done quite a variety of things, including the recently launched FungiDB.
+In any case, I'm very happy to have him speaking today.
+His talk is entitled "Fungal phylogenomics: Getting lost in the moldy forest."
+
