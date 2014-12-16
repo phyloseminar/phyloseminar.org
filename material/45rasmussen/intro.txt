@@ -1,0 +1,17 @@
+Hello everyone, and welcome to phyloseminar.org, a project supported by the
+Society of Systematic Biologists.
+
+Today is the first talk in a series of three talks on ancestral recombination
+graphs. Today we are going to hear from Matt Rasmussen, now at Counsyl, then we
+are going to hear from Peter Ralph from USC, and finally from Matthias
+Steinrucken speaking from his new position at UMass Amherst.
+
+Matt did his undergraduate at the University of Minnesota in CS, then his
+masters and PhD at MIT under the supervision of Manolis Kellis. If you haven't
+checked out Matt's work he did for his PhD, I encourage you to do so,
+especially the work on species tree reconstruction in the presence of gene
+duplication, loss, and lineage sorting. That's a really hard problem, and I
+don't think that his work has gotten quite as much attention from the
+phylogenetics community as it deserves. He then worked with Adam Siepel at
+Cornell, and started working on the related problem of inference of ancestral
+recombination graphs, which is what he's going to be talking about today.
