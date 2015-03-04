@@ -1,0 +1,16 @@
+Hello everyone, and welcome to phyloseminar.org, a project supported by the
+Society of Systematic Biologists. Let me remind you that there is a Q&A
+feature of hangouts on air, and I encourage you to use it.
+
+Today is the last talk in a series of three talks on ancestral recombination
+graphs. First we heard Matt Rasmussen, then we heard from Peter Ralph, and
+today we are going to hear from Matthias Steinrucken speaking from his new
+position at UMass Amherst.
+
+Matthias got his Diplom from Bielefeld University working with Ellen Baake
+working on recombination dynamics with selection, then his PhD at TU Berlin
+with Jochen Blath working on multiple merger coalescents. He then did a postdoc
+with Yun Song at UC Berkeley, mostly working on things related to the
+sequentially Markov coalescent, which I think is the subject of his talk today.
+
+Welcome, Matthias, and I'm looking forward to your talk.
