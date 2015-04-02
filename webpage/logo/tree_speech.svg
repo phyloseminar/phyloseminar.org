@@ -15,12 +15,12 @@
    height="67.470001"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="tree_speech.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/matsen/wo/phylosem/webpage/logo/tree_speech.png"
-   inkscape:export-xdpi="266.78525"
-   inkscape:export-ydpi="266.78525">
+   inkscape:export-filename="/home/matsen/favicon64.png"
+   inkscape:export-xdpi="85.371277"
+   inkscape:export-ydpi="85.371277">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -34,8 +34,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="747"
-     inkscape:window-width="1278"
+     inkscape:window-height="1199"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -46,17 +46,17 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="3.9392423"
-     inkscape:cx="10.904192"
-     inkscape:cy="20.852566"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:zoom="7.5366828"
+     inkscape:cx="72.211208"
+     inkscape:cy="10.886417"
+     inkscape:window-x="1600"
+     inkscape:window-y="0"
      inkscape:current-layer="svg2"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="1" />
   <defs
      id="defs4">
     <linearGradient
@@ -390,6 +390,12 @@
        inkscape:persp3d-origin="136.52344 : 12.903646 : 1"
        id="perspective10" />
   </defs>
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff"
+     d="m 12.313347,49.860188 c 0.87444,-1.804801 1.792692,-2.679276 2.149402,-3.963272 l 0.438262,-1.577541 -2.879065,-2.864937 C 8.9052688,38.353057 7.6770978,36.395742 6.8855568,33.268658 4.8923488,25.394231 10.566462,17.10478 20.807504,12.929743 c 10.178873,-4.1496923 22.889332,-3.7885803 32.531493,0.92424 7.575091,3.702494 12.29806,9.852623 12.308999,16.02846 0.01376,7.763767 -6.337874,14.694908 -16.5839,18.096993 -8.486515,2.817862 -17.33478,2.807248 -26.18781,-0.03141 L 20.845438,47.29685 16.70542,49.768362 c -4.120278,2.459728 -5.34299,2.335272 -5.188179,2.015749 z"
+     id="path3032"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cscssssssscscc" />
   <g
      transform="matrix(0.7873055,0,0,0.7873055,0,8.655719)"
      id="g3">
