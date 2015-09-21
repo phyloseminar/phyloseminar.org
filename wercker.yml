@@ -9,6 +9,9 @@ build:
     - script:
         name: build site
         code: python scripts/generate.py && (cd webpage; bundle exec jekyll build)
+  after-steps:
+    - wantedly/pretty-slack-notify:
+        webhook_url: $SLACK_WEBHOOK_URL
 
 deploy:
   steps:
@@ -18,7 +21,5 @@ deploy:
         bucket_url: $AWS_BUCKET_URL
         source_dir: webpage/_site/
   after-steps:
-    - sherzberg/slack-notify:
-        subdomain: matsengrp
-        token: $SLACK_TOKEN
-        channel: executive
+    - wantedly/pretty-slack-notify:
+        webhook_url: $SLACK_WEBHOOK_URL
