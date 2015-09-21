@@ -18,9 +18,7 @@ deploy:
         bucket_url: $AWS_BUCKET_URL
         source_dir: webpage/_site/
   after-steps:
-    - hipchat-notify:
-        token: $HIPCHAT_TOKEN
-        room-id: bcclaywell
-        from-name: wercker
-
-
+    - sherzberg/slack-notify:
+        subdomain: matsengrp
+        token: $SLACK_TOKEN
+        channel: executive
