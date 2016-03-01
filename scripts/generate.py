@@ -90,8 +90,9 @@ def main():
                 info['evx-url'] = urlparse.urljoin(config['evx-url-base'], info['evx-file'])
             recorded.append(info)
 
+    # render the recorded seminars in reverse order
     render('recorded',
-           categories=itertools.groupby(recorded, operator.itemgetter('category')))
+           categories=itertools.groupby(recorded[::-1], operator.itemgetter('category')))
 
     render('index',
            upcoming=upcoming[0] if upcoming else None,
