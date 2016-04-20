@@ -3,16 +3,15 @@
 Hello everyone, and welcome to phyloseminar.org, a project supported by the
 Society of Systematic Biologists.
 
-For this session we are hearing from some courageous individuals are working to incorporate structural information into molecular evolution studies.
-The previous talk was from Jesse Bloom, in which he described his work using deep mutational scanning experiments to develop per-site models of amino substitution.
+For this session we are hearing from three courageous individuals are working to incorporate structural information into molecular evolution studies.
+The previous talk was from Jesse Bloom, in which he described his work using deep mutational scanning experiments to develop per-site models of amino acid substitution for specific genes.
 Today we are going to hear about Claus Wilke, and then the next talk is going to be from Richard Goldstein on May 25th.
-
-Let me remind everyone to use the Q&A app, and Claus has explicitly said that he prefers to have some questions during his talk.
+Let me remind everyone to use the Q&A app to ask questions, and note that Claus has explicitly said that he prefers to have some questions during his talk.
 
 As I mentioned, today we have a talk from Claus Wilke.
 Claus received his PhD in Theoretical Physics from the University of Bochum in Germany in 1999.
 He was then a postdoc in the Adami lab at Caltech from 2000 to 2005, where he did training in biological physics, evolutionary biology, and artificial life.
 This included co-authoring one of the most highly cited papers on the artificial life platform Avida.
-I highlight this because Claus' research program still maintains a strong theoretical component concerning fundamental questions about how evolution works, but also goes all the way to much more specific and practical questions concerning the biophysical constraints on proteins, which is closer to what he will talk about today.
+I highlight this because Claus' research program still maintains a strong theoretical component concerning fundamental questions about how evolution works, but also goes all the way to much more specific and practical questions concerning the biophysical constraints on protein evolution, which is closer to what he will talk about today.
 Claus is a full professor at UT Austin, in addition to leading a very productive research group is also currently the chair of integrative biology.
-Thanks for participating, Claus, and I'm looking forward to your talk.
+For that reason we are especially thankful that you are participating today, Claus, and I'm looking forward to your talk.
