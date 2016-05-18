@@ -1,0 +1,13 @@
+Hello everyone, and welcome to phyloseminar.org, a project supported by the
+Society of Systematic Biologists.
+
+For this session we are hearing from three courageous individuals are working to incorporate structural information into molecular evolution studies.
+The first talk was from Jesse Bloom, in which he described his work using deep mutational scanning experiments to develop per-site models of amino acid substitution for specific genes.
+Then we heard from Claus Wilke, who described using structural information to estimate mutation rates, and today's talk is from Richard Goldstein.
+The next set of talks will concern modeling rate heterogeneity in phylogenetics.
+
+As I mentioned, today's speaker is Richard Goldstein.
+Dr. Goldstein's background is in biophysics.
+He has brought this perspective to evolutionary studies, and has been one of the leading figures combining protein structure considerations with molecular evolution.
+More recently, he has done some very nice work concerning epistasis.
+Richard was on faculty at Michigan for quite a while, then to Italy and now he is a researcher at the National Institute for Medical Research in London.
