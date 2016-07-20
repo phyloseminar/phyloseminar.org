@@ -1,0 +1,13 @@
+I will discuss the history of the use of computers to infer
+phylogenies, starting in the late 1950s and giving particular emphasis to
+the introduction of the major methods in the 1960s.  Much of this history
+I watched happen, from 1965 on.  In particular I will explain the way
+that work in biological systematics, in population genetics, and in molecular
+evolution of multiple species gave rise to the early methods.  I will touch on
+the controversies that developed in the 1970s and 1980s, a period of intense
+conflict over what should be the logical foundation of the reconstruction of
+phylogenies.  Computational phylogenetics is becoming continually
+more statistical and continually less connected to the separable task of
+erecting a biological classification of organisms.  Recent Twitter
+controversies show that arguments that were dominant and vehement in the 1980s
+are now taken seriously by few.
