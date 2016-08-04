@@ -1,0 +1,13 @@
+Hello everyone, and welcome to phyloseminar.org, a project supported by the Society of Systematic Biologists.
+
+Today we are going to hear from Joe Felsenstein, who was one of the initial developers of statistical phylogenetics, and has continued to lead the field throughout his career.
+This list of his achievements in the field reads like a catalog of its primary advances, including the Felsenstein algorithm for efficient likelihood computation on trees, the use of the bootstrap to infer per-branch confidence levels, MCMC methods for population and migration parameter inference, the phylogenetic comparative method, etcetera etcetera.
+Joe started the PHYLIP suite of phylogenetic inference programs before MS-DOS, and has continued to maintain it to this day, which I think must be some sort of record in bioinformatics.
+The internals of the code have been massively influential, and one can trace many characteristics of more recent high-performance phylogenetic inference packages back to Joe's original implementation.
+
+Despite these massive achievements, my impression is that Joe thinks of himself as a geneticist first and foremost, and indeed he has made many contributions to the fields of population genetics and molecular evolution.
+If you are interested in Joe's perspective on population genetics, and on how phylogenetics has become something of a distraction from population genetics, I encourage you to listen to Joe's talk on a history of population genetics, which I've posted on the G+ page.
+
+I'd like to remind people that you can ask questions through the Q&A app available on google hangouts.
+I'll also be monitoring the @phyloseminar twitter account if you would like to ask questions that way.
+So, without further ado, please welcome Joe Felsenstein.
