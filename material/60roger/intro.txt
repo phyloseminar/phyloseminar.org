@@ -1,17 +1,17 @@
 Hello everyone, and welcome to phyloseminar.org, a project supported by the Society of Systematic Biologists.
 
 For people with even a passing understanding of molecular evolution, it should go without saying that there are different substitution rates across sites.
-In 1994, Ziheng Yang made a substantial advance in modeling rates across sites by using a mixture distribution based on categories of rates based on the Gamma distribution.
+In 1994, Ziheng Yang made a substantial advance in modeling rates across sites by using a mixture distribution based on categories of Gamma distributed rates.
 This early paper has made it squarely into the canon of phylogenetic analysis.
 Although this simple model has been useful, real sequence evolution deviates significantly from this model both between sites and across trees.
 
 For this series of three talks, we are hearing from three individuals who have thought a lot about modeling heterogeneity in the substitution process across sites.
-The first talk will be from Andrew Roger, who will motivate the need for more advanced models with evidence from deep phylogenetics, and introduce the CAT models.
+Today's first talk will be from Andrew Roger, who will motivate the need for more advanced models with evidence from deep phylogenetics, and introduce the CAT models.
 The second talk will be from Nathan Whelan, who will propose a site-partitioning approach to handle the same issues.
-Finally we will hear from Nicholas Lartillot, who will describe Dirichlet process mixture models for site heterogeneity.
+Finally we will hear from Nicholas Lartillot, who will describe Dirichlet process mixture models for site heterogeneity in detail.
 
 As I mentioned, today's speaker is Andrew Roger, who has consistently been a thought leader on deep phylogenetic relationships and methods to infer them.
-Andrew has studied phylogenetics throughout his career, doing his Ph.D. with Ford Doolittle in the 90s.
+Andrew has studied phylogenetics throughout his career, starting with his Ph.D. advised by Ford Doolittle in the 90s.
 After that he did a postdoc with Mitch Sogin at Woods Hole.
 Then he joined the faculty at Dalhousie, where has been a full professor since 2009 and holds a Canada Research Chair.
 
