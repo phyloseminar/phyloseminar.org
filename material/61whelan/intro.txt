@@ -1,0 +1,13 @@
+Hello everyone, and welcome to phyloseminar.org, a project supported by the Society of Systematic Biologists.
+
+For this series of three talks, we are hearing from three individuals who have thought a lot about modeling heterogeneity in the substitution process across sites.
+Last time we heard from Andrew Roger, who motivated the need for more advanced models with evidence from deep phylogenetics, and introduced the CAT models.
+Today we will hear from Nathan Whelan, who I believe will propose a site-partitioning approach to handle the same issues.
+Finally we will hear from Nicholas Lartillot, who will describe Dirichlet process mixture models for site heterogeneity in detail.
+
+As I mentioned, today's speaker is Nathan Whelan.
+Nathan did his Ph.D. at the University of Alabama in Tuscaloosa with Phillip Harris.
+After that he did a postdoc with Kenneth Halanych at Auburn University.
+He has just recently taken a position in the US Fish and Wildlife Service, where he is the Director of the Southeast Conservation Genetics Lab in Warm Springs, Georgia.
+
+Welcome, Nathan, and thanks for participating.
