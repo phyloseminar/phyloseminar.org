@@ -8,4 +8,3 @@ grant/*/build.pdf
 
 # these can be force-added when necessary
 webpage/images/*
-/Gemfile.lock
