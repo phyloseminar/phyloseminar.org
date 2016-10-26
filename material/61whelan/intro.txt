@@ -5,6 +5,9 @@ Last time we heard from Andrew Roger, who motivated the need for more advanced m
 Today we will hear from Nathan Whelan, who I believe will propose a site-partitioning approach to handle the same issues.
 Finally we will hear from Nicholas Lartillot, who will describe Dirichlet process mixture models for site heterogeneity in detail.
 
+I wanted to remind people that the Q&A app is gone now, so you can ask questions through Twitter or IRC, as described in the "attending" section of the phyloseminar website.
+If you have a different idea about how we can organize discussions, just email me.
+
 As I mentioned, today's speaker is Nathan Whelan.
 Nathan did his Ph.D. at the University of Alabama in Tuscaloosa with Phillip Harris.
 After that he did a postdoc with Kenneth Halanych at Auburn University.
