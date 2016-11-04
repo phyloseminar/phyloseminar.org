@@ -1,0 +1,19 @@
+Hello everyone, and welcome to phyloseminar.org, a project supported by the Society of Systematic Biologists.
+
+For this series of three talks, we are hearing from three individuals who have thought a lot about modeling heterogeneity in the substitution process across sites.
+First we heard from Andrew Roger, who motivated the need for more advanced models with evidence from deep phylogenetics, and introduced the CAT models.
+Then we heard from Nathan Whelan, who advocated a site-partitioning approach to handle the same issues.
+Today we will hear from Nicholas Lartillot, who will describe Dirichlet process mixture models for site heterogeneity in detail.
+
+I wanted to remind people that the Q&A app is gone now, so you can ask questions through Twitter or IRC, as described in the "attending" section of the phyloseminar website.
+
+As I mentioned, today's speaker is Nicholas Lartillot.
+Nicholas started his education in physics at the ENS in Paris, and started doing biology first doing cloining and sequencing
+
+
+and then got a PhD in Andre Adoutte's lab working on experimental embryology.
+He then went to Herve Philippe's lab at the University of Montreal for a postdoc, then landed a permananent position in Montpellier for four years.
+After that he went back to the University of Montreal as an assistant professor, then returned to France, this time to the University of Lyon.
+He currently holds the title of CNRS Research Director.
+
+Welcome, Nicholas, and thanks for participating.
