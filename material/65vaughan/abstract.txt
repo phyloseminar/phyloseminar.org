@@ -1,0 +1,14 @@
+Homologous recombination is a central feature of bacterial evolution,
+yet confounds traditional phylogenetic methods.  In this seminar I
+will present a novel approach to inferring bacterial evolution based
+on the ClonalOrigin model (Didelot et al., Genetics, 2010). This
+method permits joint Bayesian inference of the entire bacterial
+recombination graph and associated model parameters. The method is
+implemented in the BEAST 2 phylogenetic inference package. It can be
+easily combined with a variety of substitution models accounting for
+site-to-site clock rate heterogeneity as well as parametric and
+non-parametric models of effective population size dynamics.  I will
+also present work on summarizing posterior distributions over the
+space of tree-based recombination graphs which, together with the
+joint inference method, aims to bridge the technological gap between
+recombination-aware phylogenetic inference and traditional methods.
