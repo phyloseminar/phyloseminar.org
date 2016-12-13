@@ -2,9 +2,8 @@ Hello everyone, and welcome to phyloseminar.org, a project supported by the Soci
 
 DNA sequencing has changed our perspective on the evolution of many groups of organisms, but nowhere has it had the absolutely revolutionary impact that it has had in the study of microorganisms.
 For example we can look back at the discovery of an entire kingdom of microbes, the Archaea, using 16s sequencing.
-In this series of XXX talks, we are going to hear about how this process of discovery is still far from over for Archaea and Bacteria.
+In this series of 3 talks, we are going to hear about how this process of discovery is still far from over for Archaea and Bacteria.
 We will start by Laura Hug describing how much unseen diversity is really out there, with the recent discovery of the Candidate Phylum Radiation.
-
 
 I wanted to remind people that the Q&A app is gone now, so you can ask questions through Twitter or IRC, as described in the "attending" section of the phyloseminar website.
 
