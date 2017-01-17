@@ -2,6 +2,9 @@ box: python
 
 build:
   steps:
+    - script:
+        name: install virtualenv
+        code: pip install virtualenv
     - virtualenv:
         name: setup virtual environment
     - pip-install
