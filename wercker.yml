@@ -1,13 +1,18 @@
-box: python:2.7
+box: phusion/passenger-ruby19
 
 build:
   steps:
+    - install-packages:
+        packages: libjpeg62 libpython2.7 python-pip
     - script:
         name: install virtualenv
         code: pip install virtualenv
     - virtualenv:
         name: setup virtual environment
     - pip-install
+    - script:
+        name: update bundler
+        code: gem install bundler
     - bundle-install
     - script:
         name: build site
