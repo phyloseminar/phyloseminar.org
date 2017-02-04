@@ -1,0 +1,14 @@
+Hello everyone, and welcome to phyloseminar.org, a project supported by the Society of Systematic Biologists.
+
+In this series of 3 talks, we are looking at phylogenetic opportunities and challenges from bacteria and archaea.
+Our first talk was from Laura Hug about recent discoveries of new groups of organisms, then we heard from Xavier Didelot, and today we are hearing from Tim Vaughan.
+
+I wanted to remind people that the Q&A app is gone now, so you can ask questions through Twitter or IRC, as described in the "attending" section of the phyloseminar website.
+
+As I mentioned, today's speaker is Tim Vaughan.
+Tim got his PhD in theoretical physics in 2008 from the University of Queensland.
+Directly after his PhD he spent a year in Geoff Goodhill's neuroscience lab as a research assistant.
+He then started working with Peter Drummond and Alexei Drummond modelling within-host viral dynamics, which led to a bunch of visits to Auckland, where he discovered phylogenetics.
+He is now a postdoc in the computational evolution group at the University of Auckland.
+
+Welcome, Tim, and thanks for participating.
