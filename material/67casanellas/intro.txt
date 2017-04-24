@@ -1,0 +1,21 @@
+Hello everyone, and welcome to phyloseminar.org.
+
+It has been known for decades that certain polynomial relationships hold for data generated from a tree.
+These were first discovered in a pair of 1987 papers, one by Lake and one by Cavender and Felsenstein, and have obtained the name "phylogenetic invariants".
+Mathematically speaking, invariants belong as a subject in algebraic geometry, and as such have been extensively studied by mathematicians.
+Practically speaking, invariant methods have thus far had limited impact on inference, although it appears that this may be starting to change.
+
+In this series of 3 talks, we are going to hear three perspectives on invariants and how they may used to make inferences.
+We will start with Marta Casanellas Rius who give background and bring us up to date with research on invariants,
+then we will have Laura Kubatko describe coalescent-based inference using invariants, and
+third Barbara Holland will describe Markov invariants and how they differ from classical phylogenetic invariants.
+
+I wanted to remind people that the Q&A app is gone now, so you can ask questions through Twitter or IRC, as described in the "attending" section of the phyloseminar website.
+
+As I mentioned, today's speaker is Marta Casanellas Rius.
+Marta has spent most of her career in Barcelona, starting with her undergraduate and graduate work in theoretical algebraic geometry.
+She then got a Fulbright fellowship to do a postdoc with Robin Hartshorne, who was a leading algebraic geometer at UC Berkeley.
+In 2004 she turned her interest towards applications of algebraic geometry to phylogenetics, and since then she has been a leading researcher in the field.
+She is now an Associate professor in the department of mathematics at the Universitat Politècnica de Catalunya.
+
+Welcome, Marta, and thanks for participating.
