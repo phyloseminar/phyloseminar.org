@@ -1,0 +1,16 @@
+Hello everyone, and welcome to phyloseminar.org.
+
+The current theme is phylogenetic invariants, which are polynomial relationships on data generated from a tree.
+In this series of 3 talks, we are hearing three perspectives on invariants and how they may used to make inferences.
+First we heard from Marta Casanellas Rius who introduced the topic and brought us up to date.
+Today we will have Laura Kubatko describe coalescent-based inference using invariants, and
+after that Barbara Holland will describe Markov invariants and how they differ from classical phylogenetic invariants.
+
+I wanted to remind people that the Q&A app is gone now, so you can ask questions through Twitter or IRC, as described in the "attending" section of the phyloseminar website.
+
+As I mentioned, today's speaker is Laura Kubatko.
+Laura has spent much of her career at Ohio State University, starting with her masters in Statistics and then her PhD in Biostatistics.
+After graduation she took a position at the University of New Mexico, where she stayed until 2006 until she returned to OSU, where she has been ever since.
+Laura has been a full professor since 2013, and has played a leadership role at the Mathematical Bioscience Institute.
+
+Welcome, Laura, and thanks for participating.
