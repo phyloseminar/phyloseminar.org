@@ -66,8 +66,7 @@ id: home
   We are in the process of planning the next set of talks.
   If you haven't already, take a look at the <a href="recorded.html">recorded talks</a>.
   Check back soon, or follow us on
-  <a href="http://twitter.com/phyloseminar">Twitter</a> or
-  <a href="https://plus.google.com/102253747763633136709" rel="publisher">Google+</a>
+  <a href="http://twitter.com/phyloseminar">Twitter</a>
   to find out about upcoming seminars!
 </p>
 % endif
