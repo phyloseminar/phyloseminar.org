@@ -1,0 +1,14 @@
+Hello everyone, and welcome to phyloseminar.org.
+
+The current theme is phylogenetic networks, which generalize trees by allowing loops in the graph.
+In this series of 3 talks, we are hearing three perspectives on networks.
+First we heard from Luay Nakhleh, on statistical inference of phylogenetic networks from multi-locus data.
+Today we will hear from Celine Scornavacca on parsimony methods in phylogenetic network reconstruction.
+In December Cecile Ane will describe challenges in network inference as well as how one can use networks in phylogenetic comparative methods.
+
+I wanted to remind people that the Q&A app is gone now, so you can ask questions through Twitter or IRC, as described in the "attending" section of the phyloseminar website.
+
+As I mentioned, today's speaker is Celine Scornavacca.
+After a Master’s Degree in Mathematical Engineering at the University of Rome 2, Celine moved into bioinformatics and obtained her PhD in computer science at the University of Montpellier in 2009. She then did a postdoctoral fellowship for two years at the University of Tübingen, and joined joined the Institute of Evolutionary Sciences in Montpellier (ISE-M) as researcher at CNRS in October 2011 where she continues to this day.
+
+Welcome, Celine, and thanks for participating.
