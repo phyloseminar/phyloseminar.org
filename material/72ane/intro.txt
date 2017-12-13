@@ -1,0 +1,16 @@
+Hello everyone, and welcome to phyloseminar.org.
+
+The current theme is phylogenetic networks, which generalize trees by allowing loops in the graph.
+In this series of 3 talks, we are hearing three perspectives on networks.
+First we heard from Luay Nakhleh, on statistical inference of phylogenetic networks from multi-locus data.
+Then we heared from Celine Scornavacca on parsimony methods in phylogenetic network reconstruction.
+Today Cecile Ane will describe challenges in network inference as well as how one can use networks in phylogenetic comparative methods.
+
+I wanted to remind people that the Q&A app is gone now, so you can ask questions through Twitter or IRC, as described in the "attending" section of the phyloseminar website.
+
+As I mentioned, today's speaker is Cecile Ane.
+Cecile is originally from from France, where she did her BS and MS in math, and then a PhD in probability, graduating in 2000.
+I think we'll be able to see this background in the material she'll be presenting today.
+Since then she has been at Wisconsin-Madison, joint between the departments of statistics and Botany.
+
+Welcome, Cecile, and thanks for participating.
