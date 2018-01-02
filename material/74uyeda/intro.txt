@@ -1,0 +1,15 @@
+Hello everyone, and welcome to phyloseminar.org.
+
+The current theme is on phylogenetic models for continuous traits and their applications.
+In this series of 3 talks, we are hearing three perspectives on continuous traits.
+First we heard from Josh Schraiber on applications of phylogenetic continuous trait models to gene expression.
+Today we will hear from Josf Uyeda on the need for phylogenetic natural history,
+And then in March Michael Landis will describe his work on pulsed models for trait evolution.
+
+If you want to ask a question, you can either tweet @phyloseminar or type your question in the "live chat" box to the right of the video on YouTube.
+
+As I mentioned, today's speaker is Josef Uyeda.
+Josef got his PhD from Oregon State in Corvallis with Stevan Arnold, then did a postdoc with Luke Harmon at the University of Idaho, Moscow.
+He has recently joined the faculty of biological sciences at Virginia Tech.
+
+Welcome, Josef, and thanks for participating.

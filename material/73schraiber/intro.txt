@@ -1,0 +1,13 @@
+Hello everyone, and welcome to phyloseminar.org.
+
+The current theme is on phylogenetic models for continuous traits and their applications.
+In this series of 3 talks, we are hearing three perspectives on continuous traits.
+Today we will hear from Josh Schraiber on applications of phylogenetic continuous trait models to gene expression.
+Then in February we will hear from Josf Uyeda on the need for phylogenetic natural history,
+And then in March Michael Landis will describe his work on pulsed models for trait evolution.
+
+If you want to ask a question, you can either tweet @phyloseminar or type your question in the "live chat" box to the right of the video on YouTube.
+
+As I mentioned, today's speaker is Josh Schraiber.
+
+Welcome, Josh, and thanks for participating.
