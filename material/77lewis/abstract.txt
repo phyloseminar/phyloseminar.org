@@ -1,0 +1,3 @@
+This series of 4 talks will be an introduction to phylogenetics in 4 parts from master expositor Paul Lewis.
+
+Part 2 explains how the likelihood is calculated for trees, how parameters of models are estimated, and how missing data and unknown ancestral states are accommodated. This part ends with an introduction to three major ways of modeling among site rate heterogeneity (site-specific rates and the +I and +G models).

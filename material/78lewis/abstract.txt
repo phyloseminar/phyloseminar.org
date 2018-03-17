@@ -1,0 +1,3 @@
+This series of 4 talks will be an introduction to phylogenetics in 4 parts from master expositor Paul Lewis.
+
+Part 3 is an introduction to Bayesian statistics and how it is used in phylogenetics. This part is divided into parts 3a and 3b. Part 3a explains Bayes Rule, the difference between probabilities and probability densities, the difference between joint, conditional and marginal probabilities, and illustrates how MCMC is used to approximate posterior probability distributions.
