@@ -6,9 +6,9 @@ Today's talk will be about basics of phylogenetic trees and models.
 
 If you want to ask a question, you can either tweet @phyloseminar or type your question in the "live chat" box to the right of the video on YouTube.
 
-As I mentioned, today's speaker is Paul Lewis.
-Paul is a leader in Bayesian phylogenetics and a professor of ecology and evolutionary biology at the University of Connecticut.
-Of his many research contributions to phylogenetics, two especially stand out to me:
+As I mentioned, today's speaker is Paul Lewis, who is a professor of ecology and evolutionary biology at the University of Connecticut.
+Paul is a leader in Bayesian phylogenetics theory and practice.
+Of his many research contributions to phylogenetics, two especially stand out to me personally:
 first, his work on model selection and comparison, leading to several new ways of efficiently computing marginal likelihoods,
 and second, his seminal work on non-bifurcating tree inference and its importance in getting accurate phylogenies.
 Welcome, Paul, and thanks for participating.
