@@ -1,14 +1,5 @@
 Hello everyone, and welcome to phyloseminar.org.
 
-This series of 4 talks will be an introduction to phylogenetics in 4 parts from master expositor Paul Lewis.
-Paul has developed this material of the course of many years in his teaching at the Woods Hole Molecular Evolution Workshop.
-Today's talk will be about basics of phylogenetic trees and models.
-
+This is talk number 2 in a series of 4 talks introducing phylogenetics by master expositor Paul Lewis.
+I've already introduced Paul in the first talk, so I will just let him get started.
 If you want to ask a question, you can either tweet @phyloseminar or type your question in the "live chat" box to the right of the video on YouTube.
-
-As I mentioned, today's speaker is Paul Lewis.
-Paul is a leader in Bayesian phylogenetics and a professor of ecology and evolutionary biology at the University of Connecticut.
-Of his many research contributions to phylogenetics, two especially stand out to me:
-first, his work on model selection and comparison, leading to several new ways of efficiently computing marginal likelihoods,
-and second, his seminal work on non-bifurcating tree inference and its importance in getting accurate phylogenies.
-Welcome, Paul, and thanks for participating.
