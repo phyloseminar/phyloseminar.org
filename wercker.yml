@@ -3,7 +3,7 @@ box: phusion/passenger-ruby19
 build:
   steps:
     - install-packages:
-        packages: libjpeg62 libpython2.7 python-pip
+        packages: libjpeg62 libpython2.7 python-dev python-pip
     - script:
         name: install virtualenv
         code: pip install virtualenv

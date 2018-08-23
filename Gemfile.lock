@@ -72,7 +72,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 2.0)
-  octokit (= 4.3.0)
 
 BUNDLED WITH
    1.16.0
