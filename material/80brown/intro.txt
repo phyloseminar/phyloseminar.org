@@ -1,0 +1,15 @@
+Hello everyone, and welcome to phyloseminar.org.
+
+The current theme is the adequacy phylogenetic models.
+In this series of 3 talks, we are hearing three perspectives on model adequacy.
+Today we will hear from Jeremy Brown on the role of model fit in resolving the tree of life.
+Then in November we will hear from Sebastian Duchêne on model adequacy in infectious disease phylodynamics.
+And then in December Sarah Hilton will describe her work on experimental codon models for influenza phylogenetics.
+
+If you want to ask a question, you can either tweet @phyloseminar or type your question in the "live chat" box to the right of the video on YouTube.
+
+As I mentioned, today's speaker is Jeremy Brown.
+Jeremy got his PhD working under David Hillis at UT Austin, followed by a postdoc with John Huelsenbeck at UC Berkeley.
+Jeremy is now an Associate Professor in Biology at Louisiana State University.
+
+Welcome, Jeremy, and thanks for participating.
