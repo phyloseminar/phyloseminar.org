@@ -1,0 +1,14 @@
+Hello everyone, and welcome to phyloseminar.org.
+
+The current theme is the adequacy phylogenetic models.
+In this series of 3 talks, we are hearing three perspectives on model adequacy.
+First we heard from Jeremy Brown on the role of model fit in resolving the tree of life.
+Last time we heard from Sebastian Duchêne on model adequacy in infectious disease phylodynamics.
+Today Sarah Hilton will describe her work on experimentally informed site-specific substitution models.
+
+If you want to ask a question, you can either tweet @phyloseminar or type your question in the "live chat" box to the right of the video on YouTube.
+
+As I mentioned, today's speaker is Sarah Hilton.
+Sarah is a graduate student in Genome Sciences at the University of Washington, Seattle, doing her PhD with Jesse Bloom at the Fred Hutchinson Cancer Research Center.
+
+Welcome, Sarah, and thanks for participating.
