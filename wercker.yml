@@ -13,7 +13,7 @@ build:
     - script:
         name: update bundler
         code: gem install bundler
-    - bundle-install
+    - bundle-install@1.1.3
     - script:
         name: build site
         code: python scripts/generate.py && (cd webpage; bundle exec jekyll build)
