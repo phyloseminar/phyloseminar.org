@@ -1,0 +1,13 @@
+Hello everyone, and welcome to phyloseminar.org.
+
+In this series of 3 talks, we are hearing three ways that people are inferring trees from non-traditional data.
+First we heard from Alex Bouchard-Cote on phylogenetics for single cell analysis of cancer.
+Today we are going to hear from Miriam Shiffman on inference of cellular differentiation trajectories from single-cell RNA-seq.
+In two weeks we will hear from Aaron McKenna about inference of organismal differentiation.
+
+If you want to ask a question, you can either tweet @phyloseminar or type your question in the "live chat" box to the right of the video on YouTube.
+
+As I mentioned, today's speaker is Miriam Shiffman.
+Miriam is a graduate student in Computational & Systems Biology at MIT, doing her PhD with Tamara Broderick and Aviv Regev.
+
+Welcome, Miriam, and thanks for participating.
