@@ -6,6 +6,7 @@ If you want to ask a question, you can either tweet @phyloseminar or type your q
 
 As I mentioned, today's speaker is Aaron McKenna.
 Aaron is a postdoc in Jay Shendure's lab in UW Genome Sciences, which is where he did his PhD.
-He's headed for a faculty job at Dartmouth.
+Before his PhD, Aaron spent almost a decade as a software engineer, first working on an NSA contract and then developing the GATK toolkit at the Broad.
+He's headed for a faculty job at Dartmouth now.
 
 Welcome, Aaron, and thanks for participating.
