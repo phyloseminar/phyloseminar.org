@@ -1,0 +1,11 @@
+Hello everyone, and welcome to phyloseminar.org.
+
+The current theme is tree inference from non-traditional data.
+Today we will hear from Aaron McKenna about inference of organismal differentiation using CRISPR arrays.
+If you want to ask a question, you can either tweet @phyloseminar or type your question in the "live chat" box to the right of the video on YouTube.
+
+As I mentioned, today's speaker is Aaron McKenna.
+Aaron is a postdoc in Jay Shendure's lab in UW Genome Sciences, which is where he did his PhD.
+He's headed for a faculty job at Dartmouth.
+
+Welcome, Aaron, and thanks for participating.
