@@ -1,0 +1,13 @@
+Many large microbial populations are genetically diverse and consist of
+many strains that compete against each other. Competition for
+susceptible humans, for example, drives the immune escape dynamics of
+seasonal influenza viruses. I will discuss how such competitive
+non-neutral dynamics differ from typical population genetic models based
+on the Kingman coalescent. If many small effect mutation contribute to
+fitness variation in the population, the evolutionary dynamics converges
+towards a different universal coalescent process known as the
+Bolthausen-Sznitman coalescent which generates distinctly different tree
+ensembles and diversity patters. I will then show how these insights
+into the population genetics of rapid adaptation can be used to infer
+relative fitness of individuals in a population from sequence data
+sampled at a single time point.
