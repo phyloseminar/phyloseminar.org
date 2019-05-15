@@ -1,0 +1,16 @@
+
+
+Hello everyone, and welcome to phyloseminar.org.
+
+The current theme is branch-specific diversification inference, by which I mean learning about the diversification process via phylogenetics.
+If this is macroevolution, then we're talking about speciation and extinction rates, and if this is microevolution, then we're talking about fitness estimation.
+Today we will hear from Sebastian Hohna about on his Bayesian approach for estimating branch-specific speciation and extinction rates.
+If you want to ask a question, you can either tweet @phyloseminar or type your question in the "live chat" box to the right of the video on YouTube.
+
+As I mentioned, today's speaker is Sebiastian Hohna.
+Sebastian got his a Master’s degree in Computer Science at The University of Auckland under the supervision of Alexei Drummond.
+Even though this was "only" a masters thesis, it started many important lines of research, including ones we are exploring in my group.
+He then continued his work from Stockholm University under the supervision of Tom Britton and Fredrik Ronquist, and then he did a Miller postdoc with John Huelsenbeck and Rasmus Nielsen.
+He continued to innovate, leading to a lot of new work on estimation of birth-death processes and developing RevBayes, a flexible and powerful tool for doing inference under phylogenetic models.
+
+Welcome, Sebastian, and thanks for participating.
