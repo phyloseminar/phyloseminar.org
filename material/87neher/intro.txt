@@ -1,0 +1,17 @@
+
+
+Hello everyone, and welcome to phyloseminar.org.
+
+The current theme is branch-specific diversification inference, by which I mean learning about the diversification process via phylogenetics.
+If this is macroevolution, then we're talking about speciation and extinction rates, and if this is microevolution, then we're talking about fitness estimation.
+Today we will hear from Richard Neher.
+If you want to ask a question, you can either tweet @phyloseminar or type your question in the "live chat" box to the right of the video on YouTube.
+
+As I mentioned, today's speaker is Richard Neher.
+Richard got his PhD in Physics at LMU Munich advised by Ulrich Gerland, followed by 3 years as a postdoc at KITP at UC Santa Barbara.
+He was then a Max-Planck Research Group Leader in Tübingen, and in 2017 took a position as an Associate Professor at the Biozentrum in the University of Basel.
+
+Richard applies sharp analytical thinking to explain and predict a variety of biological phenomena, from diversification of influenza to HIV reservoirs.
+He is now working hard on bacterial evolution, and I'm looking forward to seeing what he comes up with there.
+
+Welcome, Richard, and thanks for participating.
