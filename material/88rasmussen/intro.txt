@@ -1,0 +1,12 @@
+Hello everyone, and welcome to phyloseminar.org.
+
+The current theme is branch-specific diversification inference, by which I mean learning about the diversification process via phylogenetics.
+If this is macroevolution, then we're talking about speciation and extinction rates, and if this is microevolution, then we're talking about fitness estimation.
+If you want to ask a question, you can either tweet @phyloseminar or type your question in the "live chat" box to the right of the video on YouTube.
+
+Today's speaker is David Rasmussen.
+David develops and applies phylodynamic methods for tracking the spread of pathogens using genomic sequence data.
+He did his Ph.D. with Katia Koelle at Duke University and then a postdoc with Tanja Stadler at ETH Zurich.
+David joined NC State in Emerging Plant Disease and Global Food Security in January 2018.
+
+Welcome, David, and thanks for participating.
