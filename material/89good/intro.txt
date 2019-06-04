@@ -1,0 +1,11 @@
+Hello everyone, and welcome to phyloseminar.org.
+
+The current theme is branch-specific diversification inference, by which I mean learning about the diversification process via phylogenetics.
+If this is macroevolution, then we're talking about speciation and extinction rates, and if this is microevolution, then we're talking about fitness estimation.
+If you want to ask a question, you can either tweet @phyloseminar or type your question in the "live chat" box to the right of the video on YouTube.
+
+Today's speaker is Ben Good.
+Ben develops methods to infer fitness and predict evolutionary outcomes.
+He did his Ph.D. with Michael Desai at Harvard, and then was a Miller fellow at UC Berkeley with Oskar Hallatchek.
+
+Welcome, Ben, and thanks for participating.
