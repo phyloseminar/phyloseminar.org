@@ -1,0 +1,13 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is variational Bayes phylogenetic inference, and we'll have a series of 3 talks on that topic.
+
+We are trying out new streaming software, because Hangouts on air is no more, so please let me know on twitter or via the comment box on youtube if you are encountering problems.
+Please also use those means to ask any questions you might have.
+
+Today's speaker is Mathieu Fourment.
+Mathieu has worked on many important topics, but is now focusing on Bayesian phylogenetic inference.
+He's originally from France, where he did his undergraduate and masters, and then did a masters in Glasgow and a PhD at McQuarie university in Australia.
+Since that time he has worked in a number of interesting places including Cambodia, Sergei Kosakovsky Pond's lab at UC San Diego, Singapore, and now in Sydney where he recently got a permanent position.
+On a personal note, Mathieu has been a wonderful collaborator who thinks hard and codes like a maniac.
+
+Welcome, Mathieu, and thanks for being willing to speak.
