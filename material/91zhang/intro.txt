@@ -1,0 +1,10 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is variational Bayes phylogenetic inference, and this is talk 2 in a series of 3 talks on that topic.
+Please use the YouTube live comment box to ask questions, or tweet @phyloseminar.
+
+Today's speaker is Cheng Zhang.
+Cheng got his undergraduate from Peking University, then his PhD from UC Irvine under Hongkai Zhao and Babak Shahbaba, where he worked on scalable Hamiltonian monte carlo algorithms.
+He then spent 2.5 years in my group, where he did the work he will talk about today, along with several other interesting and technically difficult projects.
+He is now an Assistant Professor in the Department of Probability and Statistics at Peking University.
+
+Welcome, Cheng, and thanks for speaking to us today.
