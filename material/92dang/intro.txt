@@ -1,0 +1,8 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is variational Bayes phylogenetic inference, and this the final talk in a series of 3 talks on that topic.
+Please use the YouTube live comment box to ask questions, or tweet @phyloseminar.
+
+Today's speaker is Tung Dang.
+Tung got his undergraduate in Vietnam, and is now doing his PhD with Hirohisa Kishino at the University of Tokyo.
+
+Welcome, Tung, and thanks for speaking to us today.
