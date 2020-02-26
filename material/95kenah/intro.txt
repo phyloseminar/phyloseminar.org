@@ -1,0 +1,10 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is transmission trees, and this the third talk in a series of 3 talks on that topic.
+Please use the YouTube live comment box to ask questions, or tweet @phyloseminar.
+
+Today's speaker is Eben Kenah.
+Dr. Kenah works on Survival analysis, Epidemiologic methods, Stochastic processes, Phylogenetics and casual inference
+He did his doctorate in epidemiology with a masters in Biostatistics at the Harvard School of Public Health, working with Marc Lipsitch, followed by a postdoc at the University of Washington.
+He then took a faculty position at the University of Florida, where he rose in the ranks and then moved to the Ohio State University, where is is now Associate Professor.
+
+Welcome, Eben, and thanks for speaking to us today.
