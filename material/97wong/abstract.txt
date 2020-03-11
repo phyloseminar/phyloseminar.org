@@ -1,0 +1,34 @@
+Inferring evolutionary trees from genetic data is a classic and hard problem in biology.
+We have recently published an algorithm for estimating gene tree topologies along a
+genome which scales to millions of trees with millions of tips. We have also just released
+a fast method to date (that is, to infer branch lengths for) these trees.
+
+Both methods are based on the concept of a "tree sequence": a recently-introduced
+efficient format to store the correlated evolutionary trees that describe the full genomic
+ancestry of a set of genomes. While initially developed to describe the genetic history
+of individuals within a species, tree sequences are also starting to be used to analyse
+relationships between individuals from multiple closely related species.
+
+The topology estimation method, called "tsinfer" (tree sequence inference), is composed
+of two heuristic steps. The first step uses the distribution of mutations to estimate
+partial fragments of ancestral DNA sequence, roughly ordering them by age. The second
+step uses a highly optimised tree-based HMM algorithm to match fragments against each
+other and build up a tree-like structure at each position in the genome. The resulting
+structure can be thought of as a large network of nodes connected by edges,
+where each edge connects a child node to a parent node over a specific portion or "span"
+of the genome (this is similar to the Ancestral Recombination Graph, or ARG).
+
+The challenge of estimating branch lengths on trees in a tree sequence can be restated in
+terms of placing dates on tree sequence nodes. Our dating method, "tsdate", treats the
+date of each ancestral node as a hidden state, and estimates the probability of different
+node ages by considering the inferred tree sequence as a Bayesian network. In particular,
+each node is given a prior probability of being in one of a fixed number of time slices,
+then a two-pass algorithm iterates over all the edges in the tree sequence, updating
+these priors to take account of the mutations and span associated with each edge.
+
+In this seminar I will describe the workings of both the tsinfer and tsdate algorithms,
+demonstrate their speed and accuracy, discuss their limitations, and show their application
+to a variety of genetic data sets, including ones with historically sampled individuals,
+and with multiple species present. I will also describe a new topology-based measure,
+based on genealogical nearest neighbours, which naturally summarises genome-wide
+relationships between individuals in a tree sequence.
