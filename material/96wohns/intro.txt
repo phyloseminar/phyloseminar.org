@@ -3,8 +3,9 @@ The current theme is tree sequences, and this the first talk in a series of 3 ta
 Please use the YouTube live comment box to ask questions, or tweet @phyloseminar.
 
 Today's speaker is Wilder Wohns.
-Wilder is a Rhodes Scholar and a PhD student at Oxford, working with Jerome Keller, Gil McVean, and others.
-He did his bachelors at Harvard, where he studied...
-His interests include...
+Wilder is a Rhodes Scholar and a PhD student in statistics at Oxford, supervised by Gil McVean, Yan Wong, and Jerome Kelleher.
+He did his bachelors at Harvard in Human Evolutionary Biology where he worked with Terry Capellini.
+He then moved to the UK to do his Masters at Cambridge with Toomas Kivisild (pronunciation: Tu-mas, Kiv-is-ild), where he studied the effects of the Black Death using ancient DNA.
+Currently he is developing methods to efficiently estimate the age of ancestors in a tree sequence and to infer genealogies with large numbers of ancient and modern genomes.
 
 Welcome, Wilder, and thanks for speaking to us today.
