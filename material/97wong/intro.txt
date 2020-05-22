@@ -1,0 +1,8 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is tree sequences, and this the second talk in a series of 3 talks on that topic.
+Please use the YouTube live comment box to ask questions, or tweet @phyloseminar.
+
+Today's speaker is Yan Wong.
+Yan specializes in computer and mathematical modelling of evolutionary genetics, working with Gil McVean and Jerome Kelleher at the Big Data Institute at Oxford University.
+He is also accomplished in science communication, having co-authored a book on the dawn of life with Richard Dawkins, as well as appearing on the BBC One programme Bang Goes The Theory.
+Welcome, Yan, and thanks for speaking to us today.
