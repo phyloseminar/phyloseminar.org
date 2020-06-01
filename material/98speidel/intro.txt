@@ -1,0 +1,8 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is tree sequences, and this the third talk in a series of 3 talks on that topic.
+Please use the YouTube live comment box to ask questions, or tweet @phyloseminar.
+
+Today's speaker is Leo Speidel.
+Leo is a postdoc in Simon Myers’ group at the Department of Statistics, University of Oxford, where he completed my PhD last year.
+His PhD focused on developing Relate, a method for inferring genealogies genome-wide for many thousands of samples.
+Currently, he is working on extending this framework, as well as on developing powerful methods that take inferred genealogies as input to answer a broad range of questions relating to population genetics.
