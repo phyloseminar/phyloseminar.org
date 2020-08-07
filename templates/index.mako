@@ -63,8 +63,11 @@ id: home
 </div>
 % else:
 <p>
-  We are in the process of planning the next set of talks.
-  If you haven't already, take a look at the <a href="recorded.html">recorded talks</a>.
+  We are in the process of planning the next set of talks.<br>
+</p>
+<p>
+  If you haven't already, take a look at the <a href="recorded.html">recorded talks</a>.<br>
+<p>
   Check back soon, or follow us on
   <a href="http://twitter.com/phyloseminar">Twitter</a>
   to find out about upcoming seminars!
