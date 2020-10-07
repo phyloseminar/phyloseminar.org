@@ -1,0 +1,7 @@
+The emergence of SARS-CoV-2 has driven an enormous global effort to contribute and share genomic data in order to inform local authorities and the international community about key aspects of the outbreak. Analyses of these data have played an important role in tracking the epidemiology and evolution of the virus in real-time. 
+
+
+Nextstrain (nextstrain.org) is an open science initiative to harness the scientific and public health potential of pathogen genome data, and has previously provided key insight into outbreaks of Ebola and Zika, and longer-term pathogen spread of Influenza and Enterovirus. It provides a continually-updated view of publicly available data alongside powerful analytic and visualization tools for use by the community. 
+
+
+The Nextstrain team has been maintaining an up-to-date analysis of SARS-CoV-2 at nextstrain.org/ncov since 20 Jan 2020. In this talk, I'll discuss the realisation of 'real-time tracking' with SARS-CoV-2 and what genetic epidemiology has allowed us to uncover about the virus' spread. I'll also discuss some of the challenges Nextstrain has faced in processing and displaying large amounts of real-time data with unprecedented public attention, and how the move from 'global' to 'local' focus is presenting new challenges.
