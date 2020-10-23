@@ -1,0 +1,11 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is on the novel coronavirus, and this the first talk in a series of 3 talks on that topic.
+Please use the YouTube live comment box to ask questions, or tweet @phyloseminar.
+
+Today's speaker is Emma Hodcroft.
+Emma did her PhD with Andrew Leigh Brown, finishing her thesis on virulence in HIV in May 2015.
+She completed her first post-doc position with the PANGEA_HIV initiative, continuing in Andrew Leigh Brown's lab, where she devloped a realistic, stochastic agent-based model to simulate HIV epidemics in sub-Saharan Africa.
+
+Emma is currently a postdoc working on nextstrain with Richard Neher at the Biozentrum University of Basel.
+
+Welcome, Emma, and thank you for participating!
