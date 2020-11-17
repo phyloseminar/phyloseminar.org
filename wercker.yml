@@ -1,4 +1,4 @@
-box: phusion/passenger-ruby19
+box: matsen/passenger-ruby19
 
 build:
   steps:
