@@ -1,4 +1,4 @@
-box: matsen/passenger-ruby19
+box: quay.io/matsen/passenger-ruby19
 
 build:
   steps:
