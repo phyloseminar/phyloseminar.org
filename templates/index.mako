@@ -6,7 +6,11 @@ id: home
 
 <%namespace name="util" file="util.mako"/>
 
+
 <h1>next on phyloseminar.org</h1>
+<p>
+<i>To attend a seminar, visit our [YouTube channel](http://youtube.com/phyloseminar)</i>
+</p>
 % if upcoming:
 <h2>${upcoming['category'] | h}</h2>
 <div class="panel panel-default">
