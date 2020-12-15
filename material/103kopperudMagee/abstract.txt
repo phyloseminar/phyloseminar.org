@@ -1,0 +1,20 @@
+Recently, the discovery of congruent sets of phylogenetic birth-death
+processes has raised a series of questions as to what diversification
+patterns we can infer from phylogenetic trees and which are
+indistinguishable. Many phylogenetic trees are estimated solely from
+extant samples, and thus yield ultrametric trees that lack critical
+information (i.e., extinction events) about the tempo of diversification
+histories. This is the crux of the problem, and makes models in the same
+congruence class statistically unidentifiable. However, the general
+behaviour for such classes is not well known. How similar are these
+classes, are they easy to construct, and is it possible to mimic any
+plausible diversification history within one single class? To answer
+this, we simulate a series of phylogenetic trees, both within and across
+congruence classes, and investigate their properties using state of the
+art Bayesian inference methods. Our results show that the
+diversification rates inferred using Bayesian shrinkage priors produce
+not an arbitrary model from the congruence class. Instead, using
+Bayesian shrinkage priors collapses the congruence class, yielding a
+single, simplest model in accordance with the prior expectations. Thus,
+diversification rate can be inferred from molecular phylogenies when
+realistic priors are used.
