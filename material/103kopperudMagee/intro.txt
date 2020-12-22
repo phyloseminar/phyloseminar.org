@@ -4,9 +4,7 @@ Please use the YouTube live comment box to ask questions.
 I've decided to stop monitoring twitter for questions.
 
 Today's speakers are Bjorn Kopperud and Andy Magee.
-Bjørn did his master's degree at the University of Oslo, studying brain-size evolution in ungulates, using macroevolutionary models of adaptation. He has also worked on text-mining paleontological data using natural language processing techniques, in the little-known phylum of Bryozoa, or moss animals.
-In 2020 he started his PhD studying diversification moels under Sebastian Höhna.
-Andy is a PhD student in the Department of Biology at the University of Washington, Seattle, co-advised by Erick Matsen and Vladimir Minin.
-He studies Bayesian phylogenetic methods with a focus on birth-death processes.
+Bjørn did his master's degree at the University of Oslo, using macroevolutionary models of adaptation, and in 2020 he started his PhD studying diversification moels under Sebastian Höhna.
+Andy is a PhD student in the Department of Biology at the University of Washington, co-advised by myself and Vladimir Minin. Andy studies Bayesian phylogenetic methods with a focus on birth-death processes.
 
 Welcome, both, and thank you for participating!
