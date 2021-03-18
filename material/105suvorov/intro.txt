@@ -1,0 +1,8 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is on machine learning approaches to phylogenetics, and this the first talk in a series of 3 talks on that topic.
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Anton Suvorov.
+Anton received his undergraduate training in entomology from Moscow State University, Russia. He then did his PhD at Brigham Young University (BYU), Provo in Seth Bybee's Lab. Currently he is a postdoctoral research associate at UNC Chapel Hill in Dan Shrider's Lab.
+
+Welcome, Anton, and thank you for participating!

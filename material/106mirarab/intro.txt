@@ -1,0 +1,8 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is on machine learning approaches to phylogenetics, and this the second talk in a series of 3 talks on that topic.
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Siavash Mirarab.
+Siavash is an associate professor at UCSD, working on method development for various areas related to phylogenetics. Before his current position, he finished his Ph.D. with Tandy Warnow at UT-Austin, working on phylogenomic, multiple sequence alignment, and microbiome analyses. His lab works on species tree inference, phylogenetic placement with applications to biodiversity research, methods for analyzing microbiome data, and HIV transmission reconstruction.
+
+Welcome, Siavash, and thank you for participating!

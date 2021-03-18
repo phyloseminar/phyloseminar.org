@@ -1,0 +1,8 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is on machine learning approaches to phylogenetics, and this the third talk in a series of 3 talks on that topic.
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Avi Swartz.
+Avi is currently finishing his undergrad at Harvard studying Computer Science and Molecular Biology. He is generally interested in developing algorithms to address molecular biology problems and is planning on continuing on through grad school in this direction.
+
+Welcome, Avi, and thank you for participating!
