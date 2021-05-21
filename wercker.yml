@@ -1,4 +1,4 @@
-box: quay.io/repository/jgallowa/test_passruby
+box: quay.io/jgallowa/test_passruby
 
 build:
   steps:
