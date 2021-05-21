@@ -1,4 +1,4 @@
-box: quay.io/jgallowa/test_passruby
+box: quay.io/matsengrp/passenger_ruby19
 
 build:
   steps:
