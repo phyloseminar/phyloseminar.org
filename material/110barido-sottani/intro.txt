@@ -1,0 +1,10 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is on the fossilized birth-death process, and this the first talk in a series of 3 talks on that topic.
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Dr. Joëlle Barido-Sottani.
+Joelle did her PhD at the ETH Zürich under Tanja Stadler, then a 2-year postdoc with Tracy Heath at Iowa State, and will soon be a Marie-Curie fellow working with Hélène Morlon at the ENS in Paris.
+Her main research interests are the development and use of birth-death models for Bayesian phylogenetic and phylodynamic inference.
+She is also interested in exploring better programming practices for inference software frameworks, to make them more reliable and maintainable.
+
+Welcome, Joelle, and thank you for participating!
