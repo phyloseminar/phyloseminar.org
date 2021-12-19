@@ -1,0 +1,7 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is evolutionary ecology, and this the third talk in a series of 3 talks on that topic.
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Wade Dismukes, a graduate candidate in Tracy Heath’s lab at Iowa State University. His dissertation focuses on developing new methods in cophylogenetic analysis. He is interested in exploring the uses of machine learning in phylogenetics, particularly in biogeography and host-symbiont evolution.
+
+Welcome, Wade, and thank you for participating!
