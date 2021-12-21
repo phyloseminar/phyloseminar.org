@@ -25,3 +25,28 @@ img.portrait {
     height: auto;
     max-width: 250px;
 }
+
+.heading-display {
+    font-size: calc(3rem + vw);
+    font-weight: 600;
+    line-height: 2;
+    font-weight: 800!important;
+    margin-bottom: -0.5rem!important;
+}
+
+.large-body-no-space {
+    font-size: 150%;
+    font-weight: 400;
+}
+
+.large-body {
+    font-size: 150%;
+    font-weight: 400;
+    margin-bottom: 3rem!important;
+}
+
+.medium-body {
+    font-size: 125%;
+    font-weight: 400;
+    margin-bottom: 3rem!important;
+}
