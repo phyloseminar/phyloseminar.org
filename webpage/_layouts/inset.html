@@ -46,14 +46,14 @@ social:
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         {% for link in page.navigation %}
-        <li {% if page.url == link.url %}class="active"{% endif %}><a href="{{ link.url | remove_first:'/' }}">{{ link.text }}</a></li>
+        <li {% if page.url == link.url %}class="active"{% endif %}><a style="font-size:150%;" href="{{ link.url | remove_first:'/' }}">{{ link.text }}</a></li>
         {% endfor %}
       </ul>
       <ul class="nav navbar-nav navbar-right">
         {% for link in page.social %}
         <li class="pull-left">
           <a title="{{ link.text }}" href="{{ link.url }}" {{ link.attributes }}>
-            <i class="{{ link.icon }} icon-large" aria-hidden="true" role="presentation"></i>
+            <i class="{{ link.icon }} icon-2x" aria-hidden="true" role="presentation"></i>
             <span class="sr-only">{{ link.text }}</span>
           </a>
         </li>

@@ -38,7 +38,7 @@ def render(name, **kwargs):
 
 def main():
     with open('config.yaml') as infile:
-        config = yaml.load(infile)
+        config = yaml.safe_load(infile)
     localtime = dateutil.tz.gettz(config['local-timezone'])
     now = datetime.datetime.now(localtime)
     recorded, upcoming, for_rss = [], [], []
@@ -47,7 +47,7 @@ def main():
         infodir = os.path.dirname(info)
         infoname = os.path.basename(infodir)
         with open(info) as infile:
-            info = yaml.load(infile)
+            info = yaml.safe_load(infile)
         info['infoname'] = infoname
 
         try:
