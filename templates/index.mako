@@ -8,7 +8,7 @@ id: home
 
 
 <h1>next on phyloseminar.org</h1>
-<p>
+<p class="large-body"c>
   <i>To attend a seminar, please visit our <a href="http://youtube.com/phyloseminar">YouTube channel</a>.</i>
 </p>
 % if upcoming:
