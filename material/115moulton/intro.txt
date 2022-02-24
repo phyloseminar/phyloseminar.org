@@ -1,0 +1,9 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is building phylogenetic networks, and this the second talk in a series of 3 talks on that topic.
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Dr. Vincent Moulton, who is Professor in Computational Biology at University of East Anglia. After completing his PhD at Duke University, he has worked as a researcher at University of Bielefeld, University of Canterbury, Massey University, Mid Sweden University, Uppsala University and now University of East Anglia.
+His research interests include phylogenetics, computational biology of RNA, short RNAs, metagenomics, algorithms in bioinformatics, and discrete structures such as graphs and finite metric spaces.
+
+Welcome, Vincent, and thank you for participating!
+
