@@ -1,0 +1,9 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is pandemic analysis, and this the second talk in a series of 4 talks on that topic.
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Dr. Sarah Nadeau.
+
+Sarah just finished her PhD with Tanja Stadler at ETH Zurich, where she focused on genomic epidemiology of SARS-CoV-2 and HIV. Sarah’s primary interest is in teasing epidemiological insights out of genome sequence data. During her PhD, Sarah also worked as an ORISE fellow for the U.S. Centers for Disease Control, developing bioinformatics pipelines for phylogenetic outbreak analyses. Sarah is currently wrapping up her thesis projects and keeping an eye out for open positions in public health.
+
+Welcome, Sarah, and thank you for participating!

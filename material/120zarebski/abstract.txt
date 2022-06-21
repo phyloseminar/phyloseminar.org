@@ -1,0 +1,13 @@
+The COVID-19 pandemic has seen large numbers of viral genomes sequenced and
+thrust genetic epidemiology into the public eye: the reproduction number and the
+prevalence of infection are of particular interest. While the amount of
+sequencing done is unprecedented, most cases still only appear as part of time
+series, and consequently may be left out of phylodynamic inference. Variations
+of the fossilised birth-death model present a way to estimate both the
+reproduction number and prevalence of infection using both sequences and
+occurrence data. Unfortunately, the calculations involved are computationally
+challenging. The TimTam package for BEAST2 implements an approximation scheme
+that extends previous work to utilise time series of cases and makes the
+computation feasible. I will give an overview of the approximation scheme (and
+potential extensions to incorporate additional data) and demonstrate how to use
+the TimTam package.
