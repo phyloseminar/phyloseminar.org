@@ -44,17 +44,24 @@ jobs:
       run: python scripts/generate.py && (cd webpage; bundle exec jekyll build)
 
       # un-comment if you want to download the build from gh before deployment
-      #- name: Archive production artifacts
-      #  uses: actions/upload-artifact@v3
-      #  with:
-      #    path: webpage/_site/
+    - name: Archive production artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: build
+        path: webpage/_site/
 
   deploy:
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     environment: s3
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v3
+    - name: Download Artifact
+      uses: actions/download-artifact@v3
+      with:
+        name: build
+        path: webpage/_site
+    - name: Deploy to S3
     - uses: jakejarvis/s3-sync-action@master
       #with:
       #  args: --acl public-read --follow-symlinks # --delete
