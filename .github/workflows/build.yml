@@ -6,6 +6,7 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+  dispatch_workflow
 
 jobs:
   build:
@@ -40,9 +41,11 @@ jobs:
         gem update --system
         bundle install
 
+    # generates html and builds with jekyll
     - name: build site
       run: python scripts/generate.py && (cd webpage; bundle exec jekyll build)
 
+    # archive the build for use by PR contibutor 
     - name: Archive production artifacts
       uses: actions/upload-artifact@v3
       with:
@@ -50,17 +53,27 @@ jobs:
         path: webpage/_site/
 
   deploy:
+
+    # only deploys code on main branch
     if: github.ref == 'refs/heads/main'
+
+    # build must be complete before deployment
     needs: build
     runs-on: ubuntu-latest
+
+    # the environment where erick created secrets
     environment: s3
+
     steps:
     - uses: actions/checkout@v3
+
+    # grab artifact from build job
     - name: Download Artifact
       uses: actions/download-artifact@v3
       with:
         name: build
         path: webpage/_site
+
     - name: Deploy to S3
       uses: jakejarvis/s3-sync-action@master
       # aws s3 sync options
