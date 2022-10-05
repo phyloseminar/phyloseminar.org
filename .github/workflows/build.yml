@@ -52,6 +52,7 @@ jobs:
 
   deploy:
     if: github.ref == 'refs/heads/main'
+    needs: build
     runs-on: ubuntu-latest
     environment: s3
     steps:
@@ -62,7 +63,7 @@ jobs:
         name: build
         path: webpage/_site
     - name: Deploy to S3
-    - uses: jakejarvis/s3-sync-action@master
+      uses: jakejarvis/s3-sync-action@master
       #with:
       #  args: --acl public-read --follow-symlinks # --delete
       env:
