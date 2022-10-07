@@ -1,11 +1,11 @@
 Hello everyone, and welcome to phyloseminar.org.
-The current theme is pandemic analysis, and this the fifth talk in a series of 5 talks on that topic.
+The current theme is single-cell analysis, and this the first talk in a series of 3 talks on that topic.
 Please use the YouTube live comment box to ask questions.
 
-Today's speaker is Dr. Nicola de Maio.
+Today's speaker is Dr. Reza Kalhor.
 
-Nicola did his PhD with Carolin Kosiol at VetMedUni Vienna.
-His main interests are phylogenetics, population genetics, molecular evolution and genomic epidemiology.
-Nicola is currently a Scientist at the European Bioinformatics Institute (EMBL-EBI), within Nick Goldman's group.
+Reza did his PhD with Lin Chen and Frank Alber at the University of Southern California, working on the 3D organization of the genome; he did his postdoctoral training with George Church at Harvard Medical School working on technologies to store digital and biological information in DNA.
+Broadly speaking, Reza is interested in using molecular recording and genomic barcoding technologies to better understand dynamical biological systems such as embryos.
+Reza is currently an Assistant Professor of Biomedical Engineering at Johns Hopkins University.
 
-Welcome, Nicola, and thank you for participating!
+Welcome, Reza, and thank you for participating!

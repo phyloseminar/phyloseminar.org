@@ -1,0 +1,12 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is single-cell analysis, and this the second talk in a series of 3 talks on that topic.
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Dr. Sebastian Prillo.
+
+Sebastian is a fourth year PhD student in the department of Electrical Engineering and Computer Science at UC Berkeley, advised by Yun Song and Nir Yosef.
+Broadly speaking, Sebastian is interested in mathematical and computational biology.
+More specifically, Sebastian is interested in statistical phylogenetics and its intersection with single-cell biology.
+Recently, Sebastian has been working on branch length estimation for single-cell phylogenies and on rate matrix estimation, with a focus on scalability.
+
+Welcome, Sebastian, and thank you for participating!
