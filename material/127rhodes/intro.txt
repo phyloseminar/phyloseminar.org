@@ -1,0 +1,9 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is birth-death idenitifiability again, and this the first talk in a series of 3 talks on that topic.
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Dr. John Rhodes.
+
+John received his PhD from MIT in Number Theory, but through a curriculum development project was later exposed to phylogenetics. He began working in the area as a side line about 20 years ago, but it soon took over his research program. Much of his research has focused on questions of model identifiability, that is, when is phylogenetic inference even theoretically possible? More recently this has incorporated the coalescent, and networks.
+
+Welcome, John, and thank you for participating!
