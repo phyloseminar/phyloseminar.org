@@ -1,1 +1,3 @@
-TBA
+Models have long been used for understanding changing diversification patterns over time. The rediscovery that models with very different rates through time can fit a phylogeny equally well has led to great concern about the use of these models. We share and add to these concerns: even with time heterogeneous models without these issues, the distribution of the data means that estimates will be very uncertain, something which is rarely communicated in empirical studies. Congruence issues such as those established for certain models of diversification also occur in models as basic as Brownian motion and coin flipping, and part of using models is learning when they can and cannot provide insights. The specific concern about lack of information about rates over time does not apply to models primarily seeking to understand rates across taxa (like in many uses of SSE models), but this does not prove immunity to incongruence in general in such models.
+
+
