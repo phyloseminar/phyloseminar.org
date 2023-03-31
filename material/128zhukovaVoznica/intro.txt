@@ -1,0 +1,11 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is machine learning for the second time, and this the first talk in a series of 4 talks on that topic.
+Please use the YouTube live comment box to ask questions.
+
+Today's speakers are Anna Zhukova and Jakub Voznica.
+
+Anna's initial training is in computer science and math. She did her PhD on metabolic network modelling with David Sherman at Inria Bordeaux. She discovered phylogenetics after joining Olivier Gascuel's team in Institut Pasteur Paris. Broadly speaking Anna's interests are mathematical modelling and algorithms for computational biology of pathogens. Anna is currently a research engineer at the Bioinformatics and Biostatistics Hub in Institut Pasteur, where she develops methods and tools for phylodynamic and phylogeographic analyses of viral and bacterial spreads.
+
+Jakub did his PhD with Hélène Morlon and Anna Zhukova at Institut Pasteur and at Institut de Biologie à l'Ecole Normale Supérieure (IBENS) before obtaining an MBA in entrepreneurship and innovation. Broadly speaking, his interests revolve around public health, epidemiology, AI, and innovation. Jakub is currently a data science coach in a French governmental entrepreneurship program focused on promoting innovation and driving digital transformation within the central administration.
+
+Welcome, both, and thank you for participating!

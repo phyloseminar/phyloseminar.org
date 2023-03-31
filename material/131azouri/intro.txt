@@ -1,0 +1,9 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is machine learning for the second time, and this the last talk in a series of 4 talks on that topic.
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Dr. Dana Azouri.
+
+Dana did her PhD with Prof. Itay Mayrose and Prof. Tal Pupko at Tel-Aviv University. Broadly speaking, Dana is interested in modelling the genome evolution using AI-based approaches (as well as exploring music and sea sports). Dana is currently finding her new way as a data scientist
+
+Welcome, Dana, and thank you for participating!

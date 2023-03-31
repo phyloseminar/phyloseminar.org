@@ -1,0 +1,9 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is machine learning for the second time, and this the second talk in a series of 4 talks on that topic.
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Dr. Michael Landis.
+
+Michael received his PhD in Integrative Biology from UC Berkeley, studying with John Huelsenbeck. Then he did a brief postdoc with Tracy Heath at Iowa State University, followed by another postdoc with Michael Donoghue at Yale University. He is generally interested in phylogenetics and, in particular, models and methods for investigating the evolution, ecology, and biogeography of species. Michael is currently an assistant professor in Biology and Computer Science & Engineering at Washington University in St. Louis.
+
+Welcome, Michael, and thank you for participating!
