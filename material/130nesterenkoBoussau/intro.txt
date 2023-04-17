@@ -1,0 +1,11 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is machine learning for the second time, and this the third talk in a series of 4 talks on that topic.
+Please use the YouTube live comment box to ask questions.
+
+Today's speakers are Bastien Boussau and Luca Nesterenko.
+
+Bastien did his PhD with Manolo Gouy at the LBBE in Lyon, France, on ancestral sequence reconstruction and phylogenetic reconstruction. Then he did a postdoc at UC Berkeley with John Huelsenbeck. Broadly speaking, Bastien's interests are in phylogenomics: reconstructing phylogenies, notably taking into account events of gene transfer, duplication and loss, and studying molecular evolution, notably trying to find associations between phenotypes and individual protein sites. He is also interested in trying to reduce the environmental footprint of research. Bastien currently holds a position as a CNRS researcher at the LBBE, Lyon, France.
+
+Coming from a maths background, Luca's current research interests mainly focus on deep learning methods to extract and process information from biological data, notably in the context of phylogenetic reconstruction, the main subject of his ongoing PhD Thesis at the LBBE lab in Lyon.
+
+Welcome, both, and thank you for participating!
