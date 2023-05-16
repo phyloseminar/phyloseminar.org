@@ -5,6 +5,7 @@ webpage/recorded.html
 webpage/schedule.html
 webpage/_site
 grant/*/build.pdf
+_ignore
 
 # these can be force-added when necessary
 webpage/images/*
