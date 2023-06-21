@@ -13,7 +13,7 @@ import markdown
 import operator
 import os
 import shutil
-import urlparse
+import urllib.parse
 import yaml
 
 md = functools.partial(markdown.markdown, output_format='xhtml')
@@ -87,7 +87,7 @@ def main():
 
         else:
             if 'evx-file' in info:
-                info['evx-url'] = urlparse.urljoin(config['evx-url-base'], info['evx-file'])
+                info['evx-url'] = urllib.parse.urljoin(config['evx-url-base'], info['evx-file'])
             recorded.append(info)
 
     # render the recorded seminars in reverse order
