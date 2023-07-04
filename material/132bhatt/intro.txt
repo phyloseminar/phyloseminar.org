@@ -1,7 +1,9 @@
 Hello everyone, and welcome to phyloseminar.org.
-The current theme is machine learning for the second time, and this the fourth talk in a series of 4 talks on that topic.
+The current theme is machine learning for the second time, and this the fifth talk in a series of 5 talks on that topic.
 Please use the YouTube live comment box to ask questions.
 
-Today's speakers are XXXXXXXXXXXXX
+Today's speaker is Samir Bhatt.
+
+Samir Bhatt is a Professor of Machine Learning and Public Health at the University of Copenhagen and a Professor of Statistics and Public Health at Imperial College London. Samir has a diverse range of interests but is currently enjoying working in branching processes, phylogenetics, image and video processing, infectious disease epidemiology and causal inference. 
 
 Welcome, Samir, and thank you for participating!
