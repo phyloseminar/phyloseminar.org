@@ -1,0 +1,3 @@
+In this talk, I will summarize the content of two recent preprints and a paper in preparation. I will introduce a novel representation of a phylogenetic tree called Phylo2Vec. Phylo2Vec is a bijection to tree space, meaning that every possible tree can be uniquely represented. It is a very simple representation. Phylo2Vec could be useful as an alternative to subtree-prune and regrafting, as well as a metric for specifying tree distance.
+
+Next, I will discuss how Phylo2Vec can be used for gradient-based inference on topologies. I will also cover the possibility of root finding. I will show how gradient based topology searches can potentially be better than the state-of-the-art. Finally, I will touch on new approximations for maximum likelihood and Bayesian inference.
