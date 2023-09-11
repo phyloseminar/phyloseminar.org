@@ -1,9 +1,11 @@
 Hello everyone, and welcome to phyloseminar.org.
-The current theme is machine learning for the second time, and this the fifth talk in a series of 5 talks on that topic.
+The current theme is state-dependent speciation and extinction models, and this the first talk in a series of 3 talks on that topic.
 Please use the YouTube live comment box to ask questions.
 
-Today's speaker is Samir Bhatt.
+Today's speaker is Sarah P. Otto.
 
-Samir Bhatt is a Professor of Machine Learning and Public Health at the University of Copenhagen and a Professor of Statistics and Public Health at Imperial College London. Samir has a diverse range of interests but is currently enjoying working in branching processes, phylogenetics, image and video processing, infectious disease epidemiology and causal inference. 
+Dr. Otto is a professor in the Department of Zoology at the University of British Columbia. Using mathematical modeling and experimental evolution, Dr. Otto investigates the evolutionary forces generating biological diversity. With over 200 publications and a book, her awards include a MacArthur Fellowship, a Guggenheim Fellowship, the Steacie Prize, a Canada Research Chair, and fellowship in the Royal Society of Canada and the National Academy of Sciences. 
 
-Welcome, Samir, and thank you for participating!
+In addition to mathematical modeling, Otto's research group carries out phylogenetic analyses and experimental evolutionary studies using yeast, resulting in over 230 publications. Current research focuses on the nature and scope of beneficial mutations acquired in a changing environments to better understand the constraints on evolutionary adaptation in a changing world. For phylogeneticists, her work on state-dependent speciation and extinction models has been foundational, and so we are especially happy to have her today.
+
+Welcome, Dr. Otto, and thank you for participating!
