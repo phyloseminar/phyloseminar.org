@@ -1,0 +1,14 @@
+As many biologists, I'm interested in the diversity of species, and
+the differences in diversity that exist between clades, and I'm thus excited by
+all the methods that now exist to quantify diversification rates. Indeed, some
+traits have been proposed to be "key innovations", conferring evolutionary
+advantages to the lineages in which they evolved. In plants, such traits might
+be flowers, self-incompatibility, or specialized insect pollination. Although
+considerable progress has been made in the modelling of diversification rates,
+the current models remain extremely simple compared to the complex dynamics of
+diversification in the real world. First, diversification has been shown to be
+influenced by many intrinsic and extrinsic factors. Second, traits do not act in
+isolation but are always embedded in the physiological, morphological and
+ecological context of the species. These are seemingly trivial observations but
+they have largely faled to be taken into account in diversification research,
+and I'll explore some of their implications.
