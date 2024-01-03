@@ -14,7 +14,7 @@ jobs:
     strategy:
       matrix:
         python-version: [3.9]
-        ruby: ['2.6']
+        ruby: ['3.1.2']
 
     steps:
     - uses: actions/checkout@v3
@@ -29,14 +29,14 @@ jobs:
         python -m pip install --upgrade pip
         python -m pip install -r requirements.txt
 
-    - name: Set up Ruby 2.6
+    - name: Set up Ruby 3.1.2
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: ${{ matrix.ruby }}
 
     - name: Set up bundler
       run: |
-        gem install bundler -v '1.16.0'
+        gem install bundler -v '2.5.3'
         gem update --system
         bundle install
 
