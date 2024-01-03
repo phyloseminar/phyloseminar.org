@@ -1,0 +1,9 @@
+Hello everyone, and welcome to phyloseminar.org.
+The current theme is microbial genetics, and this the first talk in a series of 3 talks on that topic.
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Artem Babaian.
+
+Artem 's PhD in Medical Genetics was with Dr. Dixie Mager at the University of British Columbia, focused on the role of Endogenous Retroviruses in the development of human cancer. At the onset of the COVID-19 pandemic, and as an independent scientist (read: unemployed) he initiated the Serratus project, with the aim of re-analyzing all the world's RNA sequencing data to uncover the origins of SARS-CoV-2 and all novel RNA virus species. After starting for a brief few months at The University of Cambridge as a Banting Postdoctoral Fellow, he joined the Department of Molecular Genetics at the University of Toronto  as an Assistant Professor where his new lab focuses on characterizing the complete biodiversity of Earth's RNA viruses.
+
+Welcome, Artem, and thank you for participating!
