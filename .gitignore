@@ -6,6 +6,7 @@ webpage/schedule.html
 webpage/_site
 grant/*/build.pdf
 _ignore
+.jekyll-cache
 
 # these can be force-added when necessary
 webpage/images/*
