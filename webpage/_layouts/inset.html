@@ -19,7 +19,6 @@ layout: default
     </div>
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        {{ site.navigation | inspect }}
         {% for link in site.navigation %}
         <li {% if page.url == link.url %}class="active"{% endif %}><a style="font-size:150%;" href="{{ link.url | remove_first:'/' }}">{{ link.text }}</a></li>
         {% endfor %}
