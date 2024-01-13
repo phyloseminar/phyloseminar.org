@@ -1,1 +1,24 @@
 highlighter: pygments
+
+navigation:
+- text: home
+  url: /index.html
+- text: attending
+  url: /attending.html
+- text: recorded
+  url: /recorded.html
+- text: about
+  url: /about.html
+social:
+- text: YouTube
+  url: http://youtube.com/phyloseminar
+  icon: icon-youtube
+- text: Twitter
+  url: http://twitter.com/phyloseminar
+  icon: icon-twitter
+- text: Google Groups
+  url: https://groups.google.com/forum/?fromgroups#!forum/phyloseminar
+  icon: icon-group
+- text: RSS
+  url: http://phyloseminar.org/index.rss
+  icon: icon-rss

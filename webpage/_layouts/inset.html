@@ -1,32 +1,6 @@
 ---
 layout: default
 
-navigation:
-- text: home
-  url: /index.html
-#- text: schedule
-#  url: /schedule.html
-#- text: connect
-#  url: /connect.html
-- text: attending
-  url: /attending.html
-- text: recorded
-  url: /recorded.html
-- text: about
-  url: /about.html
-social:
-- text: YouTube
-  url: http://youtube.com/phyloseminar
-  icon: icon-youtube
-- text: Twitter
-  url: http://twitter.com/phyloseminar
-  icon: icon-twitter
-- text: Google Groups
-  url: https://groups.google.com/forum/?fromgroups#!forum/phyloseminar
-  icon: icon-group
-- text: RSS
-  url: http://phyloseminar.org/index.rss
-  icon: icon-rss
 ---
 
 <a class="sr-only" href="#main">skip navigation</a>
@@ -45,12 +19,13 @@ social:
     </div>
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        {% for link in page.navigation %}
+        {{ site.navigation | inspect }}
+        {% for link in site.navigation %}
         <li {% if page.url == link.url %}class="active"{% endif %}><a style="font-size:150%;" href="{{ link.url | remove_first:'/' }}">{{ link.text }}</a></li>
         {% endfor %}
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        {% for link in page.social %}
+        {% for link in site.social %}
         <li class="pull-left">
           <a title="{{ link.text }}" href="{{ link.url }}" {{ link.attributes }}>
             <i class="{{ link.icon }} icon-2x" aria-hidden="true" role="presentation"></i>
