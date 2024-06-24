@@ -1,0 +1,9 @@
+Hello everyone, and welcome to phyloseminar.org.
+This is the second time we've had a series on ancestral recombination graphs and this the first talk in a series of 3 talks.
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Arni Gunnarsson.
+
+Árni did his PhD with Pier Palamara at the University of Oxford. His research interests include genealogical inference and applications of genome-wide genealogies to problems in statistical genetics. He is currently a research scientist at deCODE genetics in Reykjavík, Iceland.
+
+Welcome, Arni, and thank you for participating!

@@ -1,0 +1,10 @@
+Hello everyone, and welcome to phyloseminar.org.
+This is the second time we've had a series on ancestral recombination graphs and this the third talk in a series of 3 talks.
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Nate Pope.
+
+Nate received his PhD in 2019 from the University of Texas at Austin under the supervision of Shalene Jha. He is currently a staff scientist in the Kern-Ralph group at the University of Oregon, where he develops statistical methods for applications in population genetics and phylodynamics. His current research interests revolve around the use of variational inference and differential geometry to learn neat things from ancestral recombination graphs.
+
+
+Welcome, Nate, and thank you for participating!

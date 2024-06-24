@@ -1,0 +1,9 @@
+Hello everyone, and welcome to phyloseminar.org.
+This is the second time we've had a series on ancestral recombination graphs and this the second talk in a series of 3 talks.
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Yun Deng.
+
+Yun did his undergraduate in the University of Chinese Academy of Sciences, majoring in Mathematics and Biological Sciences. Yun is now a PhD student co-advised by Professor Yun Song and Professor Rasmus Nielsen at UC Berkeley. Yun’s research mainly focuses on computational population genetics, especially about the inference of Ancestral Recombination Graph and its applications. 
+
+Welcome, Yun, and thank you for participating!
