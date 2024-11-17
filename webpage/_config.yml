@@ -15,7 +15,7 @@ social:
   icon: icon-youtube
 - text: Bluesky
   url: https://bsky.app/profile/phyloseminar.bsky.social
-  icon: icon-bluesky
+  icon: "fa-brands fa-bluesky"
 - text: Twitter
   url: http://twitter.com/phyloseminar
   icon: icon-twitter
