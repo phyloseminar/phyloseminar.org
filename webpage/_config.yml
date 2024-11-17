@@ -13,6 +13,9 @@ social:
 - text: YouTube
   url: http://youtube.com/phyloseminar
   icon: icon-youtube
+- text: Bluesky
+  url: https://bsky.app/profile/phyloseminar.bsky.social
+  icon: icon-bluesky
 - text: Twitter
   url: http://twitter.com/phyloseminar
   icon: icon-twitter
