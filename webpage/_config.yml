@@ -12,16 +12,16 @@ navigation:
 social:
 - text: YouTube
   url: http://youtube.com/phyloseminar
-  icon: icon-youtube
+  icon: "fa-brands fa-youtube"
 - text: Bluesky
   url: https://bsky.app/profile/phyloseminar.bsky.social
   icon: "fa-brands fa-bluesky"
 - text: Twitter
   url: http://twitter.com/phyloseminar
-  icon: icon-twitter
+  icon: "fa-brands fa-twitter"
 - text: Google Groups
   url: https://groups.google.com/forum/?fromgroups#!forum/phyloseminar
-  icon: icon-group
+  icon: "fa-solid fa-users"
 - text: RSS
   url: http://phyloseminar.org/index.rss
-  icon: icon-rss
+  icon: "fa-solid fa-rss"
