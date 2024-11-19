@@ -72,8 +72,6 @@ id: home
 <p>
   If you haven't already, take a look at the <a href="recorded.html">recorded talks</a>.<br>
 <p>
-  Check back soon, or follow us on
-  <a href="http://twitter.com/phyloseminar">Twitter</a>
-  to find out about upcoming seminars!
+  Check back soon, <a href="https://groups.google.com/forum/?fromgroups#!forum/phyloseminar">join the mailing list</a>, or follow us on one of the social media platforms above to find out about upcoming seminars!
 </p>
 % endif
