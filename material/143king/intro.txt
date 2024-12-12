@@ -1,0 +1,9 @@
+Hello everyone, and welcome to phyloseminar.org.
+This is the first talk in a series of 3 talks on the Markov genealogy process.
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Aaron King.
+
+Aaron is the Nelson G. Hairston Professor of Ecology, Evolutionary Biology, and Complex Systems at the University of Michigan and an External Professor at the Santa Fe Institute. He is an applied mathematician and a theoretical biologist whose work focuses on the dynamics of host-pathogen interactions from the scale of infections to that of epidemics. He is best known for his work developing computational methods for efficiently extracting information from noisy, incomplete observations and exploiting these techniques to obtain insights into the determinants of transmission and susceptibility on the basis of time series data of various kinds.
+
+Welcome, Aaron, and thank you for participating!
