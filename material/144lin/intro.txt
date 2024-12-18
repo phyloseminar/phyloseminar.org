@@ -1,9 +1,14 @@
 Hello everyone, and welcome to phyloseminar.org.
-This is the first talk in a series of 3 talks on the Markov genealogy process.
+This is the third talk in a series of 3 talks on the Markov genealogy process.
 Please use the YouTube live comment box to ask questions.
 
-Today's speaker is Aaron King.
+Today's speaker is Chain-ing Liu.
 
-Aaron is the Nelson G. Hairston Professor of Ecology, Evolutionary Biology, and Complex Systems at the University of Michigan and an External Professor at the Santa Fe Institute. He is an applied mathematician and a theoretical biologist whose work focuses on the dynamics of host-pathogen interactions from the scale of infections to that of epidemics. He is best known for his work developing computational methods for efficiently extracting information from noisy, incomplete observations and exploiting these techniques to obtain insights into the determinants of transmission and susceptibility on the basis of time series data of various kinds.
+Qianying did her PhD with Daihai He at Hong Kong Polytechnic University and then worked with Aaron A. King and Edward L. Ionides as a Data Science Fellow at University of Michigan in Ann Arbor. 
 
-Welcome, Aaron, and thank you for participating!
+In general, Qianying is interested in developing theoretical and computational frameworks to address problems in infectious disease evolution and epidemiology.
+
+Qianying is currently a postdoctoral research associate in the Theoretical Biology and Biophysics group at Los Alamos National Laboratory, working with Ethan O. Romero-Severson, Thomas Leitner, and Carmen Molina-Paris. 
+
+
+Welcome, Chain-ing, and thank you for participating!
