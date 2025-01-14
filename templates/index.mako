@@ -9,7 +9,7 @@ id: home
 
 <h1>next on phyloseminar.org</h1>
 <p class="large-body"c>
-  <i>To attend a seminar, please visit our <a href="http://youtube.com/phyloseminar">YouTube channel</a>.</i>
+  <i>To attend a seminar, please visit <a href="https://www.youtube.com/@PhyloseminarOrg/streams">the livestream portion of our YouTube channel</a>.</i>
 </p>
 % if upcoming:
 <h2>${upcoming['category'] | h}</h2>
