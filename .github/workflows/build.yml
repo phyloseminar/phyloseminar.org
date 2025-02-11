@@ -48,14 +48,14 @@ jobs:
     - name: Build site with Jekyll
       run: python scripts/generate.py && (cd webpage; bundle exec jekyll build)
 
-    - name: Upload GitHub Pages artifact
+    - name: build-artifact
       uses: actions/upload-artifact@v4
       with:
         path: webpage/_site/
 
   deploy:
     if: github.ref == 'refs/heads/main'
-    needs: build
+    needs: build-artifact
     runs-on: ubuntu-latest
     environment:
       name: github-pages
