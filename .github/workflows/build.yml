@@ -16,9 +16,9 @@ on:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
+  # pages: write
+  # id-token: write
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
@@ -47,9 +47,9 @@ jobs:
       #     bundler-cache: true # runs 'bundle install' and caches installed gems automatically
       #     cache-version: 0 # Increment this number if you need to re-download cached gems
           
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
+      #- name: Setup Pages
+      # id: pages
+      # uses: actions/configure-pages@v5
         
       # - name: Build with Jekyll
       #   # Outputs to the './_site' directory by default
