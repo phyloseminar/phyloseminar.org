@@ -78,7 +78,7 @@ jobs:
           gem update --system
           bundle install
   
-      - name: Build site with Jekyll
+      - name: Build site with Jekyll 🔧
         run: python scripts/generate.py && (cd webpage; bundle exec jekyll build)
 
       
@@ -87,4 +87,3 @@ jobs:
         with:
           branch: gh-pages
           folder: webpage/_site/
-      
