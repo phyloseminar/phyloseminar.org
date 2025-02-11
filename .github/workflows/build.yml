@@ -1,11 +1,16 @@
 # build.yml
-name: build and deploy
+name: Build and Deploy to GitHub Pages
 
 on:
   push:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write  # Required for GitHub Pages deployment
 
 jobs:
   build:
@@ -24,63 +29,40 @@ jobs:
       with:
         python-version: ${{ matrix.python-version }}
 
-    - name: Install python dependencies
+    - name: Install Python dependencies
       run: |
         python -m pip install --upgrade pip
         python -m pip install -r requirements.txt
 
-    - name: Set up Ruby 3.1.2
+    - name: Set up Ruby ${{ matrix.ruby }}
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: ${{ matrix.ruby }}
 
-    - name: Set up bundler
+    - name: Set up Bundler
       run: |
         gem install bundler -v '2.5.3'
         gem update --system
         bundle install
 
-    # generates html and builds with jekyll
-    - name: build site
+    - name: Build site with Jekyll
       run: python scripts/generate.py && (cd webpage; bundle exec jekyll build)
 
-    # archive the build for use by PR contibutor 
-    - name: Archive production artifacts
-      uses: actions/upload-artifact@v3
+    - name: Upload GitHub Pages artifact
+      uses: actions/upload-pages-artifact@v2
       with:
-        name: build
         path: webpage/_site/
 
   deploy:
-
-    # only deploys code on main branch
     if: github.ref == 'refs/heads/main'
-
-    # build must be complete before deployment
     needs: build
     runs-on: ubuntu-latest
-
-    # the environment where erick created secrets
-    environment: s3
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v1
 
-    # grab artifact from build job
-    - name: Download Artifact
-      uses: actions/download-artifact@v3
-      with:
-        name: build
-        path: webpage/_site
-
-    - name: Deploy to S3
-      uses: jakejarvis/s3-sync-action@master
-      # aws s3 sync options
-      with:
-        args: --acl public-read --follow-symlinks # --delete
-      env:
-        AWS_S3_BUCKET: phyloseminar.org
-        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        AWS_REGION: 'us-west-2'   # optional: defaults to us-east-1
-        SOURCE_DIR: 'webpage/_site/'
