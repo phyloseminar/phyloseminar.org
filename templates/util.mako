@@ -7,7 +7,7 @@
           % if 'youtube-url' in item:
           <a href="${item['youtube-url']}">
             ${item['name'] | h}
-            &nbsp;<i class="icon-youtube-play icon-big" aria-hidden="true" role="presentation"></i>
+            &nbsp;<i class="fa fa-youtube-play" aria-hidden="true" role="presentation"></i>
           </a>
           % else:
           ${item['name'] | h}
@@ -37,8 +37,8 @@
     </div>
     % if collapse and 'abstract' in item:
     <div class="row text-center">
-      <a class="accordion-toggle" data-toggle="collapse" data-parent="#seminars" href="#abstract${panel_id}" role="button">
-        <i class="icon-double-angle-down" aria-hidden="true" role="presentation"></i>
+      <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-target="#abstract${panel_id}" aria-expanded="false" aria-controls="abstract${panel_id}" role="button">
+        <i class="fa fa-angle-down" aria-hidden="true" role="presentation"></i>
         <span class="sr-only">expand abstract</span>
       </a>
     </div>
@@ -46,7 +46,7 @@
   </div>
   % if 'abstract' in item:
   % if collapse:
-  <div id="abstract${panel_id}" class="panel-collapse collapse">
+  <div id="abstract${panel_id}" class="collapse">
   % else:
   <div id="abstract${panel_id}">
   % endif
