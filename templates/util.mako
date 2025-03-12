@@ -35,22 +35,26 @@
         </time>
       </div>
     </div>
-    % if collapse and 'abstract' in item:
-    <div class="row text-center">
-      <button class="btn btn-link accordion-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#abstract${panel_id}" aria-expanded="false" aria-controls="abstract${panel_id}">
-        <i class="fa fa-angle-down" aria-hidden="true" role="presentation"></i>
-        <span class="sr-only">expand abstract</span>
-      </button>
-    </div>
-    % endif
   </div>
   % if 'abstract' in item:
-  % if collapse:
-  <div id="abstract${panel_id}" class="collapse" data-bs-parent="#seminars">
-  % else:
   <div id="abstract${panel_id}">
-  % endif
-    <div class="panel-body">${item['abstract'] | trim, md}</div>
+    <div class="panel-body">
+      % if 'portrait' in item:
+      <div class="col-md-3">
+        <div class="portrait pull-left">
+          <img class="portrait img-rounded" src="${item['portrait']}" width="${item['portrait-width']}" height="${item['portrait-height']}" alt="${item['name']}"/>
+          <div class="text-center"><small role="presentation">${item['name'] | h}</small></div>
+        </div>
+      </div>
+      <div class="col-md-9">
+        ${item['abstract'] | trim, md}
+      </div>
+      % else:
+      <div>
+        ${item['abstract'] | trim, md}
+      </div>
+      % endif
+    </div>
   </div>
   % endif
 </div>

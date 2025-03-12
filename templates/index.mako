@@ -61,7 +61,7 @@ id: home
   <h2>${category | h}</h2>
   % endif
   % for item in rows:
-  ${util.seminar_panel(item, collapse=False, date_only=False, panel_id="{0}{1}".format(loop.parent.index, loop.index))}
+  ${util.seminar_panel(item, date_only=False, panel_id="{0}{1}".format(loop.parent.index, loop.index))}
   % endfor
   % endfor
 </div>
