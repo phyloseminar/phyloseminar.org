@@ -1,0 +1,9 @@
+Hello everyone, and welcome to phyloseminar.org.
+This is the second talk in a series of 3 talks on next-generation sequence evolution models.
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Dr. Faruck Morcos.
+
+Dr. Morcos is an Associate Professor in the Departments of Biological Sciences,  Bioengineering (affiliate) and Physics (affiliate) and member of the Center for Systems Biology at the University of Texas at Dallas. He joined UTD after completing his postdoctoral training at UCSD and Rice University in the Center for Theoretical Biological Physics working with Jose Onuchic and Terence Hwa. He did his Ph.D. in Computer Science at the University of Notre Dame and an MS in Electrical Engineering at the Technical University of Munich.  Dr. Morcos directs the Evolutionary Information Lab which focuses on solving problems at the interface between biology, computation, information theory and biological physics. Morcos lab develops methods to extract and analyze biological information from sequence and genomic data to create models for molecular evolution, protein structure, function, and design as well as to characterize bimolecular interactions. Recently, Morcos Lab works on machine learning approaches to study protein sequence space;  as well as novel models of evolution that unify previous disjoint models of sequence change. We investigate approaches that predict the effects of mutations in protein families to design chimeric repressors,  biosensors and to discover sequence variants  that could restore the effect of deleterious mutations in disease related proteins.
+
+Welcome, Dr. Morcos, and thank you for participating!

@@ -1,0 +1,11 @@
+Hello everyone, and welcome to phyloseminar.org.
+This is the third talk in a series of 3 talks on next-generation sequence evolution models.
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Pierre Barrat-Charlaix.
+
+Pierre did his PhD at the Sorbonne University on the topic of generative protein models. He then worked on the evolution of viral pathogens  at the University of Basel in the team of Richard Neher. He is currently a Research Associate at the Politecnico di Torino in the team Statistical Physics and Interdisciplinary Applications.
+
+Pierre is interested in understanding evolution at the scale of proteins or of simple organisms. He tries to develop quantitative and interpretable models to describe this evolution.
+
+Welcome, Pierre, and thank you for participating!
