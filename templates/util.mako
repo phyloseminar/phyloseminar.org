@@ -37,16 +37,16 @@
     </div>
     % if collapse and 'abstract' in item:
     <div class="row text-center">
-      <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-target="#abstract${panel_id}" aria-expanded="false" aria-controls="abstract${panel_id}" role="button">
+      <button class="btn btn-link accordion-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#abstract${panel_id}" aria-expanded="false" aria-controls="abstract${panel_id}">
         <i class="fa fa-angle-down" aria-hidden="true" role="presentation"></i>
         <span class="sr-only">expand abstract</span>
-      </a>
+      </button>
     </div>
     % endif
   </div>
   % if 'abstract' in item:
   % if collapse:
-  <div id="abstract${panel_id}" class="collapse">
+  <div id="abstract${panel_id}" class="collapse" data-bs-parent="#seminars">
   % else:
   <div id="abstract${panel_id}">
   % endif
