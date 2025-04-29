@@ -11,7 +11,7 @@ navigation:
   url: /about.html
 social:
 - text: YouTube
-  url: http://youtube.com/phyloseminar
+  url: https://www.youtube.com/@PhyloseminarOrg/streams
   icon: "fa-brands fa-youtube"
 - text: Bluesky
   url: https://bsky.app/profile/phyloseminar.bsky.social
