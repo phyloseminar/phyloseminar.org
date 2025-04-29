@@ -6,6 +6,17 @@
     <description>phyloseminar -- a free online seminar about phylogenetics</description>
     <item>
       <title>
+        Pierre Barrat-Charlaix: Reconstruction of ancestral protein sequences using autoregressive generative models, 2025-05-20 09:00 PDT
+      </title>
+      <link>http://phyloseminar.org/</link>
+      <description>&lt;p&gt;Ancestral sequence reconstruction (ASR) is an important tool to understand how protein structure and function changed over the course of evolution. It essentially relies on models of sequence evolution that can quantitatively describe changes in a sequence over time. Such models usually consider that sequence positions evolve independently from each other and neglect epistasis: the context-dependence of the effect of mutations. On the other hands, the last years have seen major developments in the field of generative protein models, which learn constraints associated with structure and function from large ensembles of evolutionarily related proteins. Here, we show that it is possible to extend a specific type of generative model to describe the evolution of sequences in time while taking epistasis into account. We apply the developed technique to the problem of Ancestral Sequence Reconstruction (ASR): given a protein family and its evolutionary tree, we try to infer the sequences of extinct ancestors.
+Using both simulations and data coming from experimental evolution we show that our method outperforms state-of-the-art ones.
+Moreover, it allows for sampling a greater diversity of potential ancestors, allowing for a less biased characterization of ancestral sequences.&lt;/p&gt;</description>
+      <pubDate>2025-04-29T10:00:00-07:00</pubDate>
+      <guid>146barratCharlaix</guid>
+    </item>
+    <item>
+      <title>
         Faruck Morcos: Modeling sequence evolution by learning epistatic terms from protein families, 2025-04-29 09:00 PDT
       </title>
       <link>http://phyloseminar.org/</link>
@@ -41,15 +52,6 @@
 &lt;p&gt;In the first talk, I will discuss what phylodynamics is, describe commonly used approaches to phylodynamic inference, and explain the need for better methods. I will then show how so-called Markov genealogy processes provide a useful formalism for the problem. In particular, I will show how every discretely structured Markov population process induces a unique Markov process in the space of genealogies.&lt;/p&gt;</description>
       <pubDate>2024-12-20T20:00:00-08:00</pubDate>
       <guid>142king</guid>
-    </item>
-    <item>
-      <title>
-        Nate Pope: Untangling ancestral recombination graphs to infer complex demographic scenarios, 2024-11-12 09:00 PST
-      </title>
-      <link>http://phyloseminar.org/</link>
-      <description>&lt;p&gt;The ancestral recombination graph (ARG) encodes the complete genealogical relationships among a set of recombinant DNA sequences, and is a high-dimensional sufficient statistic for many evolutionary and population genetic models. Over the past decade multiple methods have been developed to infer an ARG from phased SNPs, typically using heuristics for the sake of scalability. There are two major obstacles to the use of inferred ARGs for subsequent model-based inference; for example, to fit and evaluate complex demographic models. First, error in ARG reconstruction is inevitable and difficult to diagnose; second, the likelihood of a parameterized model given an ARG is challenging to compute even in the absence of error. We describe a statistical framework that views ARGs as collections of dated events from which simpler time-to-event distributions (coalescences of labelled pairs, trios, quartets, etc.) may be efficiently approximated via weighted empirical distribution functions. Heavily parameterized demographic models can be fit by matching the empirical and expected hazard functions of many marginal time-to-event distributions simultaneously, using standard methods from the theory of continuous-time Markov processes. More generally, we discuss projecting an empirical ARG to a flexible set of time-indexed summary statistics that are amenable to modelling while remaining robust to reconstruction error.&lt;/p&gt;</description>
-      <pubDate>2024-11-02T20:00:00-07:00</pubDate>
-      <guid>141pope</guid>
     </item>
   </channel>
 </rss>
