@@ -6,7 +6,7 @@
     <description>phyloseminar -- a free online seminar about phylogenetics</description>
     <item>
       <title>
-        Pierre Barrat-Charlaix: Reconstruction of ancestral protein sequences using autoregressive generative models, 2025-05-20 09:00 PDT
+        Pierre Barrat-Charlaix: Reconstruction of ancestral protein sequences using autoregressive generative models, 2025-05-21 09:30 PDT
       </title>
       <link>http://phyloseminar.org/</link>
       <description>&lt;p&gt;Ancestral sequence reconstruction (ASR) is an important tool to understand how protein structure and function changed over the course of evolution. It essentially relies on models of sequence evolution that can quantitatively describe changes in a sequence over time. Such models usually consider that sequence positions evolve independently from each other and neglect epistasis: the context-dependence of the effect of mutations. On the other hands, the last years have seen major developments in the field of generative protein models, which learn constraints associated with structure and function from large ensembles of evolutionarily related proteins. Here, we show that it is possible to extend a specific type of generative model to describe the evolution of sequences in time while taking epistasis into account. We apply the developed technique to the problem of Ancestral Sequence Reconstruction (ASR): given a protein family and its evolutionary tree, we try to infer the sequences of extinct ancestors.
