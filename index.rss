@@ -6,6 +6,15 @@
     <description>phyloseminar -- a free online seminar about phylogenetics</description>
     <item>
       <title>
+        Antoine Koehl: Deep Models of Protein Evolution, 2025-05-27 09:00 PDT
+      </title>
+      <link>http://phyloseminar.org/</link>
+      <description>&lt;p&gt;Models of protein evolution seek to quantify how proteins evolve over time while experiencing intricate constraints and adapting new functions. These models are the engine of phylogenetics, enabling, amongst other applications, phylogenetic tree reconstruction and ancestral sequence inference. Classic and contemporary work in protein sequence modeling incompletely address each others’ shortcomings - the gold standard classical models (e.g. WAG, LG) are limited by a need to consider sites in protein sequences as evolving independently, and while deep protein language models are able to account for interactions between sites, they lack an explicit time component. Here, we tackle this challenge by introducing a framework for training deep evolutionary models on protein family trees. By constructing comprehensive training datasets, we are able to train a deep generative model that bridges this methodological gap to model evolutionary transitions on unaligned sequence pairs, capturing the full spectrum of evolutionary forces including insertions and deletions. Our model, termed PEINT (Protein Evolution IN Time) significantly outperforms classical evolutionary approaches and enables realistic simulations of evolutionary trajectories. This advance opens new possibilities to understand and harness evolution for protein design, variant effect prediction, viral evolution forecasting, and statistical phylogenetics.&lt;/p&gt;</description>
+      <pubDate>2025-05-20T10:00:00-07:00</pubDate>
+      <guid>147koehl</guid>
+    </item>
+    <item>
+      <title>
         Pierre Barrat-Charlaix: Reconstruction of ancestral protein sequences using autoregressive generative models, 2025-05-21 09:30 PDT
       </title>
       <link>http://phyloseminar.org/</link>
@@ -42,16 +51,6 @@ Moreover, it allows for sampling a greater diversity of potential ancestors, all
 &lt;p&gt;In the second talk, I will deduce an exact expression for the likelihood of an observed genealogy, as the solution to a well-defined filter equation, which can be solved numerically using standard Monte Carlo techniques. I will conclude by highlighting the need for improved algorithms and indicating some open questions.&lt;/p&gt;</description>
       <pubDate>2025-01-14T10:00:00-08:00</pubDate>
       <guid>143king</guid>
-    </item>
-    <item>
-      <title>
-        Aaron King: Phylodynamics via Markov genealogy processes (1/2), 2025-01-14 09:00 PST
-      </title>
-      <link>http://phyloseminar.org/</link>
-      <description>&lt;p&gt;Phylodynamic inference allows us to extract information on determinants of epidemic dynamics from sampled pathogen genomes. Specifically, phylodynamics seeks to infer the structure and parameterization of dynamic population models from patterns of shared ancestry. A key problem in phylodynamics has been a mismatch between inference methodology and epidemiological models: the approximations that must be made to perform inference conflict with questions of great interest. I will describe recent work in which we have obtained exact expressions for phylodynamic likelihoods associated with population models of (almost) arbitrary complexity. These results unify and strictly extend existing approaches and broaden the scope of phylodynamic inference methods.&lt;/p&gt;
-&lt;p&gt;In the first talk, I will discuss what phylodynamics is, describe commonly used approaches to phylodynamic inference, and explain the need for better methods. I will then show how so-called Markov genealogy processes provide a useful formalism for the problem. In particular, I will show how every discretely structured Markov population process induces a unique Markov process in the space of genealogies.&lt;/p&gt;</description>
-      <pubDate>2024-12-20T20:00:00-08:00</pubDate>
-      <guid>142king</guid>
     </item>
   </channel>
 </rss>
