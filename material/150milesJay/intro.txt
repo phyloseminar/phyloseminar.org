@@ -1,0 +1,9 @@
+Hello everyone, and welcome to phyloseminar.org.
+This is the third talk in a series of 3 talks on the intersection of phylogenetics and public health.
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Arianna Miles-Jay.
+
+Arianna earned her MPH and PhD in Epidemiology at The University of Washington followed by a postdoctoral fellowship focused on the genomic epidemiology of healthcare-associated infections at The University of Michigan. Broadly speaking, Arianna is interested in expanding the implementation of genomic epidemiology within state and local public health through developing sustainable and flexible systems to analyze pathogen sequence data, as well as through teaching the current and future workforce about the power of genomic epidemiology to improve public health. Arianna is currently the Genomic Analysis Unit Manager at the Michigan Department of Health and Human Services Bureau of Laboratories, where she leads a team of bioinformaticians and genomic epidemiologists that process and analyze pathogen genomic data to support infectious disease prevention and response efforts in Michigan.
+
+Welcome, Arianna, and thank you for participating!

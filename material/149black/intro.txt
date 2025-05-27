@@ -1,0 +1,12 @@
+Hello everyone, and welcome to phyloseminar.org.
+This is the second talk in a series of 3 talks on the intersection of phylogenetics and public health.
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Alli Black.
+
+Alli did her PhD in Epidemiology at the University of Washington with Trevor Bedford, where she explored techniques for sequencing Zika viruses in the field and analyzing viral genomic data to describe transmission dynamics. Graduating in April 2020, she used her knowledge of genomic epidemiology to help county public health departments in California use pathogen genomic data to support outbreak response to SARS-CoV-2. 
+
+Alli is currently a Senior Epidemiologist leading the Molecular Epidemiology Program at the Washington State Department of Health, and the PI for the CDC-funded Northwest Pathogen Genomics Center of Excellence. In this role, she collaborates with academics and applied epidemiologists to translate new techniques in genomic epidemiology to public health practice, and strengthen public health's ability to leverage pathogen genomic data.
+
+
+Welcome, Alli, and thank you for participating!
