@@ -6,6 +6,15 @@
     <description>phyloseminar -- a free online seminar about phylogenetics</description>
     <item>
       <title>
+        Henry Kunerth: Genomic Surveillance of Human Respiratory Syncytial Virus in Minnesota – Statewide Efforts, Global Impacts, 2025-06-17 09:00 PDT
+      </title>
+      <link>http://phyloseminar.org/</link>
+      <description>&lt;p&gt;Over the past two respiratory seasons, we’ve successfully sequenced over 3,000 human Respiratory Syncytial Virus (hRSV) genomes at the Minnesota Department of Health – Infectious Disease Laboratory. These efforts began as a foil to our SARS-CoV-2 sequencing efforts, but have grown into a pioneer project for tracking the evolution of this widespread pathogen. In this seminar, Henry will discuss the development of this surveillance program, the application of phylogenetics to identify and track the emergence and seasonal changes in hRSV clades, the applications for genomic epidemiology, and how the efforts of one state lab can have widespread impact on the global picture of the virus. He will also touch on some ongoing work exploring efforts to identify sites that are shaped by positive natural selection and how some may play a role in vaccine and drug resistance. Finally, we’ll wrap up with a discussion about some of the challenges and goals for refining these methods and expanding hRSV surveillance nationally and globally.&lt;/p&gt;</description>
+      <pubDate>2025-05-29T10:00:00-07:00</pubDate>
+      <guid>148kunerth</guid>
+    </item>
+    <item>
+      <title>
         Antoine Koehl: Deep Models of Protein Evolution, 2025-05-27 09:00 PDT
       </title>
       <link>http://phyloseminar.org/</link>
@@ -41,16 +50,6 @@ Moreover, it allows for sampling a greater diversity of potential ancestors, all
       <description>&lt;p&gt;Reassortment is an evolutionary process common in viruses with segmented genomes. These viruses can swap whole genomic segments during cellular co-infection, giving rise to novel progeny, i.e., the reassortant, formed from the mixture of parental segments. The reassortant can lead to severe illness, vaccine-elicited immunity escape, increased fitness, and access to new hosts, which pressures public health surveillance, disease control, and prevention. In light of the Markov Genealogy Process, we can simultaneously model the interdependent viral evolution of each segment tree in the context of a given epidemiological process, incorporated with genealogical changes associated with specified reassortment rates. In doing so, we argue that, in general, the number and pattern of reassortment events are not identifiable from segment trees alone, even with theoretically ideal data. We call this fact the fundamental problem of reassortment, which we illustrate using the concept of the &#34;first-infection tree&#34;, a typically but not always counterfactual genealogy that would have been observed in the segment trees had no reassortment occurred. Further, we illustrate four problems that can arise logically in inferring reassortment events. Using simulated data, we show that these problems are common and can distort our perception of reassortment, even in small data sets. Finally, we discuss how existing methods can be augmented or adapted to account for the fundamental problem of reassortment and the four additional situations that can complicate the inference of reassortment.&lt;/p&gt;</description>
       <pubDate>2025-02-11T10:00:00-08:00</pubDate>
       <guid>144lin</guid>
-    </item>
-    <item>
-      <title>
-        Aaron King: Phylodynamics via Markov genealogy processes (2/2), 2025-02-11 09:00 PST
-      </title>
-      <link>http://phyloseminar.org/</link>
-      <description>&lt;p&gt;Phylodynamic inference allows us to extract information on determinants of epidemic dynamics from sampled pathogen genomes. Specifically, phylodynamics seeks to infer the structure and parameterization of dynamic population models from patterns of shared ancestry. A key problem in phylodynamics has been a mismatch between inference methodology and epidemiological models: the approximations that must be made to perform inference conflict with questions of great interest. I will describe recent work in which we have obtained exact expressions for phylodynamic likelihoods associated with population models of (almost) arbitrary complexity. These results unify and strictly extend existing approaches and broaden the scope of phylodynamic inference methods.&lt;/p&gt;
-&lt;p&gt;In the second talk, I will deduce an exact expression for the likelihood of an observed genealogy, as the solution to a well-defined filter equation, which can be solved numerically using standard Monte Carlo techniques. I will conclude by highlighting the need for improved algorithms and indicating some open questions.&lt;/p&gt;</description>
-      <pubDate>2025-01-14T10:00:00-08:00</pubDate>
-      <guid>143king</guid>
     </item>
   </channel>
 </rss>
