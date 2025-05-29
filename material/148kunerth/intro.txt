@@ -1,12 +1,13 @@
 Hello everyone, and welcome to phyloseminar.org.
-This is the second talk in a series of 3 talks on the intersection of phylogenetics and public health.
+This is the first talk in a series of 3 talks on the intersection of phylogenetics and public health.
 Please use the YouTube live comment box to ask questions.
 
-Today's speaker is Alli Black.
+Today's speaker is Henry Kunerth.
 
-Alli did her PhD in Epidemiology at the University of Washington with Trevor Bedford, where she explored techniques for sequencing Zika viruses in the field and analyzing viral genomic data to describe transmission dynamics. Graduating in April 2020, she used her knowledge of genomic epidemiology to help county public health departments in California use pathogen genomic data to support outbreak response to SARS-CoV-2. 
+Henry completed his PhD in the Ecology and Evolutionary Biology Department at Cornell University in 2022. There he studied the evolutionary genomics, population genetics, and speciation of an invasive moth, the European Corn Borer. After that he made a jump into the world of public health, joining the Minnesota Department of Health – Infectious Disease Laboratory as a research scientist and bioinformatician. 
 
-Alli is currently a Senior Epidemiologist leading the Molecular Epidemiology Program at the Washington State Department of Health, and the PI for the CDC-funded Northwest Pathogen Genomics Center of Excellence. In this role, she collaborates with academics and applied epidemiologists to translate new techniques in genomic epidemiology to public health practice, and strengthen public health's ability to leverage pathogen genomic data.
+Broadly, he has interests in applying insights from his PhD studies to better understand infectious disease outbreaks and how the genomes of the pathogens that drive these outbreaks might be shaped by natural selection. 
 
+He also has strong interests in teaching, which he currently applies by disseminating methods and best practices learned in public health to help educate a new generation of laboratorians, bioinformaticians, and genomic epidemiologists across the globe. 
 
-Welcome, Alli, and thank you for participating!
+Welcome, Hentry, and thank you for participating!
