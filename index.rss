@@ -6,6 +6,24 @@
     <description>phyloseminar -- a free online seminar about phylogenetics</description>
     <item>
       <title>
+        Arianna Miles-Jay: Applying phylogenetics in public health: Past, present, and potential for the future, 2025-08-12 09:00 PDT
+      </title>
+      <link>http://phyloseminar.org/</link>
+      <description>&lt;p&gt;With the rapid growth of pathogen genomics in public health comes the increasing potential for applying phylogenetic methods within the applied public health space. While there is an immense availability of data, the infrastructure, systems, and workforce within public health are largely not designed to maximize that potential. In this seminar, Arianna will discuss some of the ways phylogenetic methods have been applied within public health to date. She will also share some of the unique challenges, opportunities, and hopes for the future for translating findings from phylogenetic approaches to public health action.&lt;/p&gt;</description>
+      <pubDate>2025-06-15T10:00:00-07:00</pubDate>
+      <guid>150milesJay</guid>
+    </item>
+    <item>
+      <title>
+        Alli Black: Practicing the theory: Applying genomic epidemiology to guide public health action., 2025-07-15 09:00 PDT
+      </title>
+      <link>http://phyloseminar.org/</link>
+      <description>&lt;p&gt;TBA&lt;/p&gt;</description>
+      <pubDate>2025-06-17T10:00:00-07:00</pubDate>
+      <guid>149black</guid>
+    </item>
+    <item>
+      <title>
         Henry Kunerth: Genomic Surveillance of Human Respiratory Syncytial Virus in Minnesota – Statewide Efforts, Global Impacts, 2025-06-17 09:00 PDT
       </title>
       <link>http://phyloseminar.org/</link>
@@ -32,24 +50,6 @@ Using both simulations and data coming from experimental evolution we show that 
 Moreover, it allows for sampling a greater diversity of potential ancestors, allowing for a less biased characterization of ancestral sequences.&lt;/p&gt;</description>
       <pubDate>2025-04-29T10:00:00-07:00</pubDate>
       <guid>146barratCharlaix</guid>
-    </item>
-    <item>
-      <title>
-        Faruck Morcos: Modeling sequence evolution by learning epistatic terms from protein families, 2025-04-29 09:00 PDT
-      </title>
-      <link>http://phyloseminar.org/</link>
-      <description>&lt;p&gt;The use of coevolutionary information, i.e. the knowledge of amino acid or nucleotide interactions maintained through evolution in each protein family, has provided a framework to study structural biology in a predictive manner. Amino acid couplings, obtained from inference algorithms like Direct Coupling Analysis, have been fundamental to predict non-local interactions in protein three-dimensional structure, being now the core of state-of-the-art protein structure prediction algorithms. Coevolutionary information has had an impact in understanding conformational plasticity, complex prediction in molecular interactions and specificity in signal transduction and predicting the effect of mutations. In this seminar I will discuss new directions in the study of global models of sequence evolution, primarily focused on the integration of theory and experiment. I will present recent advances in my lab integrating the statistical mechanics of sequences to develop a model of sequence evolution called Sequence Evolution with Epistatic Contributions (SEEC) that unifies several statistical features of independent models by integrating epistatic contributions and context dependance in the formulation of evolutionary landscapes. We then demonstrate how this model can produce, in silico, evolved sequences that are functional, in vivo, even after a large number of mutational events proposed by the dynamics of the model.&lt;/p&gt;</description>
-      <pubDate>2025-03-26T10:00:00-07:00</pubDate>
-      <guid>145morcos</guid>
-    </item>
-    <item>
-      <title>
-        Qianying Lin: Segment trees can not identify viral genomic reassortment, 2025-03-12 09:00 PDT
-      </title>
-      <link>http://phyloseminar.org/</link>
-      <description>&lt;p&gt;Reassortment is an evolutionary process common in viruses with segmented genomes. These viruses can swap whole genomic segments during cellular co-infection, giving rise to novel progeny, i.e., the reassortant, formed from the mixture of parental segments. The reassortant can lead to severe illness, vaccine-elicited immunity escape, increased fitness, and access to new hosts, which pressures public health surveillance, disease control, and prevention. In light of the Markov Genealogy Process, we can simultaneously model the interdependent viral evolution of each segment tree in the context of a given epidemiological process, incorporated with genealogical changes associated with specified reassortment rates. In doing so, we argue that, in general, the number and pattern of reassortment events are not identifiable from segment trees alone, even with theoretically ideal data. We call this fact the fundamental problem of reassortment, which we illustrate using the concept of the &#34;first-infection tree&#34;, a typically but not always counterfactual genealogy that would have been observed in the segment trees had no reassortment occurred. Further, we illustrate four problems that can arise logically in inferring reassortment events. Using simulated data, we show that these problems are common and can distort our perception of reassortment, even in small data sets. Finally, we discuss how existing methods can be augmented or adapted to account for the fundamental problem of reassortment and the four additional situations that can complicate the inference of reassortment.&lt;/p&gt;</description>
-      <pubDate>2025-02-11T10:00:00-08:00</pubDate>
-      <guid>144lin</guid>
     </item>
   </channel>
 </rss>
