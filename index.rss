@@ -6,6 +6,15 @@
     <description>phyloseminar -- a free online seminar about phylogenetics</description>
     <item>
       <title>
+        Niko Beerenwinkel: Modeling tumor progression from single-cell sequencing data, 2025-09-16 09:00 PDT
+      </title>
+      <link>http://phyloseminar.org/</link>
+      <description>&lt;p&gt;Cancer progression is a somatic evolutionary process characterized by the accumulation of genetic alterations and responsible for tumor growth, clinical progression, and drug resistance development. I will present probabilistic models for reconstructing the evolutionary history of a tumor from single-cell sequencing data, including efficient inference algorithms for mutation calling and for learning tumor phylogenies from mutation and copy number data. I will also discuss computational methods for finding common patterns of tumor evolution among patients and for inferring the underlying cellular fitness landscape of cancer evolution.&lt;/p&gt;</description>
+      <pubDate>2025-09-08T10:00:00-07:00</pubDate>
+      <guid>151beerenwinkel</guid>
+    </item>
+    <item>
+      <title>
         Arianna Miles-Jay: Applying phylogenetics in public health: Past, present, and potential for the future, 2025-08-12 09:00 PDT
       </title>
       <link>http://phyloseminar.org/</link>
@@ -39,17 +48,6 @@
       <description>&lt;p&gt;Models of protein evolution seek to quantify how proteins evolve over time while experiencing intricate constraints and adapting new functions. These models are the engine of phylogenetics, enabling, amongst other applications, phylogenetic tree reconstruction and ancestral sequence inference. Classic and contemporary work in protein sequence modeling incompletely address each others’ shortcomings - the gold standard classical models (e.g. WAG, LG) are limited by a need to consider sites in protein sequences as evolving independently, and while deep protein language models are able to account for interactions between sites, they lack an explicit time component. Here, we tackle this challenge by introducing a framework for training deep evolutionary models on protein family trees. By constructing comprehensive training datasets, we are able to train a deep generative model that bridges this methodological gap to model evolutionary transitions on unaligned sequence pairs, capturing the full spectrum of evolutionary forces including insertions and deletions. Our model, termed PEINT (Protein Evolution IN Time) significantly outperforms classical evolutionary approaches and enables realistic simulations of evolutionary trajectories. This advance opens new possibilities to understand and harness evolution for protein design, variant effect prediction, viral evolution forecasting, and statistical phylogenetics.&lt;/p&gt;</description>
       <pubDate>2025-05-20T10:00:00-07:00</pubDate>
       <guid>147koehl</guid>
-    </item>
-    <item>
-      <title>
-        Pierre Barrat-Charlaix: Reconstruction of ancestral protein sequences using autoregressive generative models, 2025-05-21 09:30 PDT
-      </title>
-      <link>http://phyloseminar.org/</link>
-      <description>&lt;p&gt;Ancestral sequence reconstruction (ASR) is an important tool to understand how protein structure and function changed over the course of evolution. It essentially relies on models of sequence evolution that can quantitatively describe changes in a sequence over time. Such models usually consider that sequence positions evolve independently from each other and neglect epistasis: the context-dependence of the effect of mutations. On the other hands, the last years have seen major developments in the field of generative protein models, which learn constraints associated with structure and function from large ensembles of evolutionarily related proteins. Here, we show that it is possible to extend a specific type of generative model to describe the evolution of sequences in time while taking epistasis into account. We apply the developed technique to the problem of Ancestral Sequence Reconstruction (ASR): given a protein family and its evolutionary tree, we try to infer the sequences of extinct ancestors.
-Using both simulations and data coming from experimental evolution we show that our method outperforms state-of-the-art ones.
-Moreover, it allows for sampling a greater diversity of potential ancestors, allowing for a less biased characterization of ancestral sequences.&lt;/p&gt;</description>
-      <pubDate>2025-04-29T10:00:00-07:00</pubDate>
-      <guid>146barratCharlaix</guid>
     </item>
   </channel>
 </rss>
