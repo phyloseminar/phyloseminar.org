@@ -1,2 +1,1 @@
-TBA
-
+Cancer is the result of an evolutionary process where genomic mutations and epigenetic alterations accumulate in cells that form a tumor.  Modern single-cell and spatial sequencing technologies enable the measurement of mutations at thousands of cells or spatial locations within a tumor.  However, due to technical limitations these measurements are typically sparse with high rates of missing data.  In this talk, I will describe algorithms that overcome these limitations and: (1) Reconstruct tumor evolution in space from large copy number aberrations, revealing directions of tumor growth in 2D and 3D; (2) Analyze tumor evolution over time and in response to treatment using longitudinal single-cell sequencing.
