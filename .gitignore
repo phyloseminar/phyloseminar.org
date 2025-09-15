@@ -10,3 +10,4 @@ _ignore
 
 # these can be force-added when necessary
 webpage/images/*
+.claude
