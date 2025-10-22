@@ -6,6 +6,24 @@
     <description>phyloseminar -- a free online seminar about phylogenetics</description>
     <item>
       <title>
+        Trevor Graham: Quantitative measurement of cancer evolutionary history from single-sample bulk DNA methylation data, 2025-11-24 09:00 PST
+      </title>
+      <link>http://phyloseminar.org/</link>
+      <description>&lt;p&gt;Cancers evolve. Current methods to measure evolutionary dynamics rely on genome sequencing of multiple samples from each tumour to detect subclonal mutations and using them to perform phylogenetic tree inference. In this talk I will show a very different approach that uses only single-sample bulk DNA methylation data to provide an unexpectedly rich read out of the clonal history of tumour evolution. Our approach relies on “fluctuating DNA methylation” - the random loss and gain of methylation at particular CpG sites which are evolutionarily neutral. We infer evolutionary history by modelling the site frequency spectrum of fluctuating methylation within single samples. I will show applications in haematological cancers where we use the approach to measure, in 1000s of cancers, tumour age, growth rate and various features of subclonal dynamics.&lt;/p&gt;</description>
+      <pubDate>2025-10-20T10:00:00-07:00</pubDate>
+      <guid>153graham</guid>
+    </item>
+    <item>
+      <title>
+        Ben Raphael: Tumor Evolution over Space and Time, 2025-10-20 09:00 PDT
+      </title>
+      <link>http://phyloseminar.org/</link>
+      <description>&lt;p&gt;Cancer is the result of an evolutionary process where genomic mutations and epigenetic alterations accumulate in cells that form a tumor.  Modern single-cell and spatial sequencing technologies enable the measurement of mutations at thousands of cells or spatial locations within a tumor.  However, due to technical limitations these measurements are typically sparse with high rates of missing data.  In this talk, I will describe algorithms that overcome these limitations and: (1) Reconstruct tumor evolution in space from large copy number aberrations, revealing directions of tumor growth in 2D and 3D; (2) Analyze tumor evolution over time and in response to treatment using longitudinal single-cell sequencing.&lt;/p&gt;</description>
+      <pubDate>2025-10-20T10:00:00-07:00</pubDate>
+      <guid>152raphael</guid>
+    </item>
+    <item>
+      <title>
         Niko Beerenwinkel: Modeling tumor progression from single-cell sequencing data, 2025-09-16 09:00 PDT
       </title>
       <link>http://phyloseminar.org/</link>
@@ -30,24 +48,6 @@
       <description>&lt;p&gt;In this seminar I&#39;ll describe the bread and butter applications of genomic epidemiology in public health practice, contrast genomic epidemiological research projects with the realities of applied genomic epidemiology in practice, and highlight the unique opportunities and particular challenges one encounters in public health. To make this more concrete, I&#39;ll show examples from our recent work using genomics to support H5N1 outbreak response in Washington. I&#39;ll close with some of the opportunities I see for academic research to strengthen applied genomic epidemiology in public health practice.&lt;/p&gt;</description>
       <pubDate>2025-06-17T10:00:00-07:00</pubDate>
       <guid>149black</guid>
-    </item>
-    <item>
-      <title>
-        Henry Kunerth: Genomic Surveillance of Human Respiratory Syncytial Virus in Minnesota – Statewide Efforts, Global Impacts, 2025-06-17 09:00 PDT
-      </title>
-      <link>http://phyloseminar.org/</link>
-      <description>&lt;p&gt;Over the past two respiratory seasons, we’ve successfully sequenced over 3,000 human Respiratory Syncytial Virus (hRSV) genomes at the Minnesota Department of Health – Infectious Disease Laboratory. These efforts began as a foil to our SARS-CoV-2 sequencing efforts, but have grown into a pioneer project for tracking the evolution of this widespread pathogen. In this seminar, Henry will discuss the development of this surveillance program, the application of phylogenetics to identify and track the emergence and seasonal changes in hRSV clades, the applications for genomic epidemiology, and how the efforts of one state lab can have widespread impact on the global picture of the virus. He will also touch on some ongoing work exploring efforts to identify sites that are shaped by positive natural selection and how some may play a role in vaccine and drug resistance. Finally, we’ll wrap up with a discussion about some of the challenges and goals for refining these methods and expanding hRSV surveillance nationally and globally.&lt;/p&gt;</description>
-      <pubDate>2025-05-29T10:00:00-07:00</pubDate>
-      <guid>148kunerth</guid>
-    </item>
-    <item>
-      <title>
-        Antoine Koehl: Deep Models of Protein Evolution, 2025-05-27 09:00 PDT
-      </title>
-      <link>http://phyloseminar.org/</link>
-      <description>&lt;p&gt;Models of protein evolution seek to quantify how proteins evolve over time while experiencing intricate constraints and adapting new functions. These models are the engine of phylogenetics, enabling, amongst other applications, phylogenetic tree reconstruction and ancestral sequence inference. Classic and contemporary work in protein sequence modeling incompletely address each others’ shortcomings - the gold standard classical models (e.g. WAG, LG) are limited by a need to consider sites in protein sequences as evolving independently, and while deep protein language models are able to account for interactions between sites, they lack an explicit time component. Here, we tackle this challenge by introducing a framework for training deep evolutionary models on protein family trees. By constructing comprehensive training datasets, we are able to train a deep generative model that bridges this methodological gap to model evolutionary transitions on unaligned sequence pairs, capturing the full spectrum of evolutionary forces including insertions and deletions. Our model, termed PEINT (Protein Evolution IN Time) significantly outperforms classical evolutionary approaches and enables realistic simulations of evolutionary trajectories. This advance opens new possibilities to understand and harness evolution for protein design, variant effect prediction, viral evolution forecasting, and statistical phylogenetics.&lt;/p&gt;</description>
-      <pubDate>2025-05-20T10:00:00-07:00</pubDate>
-      <guid>147koehl</guid>
     </item>
   </channel>
 </rss>
