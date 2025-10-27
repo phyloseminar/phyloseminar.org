@@ -1,4 +1,5 @@
 highlighter: pygments
+url: "https://www.phyloseminar.org"
 
 navigation:
 - text: home
@@ -23,5 +24,5 @@ social:
   url: https://groups.google.com/forum/?fromgroups#!forum/phyloseminar
   icon: "fa-solid fa-users"
 - text: RSS
-  url: http://phyloseminar.org/index.rss
+  url: https://www.phyloseminar.org/index.rss
   icon: "fa-solid fa-rss"
