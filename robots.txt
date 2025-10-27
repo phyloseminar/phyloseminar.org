@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.phyloseminar.org/sitemap.xml
