@@ -1,0 +1,5 @@
+Animal genomes record evolutionary history across multiple scales, from local gene neighborhoods to chromosome-wide architectures, but most comparative approaches still treat these layers separately. Here I present a multi-scale synteny framework that integrates microsynteny, macrosynteny, and genome-wide patterns of rearrangement to reconstruct deep animal relationships and quantify how chromosome structure evolves through time.
+
+Across chromosome-scale assemblies spanning Metazoa, we model the gain and loss of syntenic blocks as a birth-death-like process to compare rates and modes of genome restructuring among lineages. We also discuss a pattern of large-scale reorganization, fusion-with-mixing (FWM), in which segments from distinct ancestral chromosomes become interleaved following fusion.
+
+Characterizing chromosomal fusion-with-mixing events across animals and their close relatives revealed strong FWM signatures that supports ctenophores as sister to all other animals. While nascent, multi-scale synteny provides a unified lens to study chromosome evolution across the scale of the tree-of-life.
