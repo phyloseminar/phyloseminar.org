@@ -6,6 +6,36 @@
     <description>phyloseminar -- a free online seminar about phylogenetics</description>
     <item>
       <title>
+        Cedric Chauve: Handling uncertainty in ancestral gene orders reconstruction, 2026-04-27 09:00 PDT
+      </title>
+      <link>http://phyloseminar.org/</link>
+      <description>&lt;p&gt;Over the last thirty years, the algorithms used for reconstructing ancestral gene orders from extant gene orders have evolved from methods that did not account for gene evolution (the Small Parsimony Problem) to methods relying heavily on the availability of reconciled gene trees. In this talk I will describe how ancestral gene orders reconstruction is a problem that can be related to both genome assembly and phylogenomics. I will use this point of view to review the evolution of ancestral gene orders reconstruction methods, and how the increasing use of gene trees has drastically changed the way the problem is addressed, especially toward handling uncertainty and ambiguity in proposed ancestral gene orders.&lt;/p&gt;</description>
+      <pubDate>2026-02-03T10:00:00-08:00</pubDate>
+      <guid>156chauve</guid>
+    </item>
+    <item>
+      <title>
+        Darrin Schultz: Understanding animal evolution through multi-scale synteny, 2026-03-16 09:00 PDT
+      </title>
+      <link>http://phyloseminar.org/</link>
+      <description>&lt;p&gt;Animal genomes record evolutionary history across multiple scales, from local gene neighborhoods to chromosome-wide architectures, but most comparative approaches still treat these layers separately. Here I present a multi-scale synteny framework that integrates microsynteny, macrosynteny, and genome-wide patterns of rearrangement to reconstruct deep animal relationships and quantify how chromosome structure evolves through time.&lt;/p&gt;
+&lt;p&gt;Across chromosome-scale assemblies spanning Metazoa, we model the gain and loss of syntenic blocks as a birth-death-like process to compare rates and modes of genome restructuring among lineages. We also discuss a pattern of large-scale reorganization, fusion-with-mixing (FWM), in which segments from distinct ancestral chromosomes become interleaved following fusion.&lt;/p&gt;
+&lt;p&gt;Characterizing chromosomal fusion-with-mixing events across animals and their close relatives revealed strong FWM signatures that supports ctenophores as sister to all other animals. While nascent, multi-scale synteny provides a unified lens to study chromosome evolution across the scale of the tree-of-life.&lt;/p&gt;</description>
+      <pubDate>2026-02-03T10:00:00-08:00</pubDate>
+      <guid>155schultz</guid>
+    </item>
+    <item>
+      <title>
+        Nadia El-Mabrouk: Reconstructing the evolution of homologous genomic regions through gain and loss events, 2026-03-05 09:00 PST
+      </title>
+      <link>http://phyloseminar.org/</link>
+      <description>&lt;p&gt;Several biological systems rely on sets of colocalized genes sharing a common evolutionary history, and recovering such history is an important step towards elucidating many biological questions. This has been the focus of our group in the last years. We developed Synesth (for SYNteny Evolution in SegmenTal Histories) predicting the evolution of homologous genomic regions, also called syntenies, through segmental events such as duplications, horizontal transfers, gains or losses, likely involving multiple genes. The algorithm is based on a reconciliation framework comparing two topologies: a species tree and a synteny tree. Through an algebraic dynamic programming scheme, Synesth can produce various kinds of outputs (number of events, minimum cost, Pareto-optimal vectors, a single history, a set of equivalent histories, etc). However, as phylogenetic studies usually lead to gene trees, the main challenge of using Synesth is to have an appropriate synteny tree as input. Therefore, we also developed FullSynesth rather taking as input a set of gene trees and simultaneously building and reconciling a synteny supertree. Moreover, to make the problem tractable, gains were excluded from the optimization function, i.e. contrary to losses, taking advantage of simultaneous gains of multiple was disregarded. Therefore, we then studied the problem of minimizing gain and loss episodes on a tree, starting with a simple and tractable version of the Small Parsimony Problem.&lt;/p&gt;
+&lt;p&gt;This presentation will provide an overview of the problem, its various algorithmic aspects, computational complexity, and those related to the solution space, and we will give some examples of biological applications.&lt;/p&gt;</description>
+      <pubDate>2026-02-03T10:00:00-08:00</pubDate>
+      <guid>154elmabrouk</guid>
+    </item>
+    <item>
+      <title>
         Trevor Graham: Quantitative measurement of cancer evolutionary history from single-sample bulk DNA methylation data, 2025-11-24 09:00 PST
       </title>
       <link>http://phyloseminar.org/</link>
@@ -21,33 +51,6 @@
       <description>&lt;p&gt;Cancer is the result of an evolutionary process where genomic mutations and epigenetic alterations accumulate in cells that form a tumor.  Modern single-cell and spatial sequencing technologies enable the measurement of mutations at thousands of cells or spatial locations within a tumor.  However, due to technical limitations these measurements are typically sparse with high rates of missing data.  In this talk, I will describe algorithms that overcome these limitations and: (1) Reconstruct tumor evolution in space from large copy number aberrations, revealing directions of tumor growth in 2D and 3D; (2) Analyze tumor evolution over time and in response to treatment using longitudinal single-cell sequencing.&lt;/p&gt;</description>
       <pubDate>2025-10-20T10:00:00-07:00</pubDate>
       <guid>152raphael</guid>
-    </item>
-    <item>
-      <title>
-        Niko Beerenwinkel: Modeling tumor progression from single-cell sequencing data, 2025-09-16 09:00 PDT
-      </title>
-      <link>http://phyloseminar.org/</link>
-      <description>&lt;p&gt;Cancer progression is a somatic evolutionary process characterized by the accumulation of genetic alterations and responsible for tumor growth, clinical progression, and drug resistance development. I will present probabilistic models for reconstructing the evolutionary history of a tumor from single-cell sequencing data, including efficient inference algorithms for mutation calling and for learning tumor phylogenies from mutation and copy number data. I will also discuss computational methods for finding common patterns of tumor evolution among patients and for inferring the underlying cellular fitness landscape of cancer evolution.&lt;/p&gt;</description>
-      <pubDate>2025-09-08T10:00:00-07:00</pubDate>
-      <guid>151beerenwinkel</guid>
-    </item>
-    <item>
-      <title>
-        Arianna Miles-Jay: Applying phylogenetics in public health: Past, present, and potential for the future, 2025-08-12 09:00 PDT
-      </title>
-      <link>http://phyloseminar.org/</link>
-      <description>&lt;p&gt;With the rapid growth of pathogen genomics in public health comes the increasing potential for applying phylogenetic methods within the applied public health space. While there is an immense availability of data, the infrastructure, systems, and workforce within public health are largely not designed to maximize that potential. In this seminar, Arianna will discuss some of the ways phylogenetic methods have been applied within public health to date. She will also share some of the unique challenges, opportunities, and hopes for the future for translating findings from phylogenetic approaches to public health action.&lt;/p&gt;</description>
-      <pubDate>2025-06-15T10:00:00-07:00</pubDate>
-      <guid>150milesJay</guid>
-    </item>
-    <item>
-      <title>
-        Alli Black: Practicing the theory: Applying genomic epidemiology to guide public health action., 2025-07-15 09:00 PDT
-      </title>
-      <link>http://phyloseminar.org/</link>
-      <description>&lt;p&gt;In this seminar I&#39;ll describe the bread and butter applications of genomic epidemiology in public health practice, contrast genomic epidemiological research projects with the realities of applied genomic epidemiology in practice, and highlight the unique opportunities and particular challenges one encounters in public health. To make this more concrete, I&#39;ll show examples from our recent work using genomics to support H5N1 outbreak response in Washington. I&#39;ll close with some of the opportunities I see for academic research to strengthen applied genomic epidemiology in public health practice.&lt;/p&gt;</description>
-      <pubDate>2025-06-17T10:00:00-07:00</pubDate>
-      <guid>149black</guid>
     </item>
   </channel>
 </rss>
