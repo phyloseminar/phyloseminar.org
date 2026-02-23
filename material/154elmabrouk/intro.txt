@@ -1,10 +1,12 @@
 Hello everyone, and welcome to phyloseminar.org.
-This is the first talk in a new series on synteny.
+This is the first talk in a series of three talks on synteny and its connections with phylogenetics.
 
 Please use the YouTube live comment box to ask questions.
 
 Today's speaker is Nadia El-Mabrouk.
 
+Nadia is a Full Professor in the Department of Computer Science and Operations Research at Université de Montréal. She obtained her PhD in theoretical computer science from Université Paris VII in 1996. She is a member of the Centre de Recherches Mathématiques and the Centre Robert Cedergren at Université de Montréal.
 
+Nadia's research focuses on developing algorithmic and mathematical methods for comparative genomics. Over the course of her career, she has made important contributions to genome rearrangement, gene tree-species tree reconciliation, and the modeling of segmental duplication and loss events. She has published over 100 papers in these areas. 
 
 Welcome, Nadia, and thank you for participating!
