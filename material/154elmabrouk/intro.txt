@@ -5,8 +5,8 @@ Please use the YouTube live comment box to ask questions.
 
 Today's speaker is Nadia El-Mabrouk.
 
-Nadia is a Full Professor in the Department of Computer Science and Operations Research at Université de Montréal. She obtained her PhD in theoretical computer science from Université Paris VII in 1996. She is a member of the Centre de Recherches Mathématiques and the Centre Robert Cedergren at Université de Montréal.
+Nadia did her Ph.D. with Maxime Crochemore at Université Marne-La-Vallée in France, before joining the Mathematical Research Center (Centre de Recherche Mathématiques, CRM) at the University of Montreal for a postdoc with David Sankoff in 1998. She is presently full professor, and graduate studies director at the Computer Science Department (Département d’informatique et de recherche opérationnelle, DIRO) at the University of Montreal. 
 
-Nadia's research focuses on developing algorithmic and mathematical methods for comparative genomics. Over the course of her career, she has made important contributions to genome rearrangement, gene tree-species tree reconciliation, and the modeling of segmental duplication and loss events. She has published over 100 papers in these areas. 
+She has longstanding experience in developing algorithms for comparative genomics and more specifically genome rearrangements, gene tree reconstruction and tree reconciliation. Nadia is involved, each year, in the program committee of some of the most popular conferences in computational biology such as ISMB/ECCB, RECOMB, WABI and others. She is regularly involved in the organization of bioinformatics workshops, the latest being the “Novel Mathematical Paradigm for Phylogenomics” workshop held last summer at the Banff International Research Station.
 
 Welcome, Nadia, and thank you for participating!
