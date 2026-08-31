@@ -1,0 +1,10 @@
+Hello everyone, and welcome to phyloseminar.org.
+This is the second talk in a series on advances in mutation and selection models.
+
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Sergei Kosakovsky Pond.
+
+Sergei did his PhD with Joe Watkins in Applied Math / Statistics at the University of Arizona, then a postdoc on computational viral evolution with Simon Frost at UC San Diego. Then Sergei spend 12 years working on viruses (mostly HIV) at UC San Diego before moving to Temple in 2016. Broadly speaking, Sergei’s interesets are tools and methods for comparative genomics, evolutionary analysis and modeling. Sergei is currently a Professor of Biology at Temple University.
+
+Welcome, Sergei, and thank you for participating!

@@ -1,0 +1,10 @@
+Hello everyone, and welcome to phyloseminar.org.
+This is the first talk in a series on advances in mutation and selection models.
+
+Please use the YouTube live comment box to ask questions.
+
+Today's speaker is Ed Susko.
+
+Ed Susko received his PhD in 1996 from the University of Waterloo, working under the supervision of Jack Kalbfleisch and Jiahua Chen. After a postdoctoral fellowship at the University of Toronto, he joined the Department of Mathematics and Statistics at Dalhousie University in 1998. While there he became part of a larger group working on evolutionary questions of various sorts with some emphasis on deep divergences. Statistical issues in molecular evolution remain a focus of his research. He has worked on developing statistical tests, model selection, adaptive models and models for process heterogeneity.
+
+Welcome, Ed, and thank you for participating!
