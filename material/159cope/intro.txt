@@ -5,10 +5,6 @@ Please use the YouTube live comment box to ask questions.
 
 Today's speaker is Alex Cope.
 
-TODO: no bio paragraph was provided; only credentials:
-Alex Cope, PhD
-Postdoctoral Scholar
-Dept. of Biological Sciences - Rokas Lab
-Vanderbilt University
+Alex did his PhD with Dr. Mike Gilchrist and Dr. Bob Hettich at the University of Tennessee Knoxville and Oak Ridge National Laboratory. Broadly speaking, Alex studies the evolution of the proteome via the integration of models rooted in evolutionary theory with omics-scale data. Alex is currently on the job market.
 
 Welcome, Alex, and thank you for participating!
