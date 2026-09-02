@@ -1,7 +1,7 @@
-Mako==1.1.5
-Markdown==3.3.4
-MarkupSafe==2.0.1
-Pillow==8.3.2
-PyYAML==6.0
-python-dateutil==2.8.2
-six==1.16.0
+Mako==1.4.1
+Markdown==3.10.3
+MarkupSafe==3.0.3
+Pillow==12.3.0
+PyYAML==6.0.3
+python-dateutil==2.9.0.post0
+six==1.17.0
