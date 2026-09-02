@@ -2,25 +2,25 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="67.470001"
    height="67.470001"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    sodipodi:docname="tree_speech.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/matsen/favicon64.png"
-   inkscape:export-xdpi="85.371277"
-   inkscape:export-ydpi="85.371277">
+   inkscape:export-filename="/Users/matsen/Downloads/favicon64.png"
+   inkscape:export-xdpi="426.85638"
+   inkscape:export-ydpi="426.85638"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -29,13 +29,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="1199"
-     inkscape:window-width="1920"
+     inkscape:window-height="921"
+     inkscape:window-width="1024"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -47,16 +47,20 @@
      id="base"
      showgrid="false"
      inkscape:zoom="7.5366828"
-     inkscape:cx="72.211208"
-     inkscape:cy="10.886417"
-     inkscape:window-x="1600"
-     inkscape:window-y="0"
+     inkscape:cx="41.59655"
+     inkscape:cy="10.880118"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
      inkscape:current-layer="svg2"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff" />
   <defs
      id="defs4">
     <linearGradient
@@ -448,14 +452,13 @@
      inkscape:connector-curvature="0" />
   <text
      xml:space="preserve"
-     style="font-size:27.36063194px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
      x="49.989952"
      y="39.309124"
-     id="text4393"
-     sodipodi:linespacing="100%"><tspan
+     id="text4393"><tspan
        sodipodi:role="line"
        id="tspan4395"
        x="49.989952"
        y="39.309124"
-       style="font-size:27.36063194px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter">!</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.3606px;line-height:100%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter';text-align:start;writing-mode:lr-tb;text-anchor:start">!</tspan></text>
 </svg>
