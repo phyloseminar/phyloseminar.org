@@ -7,7 +7,7 @@
           % if 'youtube-url' in item:
           <a href="${item['youtube-url']}">
             ${item['name'] | h}
-            &nbsp;<i class="fa fa-youtube-play" aria-hidden="true" role="presentation"></i>
+            &nbsp;<i class="fa-brands fa-youtube" aria-hidden="true" role="presentation"></i>
           </a>
           % else:
           ${item['name'] | h}

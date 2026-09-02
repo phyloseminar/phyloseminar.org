@@ -16,7 +16,16 @@ id: home
 <div class="panel panel-default">
   <div class="panel-heading container">
     <div class="col-md-3">
+      % if 'youtube-url' in upcoming:
+      <div>
+        <a href="${upcoming['youtube-url']}">
+          ${upcoming['name'] | h}
+          &nbsp;<i class="fa-brands fa-youtube" aria-hidden="true" role="presentation"></i>
+        </a>
+      </div>
+      % else:
       <div>${upcoming['name'] | h}</div>
+      % endif
       % if 'institution' in upcoming:
       <div><small role="presentation">${upcoming['institution'] | h}</small></div>
       % endif
