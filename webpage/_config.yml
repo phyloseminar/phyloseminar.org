@@ -20,9 +20,12 @@ social:
 - text: Twitter
   url: http://twitter.com/phyloseminar
   icon: "fa-brands fa-twitter"
-- text: Google Groups
+- text: LinkedIn
+  url: https://www.linkedin.com/company/phyloseminar-org/
+  icon: "fa-brands fa-linkedin"
+- text: Mailing List
   url: https://groups.google.com/forum/?fromgroups#!forum/phyloseminar
-  icon: "fa-solid fa-users"
+  icon: "fa-solid fa-envelope"
 - text: RSS
   url: https://www.phyloseminar.org/index.rss
   icon: "fa-solid fa-rss"
