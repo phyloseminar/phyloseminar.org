@@ -115,6 +115,44 @@
     <div class="row">
       <div class="col-md-3">
         <div>
+          <a href="https://www.youtube.com/watch?v=1b2ozG22FxQ">
+            Sergei Kosakovsky Pond
+            &nbsp;<i class="fa-brands fa-youtube" aria-hidden="true" role="presentation"></i>
+          </a>
+        </div>
+        <div><small role="presentation">Temple University</small></div>
+      </div>
+      <div class="col-md-6">
+        <p>Attention on Evolution: Foundation Models for Molecular Adaptation and Epistasis</p>
+      </div>
+      <div class="col-md-3 text-right">
+        <time datetime="2026-10-19T09:00:00-07:00">
+          <script type="text/javascript">
+            <!--
+            localize_date("2026-10-19T09:00:00-07:00", { year: "numeric", month: "long", day: "numeric" });
+            //-->
+          </script>
+          <noscript>2026-10-19T09:00:00-07:00</noscript>
+        </time>
+      </div>
+    </div>
+  </div>
+  <div id="abstract00">
+    <div class="panel-body">
+      <div>
+        <p>Detecting molecular adaptation and allosteric co-evolution across macroscopic phylogenies is fundamental to evolutionary genomics and biology. However, workhorse method -- classical codon models -- require numerical optimization which scales poorly and become sensitive to data quality for modern datasets, rendering whole-genome sweeps computationally very expensive and noisy. I'll discuss HyphAeon, a phylogenetic nano-scale foundation model that replaces iterative likelihood fitting with an axial self-attention architecture. HyphAeon directly integrates evolutionary tree topologies into row attention through continuous-time Markov transition kernels and tree-scaled rotary embeddings, while employing block-diagonal channel disentanglement to prevent synonymous rates from confounding selective pressure.</p>
+<p>Operating up to 100,000 × faster than classical maximum likelihood (like HyPhy), HyphAeon screens whole mammalian (VGP scale) and avian genomes in minutes on standard consumer hardware. Beyond accelerating selection inference, training on phylogenetic alignments unlocks rich, unprompted emergent behaviors. The model’s internal representations capture multi-site epistatic co-evolution, delineating collective sectors that map functional allosteric networks. Furthermore, by evaluating lineage-specific episodic selection across thousands of homologous genes simultaneously, HyphAeon powers genome-wide phenotype-to-genotype association mapping—uncovering convergent molecular adaptation underlying complex ecological, dietary, and life-history traits. Simultaneously, digital deep mutational scanning quantifies sitewise genetic plasticity in seconds, transforming comparative genomics from a descriptive statistical pipeline into an ultra-fast, predictive engine for molecular evolution.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+  
+<div class="panel panel-default">
+  <div class="panel-heading container">
+    <div class="row">
+      <div class="col-md-3">
+        <div>
           <a href="https://www.youtube.com/watch?v=-1aJe0huByQ">
             Ed Susko
             &nbsp;<i class="fa-brands fa-youtube" aria-hidden="true" role="presentation"></i>
@@ -137,7 +175,7 @@
       </div>
     </div>
   </div>
-  <div id="abstract00">
+  <div id="abstract01">
     <div class="panel-body">
       <div>
         <p>Due to widely varying mutation and selection effects, realistic phylogenetic models for protein sequences from diverse taxa require that amino acid frequencies vary over both the sites and branches. Failure to model this compositional heterogeneity can lead to phylogenetic artefacts. However, the computational cost of phylogenetic inference with models accounting for compositional heterogeneity can be prohibitive. We present the modelling frameworks that we are using to adjust for this variation in frequencies of amino acids over sites in an alignment and over the tree. These include composite likelihood approaches for frequency estimation and the GFmix modeling framework which allows groups of amino acids to vary over branches in a tree. We argue that the use of mixture models ameliorates problems of over-parameterization and demonstrate through simulation and empirical examples the benefits of the framework.</p>
