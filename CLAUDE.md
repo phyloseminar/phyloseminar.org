@@ -40,3 +40,12 @@ Welcome, [First Name], and thank you for participating!
 ## Numbering
 
 Talks are numbered sequentially.
+
+## Seminar planning
+
+Series planning lives in `planning/`, which is gitignored because it holds private correspondence and this repo is public. Write nothing about invitations or speaker status into tracked files.
+
+- Use one file per series, `planning/YYYY-topic.md`, containing a speaker table, a next-actions checklist, and a dated log
+- When the user pastes an email, update the speaker's status and the log
+- Check candidate speakers against past speakers (`grep -h '^name' material/*/info.yaml`) and the literature (`bip` / nexus refs)
+- Draft emails for the user to send and never send them yourself
